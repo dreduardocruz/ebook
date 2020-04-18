@@ -1,0 +1,202 @@
+#====================Generalized LaTeX Makefile ver. 1.0.0========================================
+# Created by Kovid Goyal (based loosely on http://fuse.pha.jhu.edu/~wolven/Posters/Makefile)
+# Feel free to modify this beast to your heart's content.
+#
+#-----------------------------Customization HOWTO--------------------------------
+# To customize this file for your project, you need to edit only the contents of 
+# the first two boxes ("Project Paths" and "Project Names"). The entries are 
+# commented and reasonably self-explanantory. 
+#
+# In case you use non-standard compilers/programs, you will need to edit
+# the "Programs" section.
+#----------------------------------Use HOWTO-------------------------------------
+# Read the Customization HOWTO first! This file will NOT work without customization.
+# The targets that you will normally use are in the "Global Rules" section.
+# make all            - builds dvi, ps and pdf files
+# make quick          - runs latex once on the main file (without checking dependecies)
+# make view           - Runs the dvi viewer after compiling the .dvi file
+# make clean-all      - Removes all machine generated files
+# make source-archive - Creates an archive of all non-machine generated files
+# make dist-archive   - Creates an archive suitable for distribution to 3rd parties
+#=================================================================================================
+
+#==========================Projects Paths==================================
+# The directory containing .tex includes
+IncDir      = .
+# The directory containing bibliography source files (.bib)
+BibDir      = .
+# The directory containing the figures (.eps, .pdf)
+FigDir      = ./pix
+# The directory containig the local style files used (.sty)
+StyleDir    = .
+# The directory containing the local bibtex style files used (.bst)
+BibStyleDir = .
+#==========================================================================
+
+#===========================Project Names==================================
+# The main LaTeX file w/o suffix
+Main            = ebook
+# The names w/o suffixes of the .tex includes used in this project
+Includes        = bit-flip generalization
+# the BiBTex source files(.bib) w/o extension
+Biblios         = ebook
+# The names (w/o suffixes) of the image files used in this project
+Figures         = coverimg.jpg
+# The names w/o suffixes of the local latex style files used in this project
+Styles          = 
+# The names w/o suffixes of the local bibtex style files used in this project
+BibStyles       =  bibliografia
+
+# The base name for distribution archives of this project
+ArchiveName     = noise_induced_loss_of_entanglement
+
+# Miscellanuous sources needed to build the output
+# For e.g. files needed by the figure generator
+MiscSources     = ./Makefile $(FigDir)/functions.plt
+#==========================================================================
+
+#=============================Programs=====================================
+# The utility used to convert .eps images to .pdf images
+eps2pdf  = epstopdf
+# The LaTeX compiler (a common alternative is pslatex)
+LaTeX    = latex -interaction=errorstopmode
+# The PDFLaTeX compiler
+PDFLaTeX = pdflatex
+# The BiBTeX compiler
+BiBTeX   = bibtex
+# The .dvi to .ps converter
+dvi2ps   = dvips
+# The .dvi viewer
+Viewer   = xdvi -expert -paper a4 -s 3
+# The .pdf viewer
+PDFViewer= acroread
+# The .ps viewer
+PSViewer = gv
+#==========================================================================
+
+#=====================Calculated Paths/Variables============================
+mainFile      =  $(patsubst %, ./%.tex, $(Main))
+incFiles      =  $(patsubst %, $(IncDir)/%.tex, $(Includes))
+bibFiles      =  $(patsubst %, $(BibDir)/%.bib, $(Biblios))
+
+epsFigures    =  $(patsubst %, $(FigDir)/%.eps, $(Figures))
+pdfFigures    =  $(patsubst %, $(FigDir)/%.pdf, $(Figures))
+pltFigures    =  $(patsubst %, $(FigDir)/%.plt, $(Figures))
+
+styleFiles    =  $(patsubst %, $(StyleDir)/%.sty, $(Styles))
+bibstyleFiles =  $(patsubst %, $(BibStyleDir)/%.bst, $(BibStyles))
+
+sources       =  ${styleFiles} $(bibstyleFiles) $(mainFile) $(incFiles) $(bibFiles)
+#============================Global Rules==================================
+
+all : dvi ps pdf
+
+dvi : $(Main).dvi
+
+ps  : $(Main).ps
+
+pdf : $(Main).pdf
+
+# Meant for a quick single, unconditional compile
+quick :
+	$(LaTeX) $(mainFile)
+
+view : dvi
+	$(Viewer) $(Main).dvi &
+
+view-pdf : pdf
+	$(PDFViewer) $(Main).pdf
+
+view-ps : ps
+	$(PSViewer) $(Main).ps
+
+# Removes all machine generated files and does a complete recompile
+force : clean-all all
+
+# Creates an archive containing only non machine generated files
+# build the output
+source-archive:
+	@echo Creating archive named $(ArchiveName)-src.tar.bz2.
+	@echo Adding files...
+	@tar -cv --file=$(ArchiveName)-src.tar $(sources) $(pltFigures) $(MiscSources)
+	@bzip2 --best -f $(ArchiveName)-src.tar
+
+# Creates an archive that contains only the LaTeX sources and style files, the .bbl file,
+# the BiBTeX style files
+# and the generated eps imagefiles. Useful for distribution to journals/e-archives
+dist-archive: $(epsFigures) $(Main).bbl
+	@echo Creating archive named $(ArchiveName).tar.gz.
+	@echo Adding files...
+	@tar -cv --file=$(ArchiveName).tar $(mainFile) $(incFiles) ./$(Main).bbl $(epsFigures) $(styleFiles) $(bibstyleFiles)
+	@gzip --best -f $(ArchiveName).tar
+
+#=========================================================================
+
+#==============================Rules=======================================
+# Generate .eps images from the corresponding .plt scripts. In case the images 
+# are already present and do not need to be "built", you don't need .plt scripts
+%.eps : %.plt
+	@echo -n Making $@...
+	@./$<
+	@echo done.
+
+# Convert the .eps files into .pdf files for use by pdflatex.
+%.pdf : %.eps
+	@echo -n Making $@...
+	@$(eps2pdf) $<
+	@echo done.
+
+# Build rules for the various output and auxiliary files
+# You don't in general want to mess with these
+
+${Main}.bbl : ${epsFigures} $(sources)
+	$(LaTeX) $(mainFile)
+	$(BiBTeX) $(Main)
+
+${Main}.dvi : $(Main).bbl
+	$(LaTeX) $(mainFile)
+	$(LaTeX) $(mainFile)
+
+${Main}.ps : ${Main}.dvi
+	$(dvi2ps) $(Main).dvi -o $(Main).ps
+
+${Main}.pdf : ${Main}.bbl $(pdfFigures)
+	$(PDFLaTeX) $(mainFile)
+	$(PDFLaTeX) $(mainFile)
+
+#==========================================================================
+
+
+#=============================Clean Up=====================================
+clean-all : clean clean-figs clean-output clean-archives
+
+clean: clean-logs clean-aux
+	@echo -n Removing backup files...
+	@rm -f *~
+	@echo done.
+
+clean-figs:
+	@echo -n Removing image files...
+	@rm -f $(epsFigures) $(pdfFigures)
+	@echo done.
+
+clean-logs:
+	@echo -n Removing log files...
+	@rm -f $(Main).log $(Main).blg
+	@echo done.
+
+clean-aux:
+	@echo -n Removing auxiliary files...
+	@rm -f $(Main).aux $(Main).bbl
+	@echo done.
+
+clean-output:
+	@echo -n Removing output files...
+	@rm -f $(Main).dvi $(Main).ps $(Main).pdf
+	@echo done.
+
+clean-archives:
+	@echo -n Removing archive files...
+	@rm -f $(ArchiveName)*.bz2 $(ArchiveName)*.gz
+	@echo done.
+#==========================================================================

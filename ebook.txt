@@ -8713,6 +8713,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 \begin{enumerate}
 	 
 
+<<<<<<< HEAD
 \item Indicações da Eletroacupuntura
 
 \begin{itemize}
@@ -8739,12 +8740,41 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 
 
 \item Tipos de forma de pulso
+=======
+\item Indicações da Eletroacupuntura
+
+\begin{itemize}
+
+	\item Indicada para tratamento das mesmas doenças que são tratáveis através da acupuntura manual.
+	\item Quando se requer um estímulo mais forte, como na paralisias e neuralgias.
+	\item Quando se requer uma ação analgésica, como nas intervenções cirúrgicas e dor aguda e crônica.
+	\item Em pesquisas científicas, experimentais ou ensaios clínicos (maior controle dos vieses).
+	\item Permite mensurar e regular objetivamente a quantidade de estímulo, por meio da amplitude e frequência da corrente.
+\end{itemize}
+
+
+\item Contraindicações
+
+\begin{itemize}
+	\item Pacientes que não querem se submeter à essa técnica.
+	\item Pacientes portadores de marcapasso.
+	\item Paciente confusos.
+	\item Sobre região precordial, seios carotídeos, áreas da laringe, áreas com vasos sanguíneos propensos a hemorragia, útero gravídico, áreas próximas aos olhos e regiões de mucosa.
+	\item Não usar em contato a próteses metálicas.
+	\item Todas as outras contraindicações da acupuntura manual.
+\end{itemize}
+- 	
+
+
+\item Tipos de forma de pulso
+>>>>>>> 969745c551886f2ba63bf6cd8c75112e3a0576cc
 
 -\begin{itemize}
 	\item  Não polarizado, bifásico, formato retangular.
 
 \end{itemize}
 
+<<<<<<< HEAD
 \item Demonstrar conhecimento sobre tipo de padrões de corrente
 
 - \begin{itemize}
@@ -8773,13 +8803,47 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 
 \end{itemize}
 \item Realizar programação do tipo de padrão de corrente solicitado pelo examinador.
+=======
+\item Demonstrar conhecimento sobre tipo de padrões de corrente
+
+- \begin{itemize}
+	\item Tipo Contínua: a frequência dos pulsos se mantém a mesma durante todo o período de estimulação, sendo mais indicada em casos crônicos e dor pós-operatória.
+	\item Burst: intercala trens de pulso com períodos de repouso entre eles, sendo indicada em tratamentos clínicos.
+	\item Denso dispersa: intercala períodos de alta frequência com baixa frequência, sendo aplicada no tratamento das dores agudas.
+	\item Avançado: permite um controle maior dos parâmetros da forma de onda, largura de pulso ajustável, personalização de rampas (tempos de subida e descida) e opção para inclusão de ondulação da corrente aplicada durante o estímulo.
+\end{itemize}
+
+\item Tipos de neurotransmissores 
+
+\begin{itemize}
+	\item O estímulo de baixa frequência (2 a 10 Hz) estimula prioritariamente a liberação de betaendorfinas, que agem através dos receptores Mu, localizados nas lâminas III e IV do córtex cerebral, no tálamo, na substância cinzenta periaquedutal, na substância gelatinosa da medula espinhal e nos neurônios sensitivos periféricos. Indicada para tratamento de dores crônicas, dores musculoesqueléticas e síndromes miofasciais, e para síndromes disfuncionais, desarmonias e distúrbios anti-inflamatórios segundo a MTC. Efeito analgésico de longa duração (até 72 horas), estando associada aos fenômenos de neuroplasticidade extrassegmentar.
+	\item Os estímulos de alta frequência (15 a 100 Hz), promovem prioritariamente a liberação das Dinorfinas A e B, que agem nos receptores Kappa, levando a uma analgesia de curta duração, e promovem também a liberação de serotonina.  
+	\item Os estímulos de média frequência (10 s 15 Hz) promovem prioritariamente a liberação de encefalinas, que agem nos receptores Delta. Indicada para dor aguda, dor pós-operatória e obstétrica, dor de origem visceral ou espasmódica e dor neuropática. Efeito analgésico de curta duração (4 a 7 horas), sem ação anti-inflamatória, com desenvolvimento de tolerância.
+	\item Quando o estímulo da eletroacupuntura dura mais que 45 minutos, ocorre um incremento na liberação da colecistocinina (CCK-8), um peptídeo que diminui o efeito da acupuntura.
+\end{itemize} 
+
+
+\item Saber manusear o aparelho escolhido pelo próprio candidato 
+\begin{itemize}
+	\item Ligar o aparelho.
+	\item Verificar se botões de intensidade estão na posição neutra.
+	\item 
+	Verificar se cabos estão conectados corretamente, incluindo o cabo de energia e cabos dos eletrodos.
+
+\end{itemize}
+\item Realizar programação do tipo de padrão de corrente solicitado pelo examinador.
+>>>>>>> 969745c551886f2ba63bf6cd8c75112e3a0576cc
 
 \end{enumerate} 
 
 
 \underline{OBS: A estimulação elétrica nervosa transcutânea}
 
+<<<<<<< HEAD
 \textit{A estimulação elétrica nervosa transcutânea (TENS) é um recurso não farmacológico utilizado na modulação de dores agudas e crônicas. A TENS pode ser classificada em quatro modalidades: convencional, acupuntura, em rajadas (burst) e breve-intensa. A modalidade convencional tem alta frequência (10 a 200 Hz) e baixa intensidade e é comumente utilizada em dores agudas. Já a modalidade acupuntura tem baixa frequência (2 a 4 Hz) e alta intensidade e é mais usada em dores crônicas. A estimulação de um receptor tátil (mais precisamente fibra A beta), envia impulsos para a coluna dorsal e, também, por meio de interneurônios, inibe as células da substância gelatinosa, provavelmente pela liberação do ácido gama-aminobutírico (GABA), o que impedirá que as ações geradas pela estimulação nociva continuem sendo transmitidas, o que explica a ação da estimulação elétrica nervosa transcutânea (TENS). A modalidade TENS convencional (alta frequência e baixa intensidade) possui efeitos segmentares semelhantes ao da acupuntura, porém não iguais. Já a modalidade TENS acupuntura (baixa frequência e alta intensidade) possui semelhanças com a eletroacupuntura, embora já tenha sido demonstrado que produz respostas clínicas diferentes.} 
+=======
+\textit{A estimulação elétrica nervosa transcutânea (TENS) é um recurso não farmacológico utilizado na modulação de dores agudas e crônicas. A TENS pode ser classificada em quatro modalidades: convencional, acupuntura, em rajadas (burst) e breve-intensa. A modalidade convencional tem alta frequência (10 a 200 Hz) e baixa intensidade e é comumente utilizada em dores agudas. Já a modalidade acupuntura tem baixa frequência (2 a 4 Hz) e alta intensidade e é mais usada em dores crônicas. A estimulação de um receptor tátil (mais precisamente fibra A beta), envia impulsos para a coluna dorsal e, também, por meio de interneurônios, inibe as células da substância gelatinosa, provavelmente pela liberação do ácido gama-aminobutírico (GABA), o que impedirá que as ações geradas pela estimulação nociva continuem sendo transmitidas, o que explica a ação da estimulação elétrica nervosa transcutânea (TENS). A modalidade TENS convencional (alta frequência e baixa intensidade) possui efeitos segmentares semelhantes ao da acupuntura, porém não iguais. Já a modalidade TENS acupuntura (baixa frequência e alta intensidade) possui semelhanças com a eletroacupuntura, embora já tenha sido demonstrado que produz respostas clínicas diferentes.} 
+>>>>>>> 969745c551886f2ba63bf6cd8c75112e3a0576cc
 
 
 

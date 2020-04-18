@@ -1,0 +1,145 @@
+%TEMPLATE TO GENERATE PDF EASY READABLE ON 6'' EBOOK-READER
+%article=mwart;book=mwbk;report=mwrep
+%\documentclass[10pt,oneside]{mwbk} %polish style
+\documentclass[10pt,oneside]{book} %international style
+
+%adjusting for 6''
+\usepackage[paperwidth=9cm, paperheight=11.5cm, top=0.1cm, left=0.1cm, right=0.1cm, bottom=0.2cm]{geometry}
+
+% other packages (put here what you need)
+%\usepackage{polski} % polish package 
+%\usepackage[latin2]{inputenc}
+\usepackage[utf8x]{inputenc}
+\usepackage{ucs}
+\usepackage{graphicx} % images
+\usepackage[bookmarks=true,colorlinks=true,pdftex]{hyperref} %hyperlinks
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{indentfirst}
+\usepackage{natbib}
+%\usepackage{calc} % przeliczanie pozycji
+%\usepackage{amsmath} % matematyczne symbole
+%\usepackage{longtable} % dla dlugich tabel
+%\usepackage{multirow} % pomoc do tabel
+\usepackage[brazil]{babel}
+
+%FONTS my proposal is TeXGyre
+%\usepackage{tgtermes} %times like
+%\usepackage{tgcursor} %courier like
+%\usepackage{tgschola} %schoolbook like
+%\usepackage{tgpagella} %palatin like
+%\usepackage{tgchorus} %itc zapf chancery like
+%\usepackage{tgbonum} %bookman like
+%\usepackage{tgheros} %helvetica like
+\usepackage{tgadventor} %avant garde gothic like
+
+
+%IN ADDITION
+% on such a small "page", we have to let LaTeX to be sloppy
+
+
+
+
+%-------------------
+%ADDITIONAL INFO FOR PDF
+%INFO DLA PDF
+%\pdfinfo {
+	%/Author (\author)
+	%/Subject (ebook,)
+	%/Title (\title)
+	%/Creator (TexLive\&Linux)
+	%/Producer (pdflatex)
+	%/CreationDate (D:20121212121212)
+	%/ModDate (D:\pdfdate)
+	%/Keywords (ebook;6inches)
+%}
+
+
+
+
+
+
+%CREATE HERE A TITLE PAGE AS YOU LIKE. My proposal is:
+
+\begin{document}
+	
+
+	
+	
+	%%%SIMPLE TITLEPAGE
+%	\maketitle 
+%	\thispagestyle{empty}
+%	\clearpage
+%	\setcounter{tocdepth}{6}
+	
+	%TOC
+%	\tableofcontents
+%	\listoftables
+	%TUTAJ PISZ ALBO ZROB \INCLUDE{} LUB \INPUT{}
+
+
+	%\input{lorem.tex}
+%	\part{Questões separadas por assunto}
+%	\chapter{Pontos de acupuntura}
+%	\begin{itemize}
+%	\item \noindent	\hyperlink{pontos 1}{2013-01}\\
+%	\item \hyperlink{pontos 2}{2013-02}\\
+%	\item \hyperlink{pontos 3}{2013-03}\\
+%	\item \hyperlink{pontos 4}{2013-04}\\
+%	\item \hyperlink{pontos 5}{2013-05}\\
+%\end{itemize}
+
+	
+	
+%\part{Capítulos introdutórios}	
+% Capítulos introdutórios
+%\chapter{Prefácio}
+
+\textit{O estudo da Acupuntura médica é bastante difícil e ao mesmo tempo encantador.}
+ 
+\textit{Iniciamo-nos na Medicina Tradicional Chinesa ainda no ano de 2017, em Goiânia - GO, onde descobrimos uma nova forma de ver a medicina em sua forma mais antiga da história. Deixamos para trás toda a tecnologia e toda a complexa farmacologia, potencializamos a nossa imaginação em busca deste conhecimento novo e de uma nova teoria que para muitos parece tão abstrata.  Um paradoxo entre uma Medicina tão simples, mas ao mesmo tempo tão complexa e que funciona tão bem que, com o tempo, nos mostrou a grande verdade do pensamento de Leonardo da Vinci quando  diz:  “A Simplicidade é o último grau de Sofisticação.”}
+
+\textit{A idéia desta obra surgiu durante a nossa especialização, em meio a dificuldades cotidianas como tempo para estudo, trabalho, compromissos familiares e o preparo para o esperado TEAC - prova de título de especialista em Acupuntura Médica, promovida pelo Colégio Médico Brasileiro de Acupuntura. A semente do trabalho foi plantada e germinada pela união e reunião de um grande número de alunos, até então especializandos. Neste momento, ainda alunos, reunimo-nos, dividimos e sistematizamos 12 anos de provas de título, para que assim pudéssemos compartilhar entre nós mesmos as questões comentadas que facilitariam nosso estudo.}
+
+\textit{O resultado da metodologia veio com a aprovação de 98\% da turma do CMA-Goiás, todos com médias de notas altas, além da primeira nota 10 em toda a história da prova de títulos em Acupuntura médica, feito alcançado por um dos autores desta obra, a Dra. Silvia Ungareli.}
+
+\textit{Selecionamos os últimos 07 anos e resolvemos refazer todas as questões novamente visando padronizar, aprimorar a didática e revisar por mais uma vez o conteúdo para que fosse possível aos novos especializandos, usufruir deste nosso trabalho.}
+ 
+\textit{Ressaltamos a importância do estudo sistematizado nos tratados e na referência bibliográfica de cada curso, pois nosso objetivo não é e nunca foi substituí-los e sim proporcionar uma ferramenta a mais para o entendimento e fixação do aprendizado, preparando para provas e concursos que o leitor possa participar.}
+
+\textit{Assim, a obra está organizada por questões e também por temas.}
+
+
+
+
+%\part{Coletânea} Questões resolvidas e comentadas.
+
+
+
+
+%\chapter{TEAC 2013} TEAC 2013
+\hypertarget{pontos 1}{2013-01}
+
+ {QUESTÃO 01} - Usado para o tratamento da cefaléia e do torcicolo. Anatomicamente localizado em uma depressão entre o músculo esternocleidomastoideo e trapézio e, em posição profunda, no músculo esplênio da cabeça. Suprido pela artéria occipital e por um ramo do nervo occipital menor. Estamos nos referindo a qual ponto?  
+
+a) Du Mai 16 
+
+\textit{Situa-se na nuca, sob a protuberância occipital externa, na linha mediana do corpo, ou a um tsun acima da linha de inserção dos cabelos. Relaciona-se com os ramos cutâneos do nervo occipital terceiro (C) e com o nervo occipital maior (C2), ambos provindos do ramo dorsal.}
+
+b) TA 17
+ 
+\textit{Situa-se posteriormente ao lóbulo da orelha, em uma depressão interóssea, localizada entre o processo mastoideo e o ramo da mandíbula. Relaciona-se, superficialmente, com o nervo auricular magno (plexo cervical) e, profundamente, com os nervos auriculotemporal (ramo do nervo trigêmeo) e com o nervo facial.}
+
+c) VB 12 
+
+\emph{Situa-se em uma reentrância óssea localizada posterior e abaixo do processo mastóideo. Fletir o pescoço para sua determinação. Relaciona-se com o nervo occipital menor (plexo cervical - C2).}
+
+d) VB 20 
+
+\textbf{Trata-se de VB 20 que se situa em uma depressão óssea localizada entre o músculo esternocleidomastoideo e a inserção superior do músculo trapézio, ou na reentrância óssea localizada entre a protuberância occipital externa e o processo mastóideo ao nível de Du 16. Relaciona-se com o nervo occipital maior.}
+ 
+A Alternativa correta é letra D.
+
+
+\end{document}
