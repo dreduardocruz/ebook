@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.25)  27 JAN 2021 09:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.25)  27 JAN 2021 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1891,37 +1891,37 @@ Overfull \hbox (4.50002pt too wide) detected at line 28
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 29
- []\OT1/cmr/m/n/10 2007
+ []\OT1/cmr/m/n/10 2008
  []
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 30
- []\OT1/cmr/m/n/10 2008
+ []\OT1/cmr/m/n/10 2009
  []
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 31
- []\OT1/cmr/m/n/10 2008
+ []\OT1/cmr/m/n/10 2010
  []
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 32
- []\OT1/cmr/m/n/10 2009
+ []\OT1/cmr/m/n/10 2011
  []
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 33
- []\OT1/cmr/m/n/10 2009
+ []\OT1/cmr/m/n/10 2012
  []
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 34
- []\OT1/cmr/m/n/10 2010
+ []\OT1/cmr/m/n/10 2013
  []
 
 [32]
 Overfull \hbox (4.50002pt too wide) detected at line 35
- []\OT1/cmr/m/n/10 2010
+ []\OT1/cmr/m/n/10 2014
  []
 
 )
@@ -28100,7 +28100,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ]
 Cap\'{\i }tulo 10.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8405--8406
+Underfull \hbox (badness 10000) in paragraph at lines 8420--8421
 
  []
 
@@ -28139,73 +28139,73 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2005] [2006] [2007] [2008] [2009] [2010]
+[2005] [2006] [2007] [2008] [2009] [2010] [2011] [2012] [2013] [2014]
 Cap\'{\i }tulo 11.
-[2011
+[2015
 
 ]
-Underfull \hbox (badness 8151) in paragraph at lines 8766--8767
+Underfull \hbox (badness 8151) in paragraph at lines 8790--8791
 \OT1/cmr/m/n/10 ^^Sareas da la-ringe, ^^Sareas com va-sos
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 8766--8767
+Underfull \hbox (badness 1168) in paragraph at lines 8790--8791
 \OT1/cmr/m/n/10 grav^^S^^Pdico, ^^Sareas pr^^Soximas aos olhos e
  []
 
-[2012]
-Underfull \hbox (badness 7486) in paragraph at lines 8780--8781
+[2016]
+Underfull \hbox (badness 7486) in paragraph at lines 8804--8805
 []\OT1/cmr/m/n/10 Demonstrar co-nhe-ci-mento so-bre tipo de
  []
 
-[2013]
-Underfull \hbox (badness 3354) in paragraph at lines 8784--8785
+[2017]
+Underfull \hbox (badness 3354) in paragraph at lines 8808--8809
 []\OT1/cmr/m/n/10 Burst: in-ter-cala trens de pulso com
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 8792--8793
+Underfull \hbox (badness 1454) in paragraph at lines 8816--8817
 []\OT1/cmr/m/n/10 O est^^S^^Pmulo de baixa frequ^encia (2 a
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 8792--8793
+Underfull \hbox (badness 2351) in paragraph at lines 8816--8817
 \OT1/cmr/m/n/10 bera^^Xc~ao de be-ta-en-dor-fi-nas, que agem
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 8792--8793
+Underfull \hbox (badness 1082) in paragraph at lines 8816--8817
 \OT1/cmr/m/n/10 dis-fun-ci-o-nais, de-sar-mo-nias e dist^^Surbios
  []
 
-[2014] [2015]
-Underfull \hbox (badness 1077) in paragraph at lines 8794--8795
+[2018] [2019]
+Underfull \hbox (badness 1077) in paragraph at lines 8818--8819
 \OT1/cmr/m/n/10 ori-gem vis-ce-ral ou es-pasm^^Sodica e dor
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 8799--8800
+Underfull \hbox (badness 1365) in paragraph at lines 8823--8824
 []\OT1/cmr/m/n/10 Saber ma-nu-sear o apa-re-lho es-co-lhido pelo
  []
 
-[2016]
-Overfull \hbox (6.37833pt too wide) in paragraph at lines 8812--8813
+[2020]
+Overfull \hbox (6.37833pt too wide) in paragraph at lines 8836--8837
 []$[]$ 
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 8814--8815
+Underfull \hbox (badness 3354) in paragraph at lines 8838--8839
 []\OT1/cmr/m/it/10 A es-ti-mula^^Xc~ao el^^Setrica ner-vosa trans-cut^anea
  []
 
-[2017] (./ebook.bbl [2018] [2019
+[2021] (./ebook.bbl [2022] [2023
 
 ])
 
-Package natbib Warning: Citation `bittar2014manual' undefined on input line 882
-7.
+Package natbib Warning: Citation `bittar2014manual' undefined on input line 885
+1.
 
-(./ebook.ind [2020]
+(./ebook.ind [2024]
 Underfull \hbox (badness 2922) in paragraph at lines 7--9
 []\OT1/cmr/m/n/10 asma, [][]221[][], [][]319[][], [][]1311[][],
  []
@@ -28241,7 +28241,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--24
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2021
+ [2025
 
 ]
 Underfull \hbox (badness 1478) in paragraph at lines 26--28
@@ -28296,7 +28296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--64
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2022]
+ [2026]
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
 []| \OT1/cmr/m/n/10 me-ta-tar-so-fa-lan-ge-a-
  []
@@ -28351,7 +28351,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--95
 [][]\OT1/cmr/m/n/10 1740[][], [][]1743[][],
  []
 
-[2023]
+[2027]
 Underfull \hbox (badness 10000) in paragraph at lines 101--102
 []\OT1/cmr/m/n/10 espondiloartropatias
  []
@@ -28431,7 +28431,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--141
 []\OT1/cmr/m/n/10 incontin^encia urin^^Saria,
  []
 
-[2024]
+[2028]
 Underfull \hbox (badness 1810) in paragraph at lines 155--156
 []\OT1/cmr/m/n/10 mecanismo da acu-pun-
  []
@@ -28579,7 +28579,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--189
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2025]
+ [2029]
 Underfull \hbox (badness 2165) in paragraph at lines 191--193
 []| \OT1/cmr/m/n/10 t^^Secnicas, [][]166[][], [][]442[][],
  []
@@ -28732,7 +28732,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--230
 [][]\OT1/cmr/m/n/10 1751[][], [][]1973[][],
  []
 
-[2026]
+[2030]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -28830,7 +28830,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 245--257
 [][]\OT1/cmr/m/n/10 1641[][], [][]1642[][],
  []
 
-[2027]
+[2031]
 Underfull \hbox (badness 10000) in paragraph at lines 258--261
 []\OT1/cmr/m/n/10 psiquiatria, [][]207[][], [][]337[][],
  []
@@ -28873,7 +28873,7 @@ Underfull \hbox (badness 2073) in paragraph at lines 282--284
 \OT1/cmr/m/n/10 Ir-rit^^Savel, [][]1444[][],
  []
 
-[2028]
+[2032]
 Underfull \hbox (badness 3240) in paragraph at lines 285--287
 []\OT1/cmr/m/n/10 s^^S^^Pndrome do t^^Sunel do
  []
@@ -28928,7 +28928,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 325--329
 [][]\OT1/cmr/m/n/10 1660[][], [][]1666[][],
  []
 
-[2029]
+[2033]
 Underfull \hbox (badness 10000) in paragraph at lines 329--331
 []\OT1/cmr/m/n/10 zumbido, [][]123[][], [][]1014[][],
  []
@@ -28938,12 +28938,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 329--331
 [][]\OT1/cmr/m/n/10 1155[][], [][]1572[][],
  []
 
-[2030
+[2034
 
-]) [2031
+]) [2035
 
 
-] [2032] [2033] [2034]
+] [2036] [2037] [2038]
 
 Package natbib Warning: There were undefined citations.
 
@@ -28952,20 +28952,20 @@ Package glossaries Warning: No \printglossary or \printglossaries found.
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8873.
-[2035]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 8873.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8897.
+[2039]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 8897.
  (./ebook.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 8873.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 8873.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 8897.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 8897.
 
 Package rerunfilecheck Info: File `ebook.out' has not changed.
 (rerunfilecheck)             Checksum: AF96CE9E8DFA51A83FEC4148081E8285;32246.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8873.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8897.
  ) 
 Here is how much of TeX's memory you used:
- 18243 strings out of 480906
- 275609 string characters out of 5910772
+ 18247 strings out of 480906
+ 275645 string characters out of 5910772
  684205 words of memory out of 5000000
  30938 multiletter control sequences out of 15000+600000
  544616 words of font info for 65 fonts, out of 8000000 for 9000
@@ -28982,10 +28982,10 @@ ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/m
 sam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/shar
 e/texmf/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ebook.pdf (2037 pages, 2578138 bytes).
+Output written on ebook.pdf (2041 pages, 2580040 bytes).
 PDF statistics:
- 12353 PDF objects out of 12825 (max. 8388607)
- 10200 compressed objects within 102 object streams
- 2584 named destinations out of 2984 (max. 500000)
+ 12372 PDF objects out of 12825 (max. 8388607)
+ 10214 compressed objects within 103 object streams
+ 2588 named destinations out of 2984 (max. 500000)
  4038 words of extra memory for PDF output out of 10000 (max. 10000000)
 
