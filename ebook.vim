@@ -178,9 +178,11 @@ Eduardo Cruz
 
 \textit{Dedicatórias :}
 
-\textit{Dedico este livro a minha esposa Ana Lúcia, a minha mãe Luzia e a meus filhos  Adriano, Laura e Luisa.}
+\textit{Dedico este livro a minha esposa Ana Lúcia, a minha mãe Luzia e a meus filhos Laura e Luisa, Adriano Filho e  Mariana.
+Adriano Höhl}
 
-\textit{Adriano Höhl}\\
+
+
 
 \textit{Dedico este livro a minha esposa Tânia Mara, aos meus filhos Gabriel, Eduardo e Hugo.}
 
@@ -201,19 +203,14 @@ Eduardo Cruz
 
 \chapter*{Prefácio}
 
-\textit{O estudo da Acupuntura médica é bastante difícil e ao mesmo tempo encantador.}
- 
-\textit{Iniciamo-nos na Medicina Tradicional Chinesa ainda no ano de 2017, em Goiânia - GO, onde descobrimos uma nova forma de ver a medicina em sua forma mais antiga da história. Deixamos para trás toda a tecnologia e toda a complexa farmacologia, potencializamos a nossa imaginação em busca deste conhecimento novo e de uma nova teoria que para muitos parece tão abstrata.  Um paradoxo entre uma Medicina tão simples, mas ao mesmo tempo tão complexa e que funciona tão bem que, com o tempo, nos mostrou a grande verdade do pensamento de Leonardo da Vinci quando  diz:  “A Simplicidade é o último grau de Sofisticação.”}
-
-\textit{A idéia desta obra surgiu durante a nossa especialização, em meio a dificuldades cotidianas como tempo para estudo, trabalho, compromissos familiares e o preparo para o esperado TEAC - prova de título de especialista em Acupuntura Médica, promovida pelo Colégio Médico Brasileiro de Acupuntura. A semente do trabalho foi plantada e germinada pela união e reunião de um grande número de alunos, até então especializandos. Neste momento, ainda alunos, reunimo-nos, dividimos e sistematizamos 12 anos de provas de título, para que assim pudéssemos compartilhar entre nós mesmos as questões comentadas que facilitariam nosso estudo.}
-
-\textit{O resultado da metodologia veio com a aprovação de 98\% da turma do CMA-Goiás, todos com médias de notas altas, além da primeira nota 10 em toda a história da prova de títulos em Acupuntura médica, feito alcançado por um dos autores desta obra, a Dra. Silvia Ungarelli}
-
-\textit{Selecionamos os últimos 07 anos e resolvemos refazer todas as questões novamente visando padronizar, aprimorar a didática e revisar por mais uma vez o conteúdo para que fosse possível aos novos especializandos, usufruir deste nosso trabalho.}
- 
-\textit{Ressaltamos a importância do estudo sistematizado nos tratados e na referência bibliográfica de cada curso, pois nosso objetivo não é e nunca foi substituí-los e sim proporcionar uma ferramenta a mais para o entendimento e fixação do aprendizado, preparando para provas e concursos que o leitor possa participar.}
-
-\textit{Assim, a obra está organizada por questões e no Índice Remissivo pode-se pesquisar por temas.}
+\textit{O estudo da Acupuntura médica  e bastante difícil e ao mesmo tempo encantador. 
+	Iniciamos os  estudos na  Medicina Tradicional Chinesa ainda no ano de 2017, em Goiânia, onde descobrimos uma nova forma de ver a medicina em sua forma mais antiga da história. Deixamos para trás toda a tecnologia e toda a complexa farmacologia, potencializamos a nossa imaginação em busca deste conhecimento novo e de uma nova teoria que  para muitos parece tão abstrata. Um paradoxo entre uma Medicina tãoo simples, mas ao mesmo tempo tão complexa e que funciona tão bem que, com o tempo, nos mostrou a grande verdade do pensamento de Leonardo da Vinci quando diz: “A Simplicidade é o último grau de Sofisticação.” A ideia desta obra surgiu durante a nossa especialização, em meio a dificuldades cotidianas como tempo para estudo, trabalho, compromissos familiares e o preparo para o esperado TEAC - prova de título de especialista em Acupuntura Médica, promovida pelo Colégio Médico Brasileiro de Acupuntura. A semente do trabalho foi plantada e germinada pela união e reunião de um grande número de alunos, até então especializandos. Neste momento, ainda alunos, reunimo-nos, dividimos e sistematizamos 12 anos de provas de título, para que assim pudéssemos compartilhar entre nós mesmos as questões comentadas que facilitariam nosso estudo. O resultado da metodologia veio com a aprovação de 98\% da turma do CMA-Goiás, todos com médias de notas altas, além  da conquista  da primeira nota 10 em toda a história da prova de títulos  em Acupuntura Médica, feito alcançado por um dos autores desta obra, a Dra. Silvia Ungarelli.
+	Em Janeiro de 2020 selecionamos os  últimos 07 anos e resolvemos refazer todas as questões de forma diferente, visando padronizar, aprimorar a didática, com respostas mais completas  de uma forma que  o conteúdo  possibilitasse aos novos especializandos, usufruir deste nosso trabalho e aos  médicos acupunturiatras,  revisar alguns assuntos específicos.  
+	Logo no mês de   Março,  fizemos um contato com o Dr André Tsai, que havia nos dado aula na especialização, apresentando o trabalho iniciado e ele então, nos apresentou  o Dr Luciano Curuci, também professor  nos cursos de acupuntura,  e  daí então trabalhamos juntos  até a conclusão do  livro. 
+	No ultimo, mês de janeiro após concluídas as revisões, resolvemos  adicionar a última prova de 2020, a fim de tornar a obra mais completa e atualizada.  
+	Ressaltamos a importância do estudo sistematizado nos tratados e na referência bibliográfica de cada curso, pois nosso objetivo nunca foi substituí-los e sim proporcionar uma ferramenta a mais para o entendimento e fixação do aprendizado, preparando para provas e concursos que o leitor possa participar. 
+	Assim, a obra está organizada por questões e no Índice Remissivo pode-se pesquisar por temas, indo direto às questões existentes. 
+	Esperamos que aproveitem e que Gostem.}
 
 \pagestyle{plain}
 
@@ -7413,6 +7410,9 @@ d) Os pontos: VB 20, F 3, TA 17 e ID 19 e PC 6 são indicados na doença de Mén
 
 \chapter{TEAC 2020}TEAC 2020 
 
+
+
+
 \index{neurologia!mecanismo da acupuntura}
 \subsubsection{QUESTÃO 62}-Sobre os mecanismos de ação da acupuntura é correto afirmar: \\
 
@@ -7441,6 +7441,33 @@ d) O intervalo ideal entre as aplicações para se obter a somação dos efeitos
 \textit{O intervalo ideal entre as aplicações para se obter o efeito cumulativo da acupuntura varia de acordo com o estado clínico do paciente e com a natureza e gravidade da doença. Para casos agudos, as sessões podem ser realizadas em dias alternados e já para os casos crônicos, o intervalo entre uma sessão e outra pode ser maior (até 7 dias). Conforme a evolução clínica, determina-se maior ou menor frequência das sessões. Deve-se ressaltar que, tanto o tempo de duração da sessão como um intervalo abaixo do ideal para o efeito cumulativo da acupuntura podem levar à tolerância, fenômeno em que o paciente passa a não responder ao tratamento prescrito.} \\
 \textbf{A alternativa correta é letra a B.}\\
 
+
+\index{neurologia!mecanismo da acupuntura}
+\subsubsection{QUESTÃO 68}-Em relação a participação das células da ampla variação dinâmica nas vias nociceptivas, é verdadeiro afirmar:
+
+a) Elas estimulam as células pedunculares.\\
+\textit{Os estímulos dolorosos são veiculados através de nociceptores localizados nas fibras A$\delta$ e nas fibras C. Os nociceptores polimodais (estímulos mecânicos, térmicos e químicos) aferentes primários das fibras do tipo C se projetam para as células da Substância Gelatinosa (SG), área entre as Lâminas I e II de Rexed do corno dorsal da medula, de onde partem impulsos excitatórios até as células de Ampla Variação Dinâmica (AVD) ou convergentes, localizadas prioritariamente na lâmina V de Rexed, cujos axônios alcançam o cérebro, permitindo a interpretação do sinal doloroso. Os receptores mecano-térmicos das fibras aferentes primárias do tipo A$\delta$ se projetam para as células marginais ou neurônios nociceptivos específicos (NS) ou células grandes marginais de Waldeyer, localizados na Lâmina I de Rexed, e para as células pedunculares, localizadas na SG. O estímulo excitatório gerado pela fibra A$\delta$ sobre as células marginais gera informações que são levadas pelo trato espinotalâmico até o cérebro, onde a sensação dolorosa será interpretada. O estímulo excitatório sobre as células pedunculares na SG faz com que tais células produzam encefalina, neurotransmissor que atua tanto na lâmina II quanto na V de Rexed, onde chega através dos interneurônios, inibindo as células de AVD e bloqueando, assim, a passagem do estímulo das fibras C do primeiro para o segundo neurônio da via da dor, com consequente minimização da sensação dolorosa. Portanto, as células de AVD são inibidas pelas células pedunculares, que, por sua vez, são estimuladas pelas células marginais.}\\
+b) Elas inibem a passagem do estímulo doloroso para as vias espinorreticulares.\\
+\textit{Os neurônios de AVD ou convergentes, localizados prioritariamente na lâmina V de Rexed, participam da facilitação da transmissão nervosa do primeiro para o segundo neurônio da via da dor, e não da inibição da passagem do estímulo doloroso.}\\
+c) Elas relacionam-se preferencialmente com o trato espinotalâmico anterior.\\
+\textit{Os axônios das células AVD se projetam, através do trato espinorreticular, para o cérebro, onde o estímulo será interpretado conscientemente como doloroso.}\\
+d) Elas estão em grande concentração na lâmina V de Rexed.\\
+\textit{Na lâmina V existe uma maior concentração dos neurônios de AVD.}\\
+
+\textbf{A alternativa correta é letra a D.}\\
+
+\index{neurologia!mecanismo da acupuntura}
+\subsubsection{QUESTÃO 69}-Quanto ao mecanismo do estímulo da agulha no tratamento das diversas enfermidades, é correto afirmar:\\
+
+a) TENS (Estímulo Elétrico Nervoso Transcutâneo) padronizado em alta frequência, possui efeitos segmentares semelhantes ao da acupuntura ao estimular as fibras nervosas A delta e induzir a produção do neurotransmissor GABA (Ácido Gama Amino Butírico).\\
+\textit{A estimulação elétrica nervosa transcutânea (TENS) é um recurso não farmacológico utilizado na modulação de dores agudas e crônicas. A TENS pode ser classificada em várias modalidades, sendo que as três mais utilizadas são: convencional (ou contínua), acupuntura e do tipo pulso (disparo). A modalidade convencional tem alta frequência (40 - 150 Hz) e baixa intensidade e é comumente utilizada em dores agudas. Já a modalidade TENS acupuntura tem baixa frequência (1 - 2 Hz) e alta intensidade e é mais usada em dores crônicas. A modalidade do tipo pulso tem frequência e intensidade baixas. Em todas as modalidades da TENS a fibra recrutada é a fibra A$\beta$ (receptor tátil) e não a fibra A$\delta$, que é a principal fibra estimulada pela inserção da agulha. A estimulação da fibra A$\beta$ envia impulsos para a coluna dorsal da medula, onde interneurônios promovem, então, a inibição das células da Substância Gelatinosa (SG), provavelmente pela liberação do ácido $\gamma$-aminobutírico (GABA), o que impedirá que os impulsos nociceptivos continuem sendo transmitidos para as células de Ampla Variação Dinâmica (AVD).}\\
+b) O TENS de alta frequência é igual a EAc, é muitas vezes chamado de TENS tipo acupuntura e produz uma resposta terapêutica igual à acupuntura. \\
+\textit{A modalidade TENS convencional (alta frequência e baixa intensidade) possui efeitos segmentares semelhantes ao da acupuntura, porém não iguais. Já a modalidade TENS acupuntura (baixa frequência e alta intensidade) possui semelhanças com a eletroacupuntura, embora já tenha sido demonstrado que produz respostas clínicas diferentes.} \\
+c) As agulhas de acupuntura estimulam mecanoreceptores do músculo e são provavelmente muito mais eficazes se forem manipuladas de forma a produzirem a sensação do agulhamento (de Qi), ou se forem eletricamente estimuladas para produzirem contrações musculares.\\
+\textit{As agulhas de acupuntura estimulam as fibras nervosas A$\delta$ da pele e as fibras nervosas tipo III nos músculos. O “Te Qi” é muito importante e garante a eficácia da aplicação de acupuntura. Se a “sensação” chega rápido, o efeito da acupuntura também chega rápido; se o “Te Qi” tarda a chegar, o mesmo acontece com a eficácia. Se, com a introdução e a profundidades adequadas não se obtiver o “Te Qi” espontaneamente, deve-se procurar modificar o ângulo da introdução ou a profundidade da inserção, já que muitas vezes o “Te Qi” não surge porque o Canal de Energia pode estar em vazio. Além disso, quando a inserção da agulha de acupuntura atinge os fusos musculares, são acionadas fibras aferentes sensoriais que, ao serem conduzidas até a medula, estimulam reflexamente efetores miorrelaxantes (ação sobre o tônus e relaxamento muscular), o que interrompe o ciclo vicioso de dor - espasmo muscular - isquemia - espasmo muscular - dor. Por fim, a hiperestimulação das agulhas através da estimulação elétrica promove a contração muscular, recrutando mais fibras nervosas de localização intramuscular, e, dessa forma, modulando neuroquimicamente os impulsos dolorosos no corno dorsal da medula espinhal e no encéfalo, potencializando os efeitos da acupuntura.}\\
+d) A liberação de diferentes neurotransmissores depende até certo ponto da frequência da estimulação. A estimulação elétrica prolongada, por exemplo, libera agonistas endógenos aos peptídeos opióides, como a colecistocinina.\\
+\textit{A liberação de diferentes neurotransmissores depende até certo ponto da frequência de estimulação utilizada. No caso da eletroacupuntura (EA) de baixa frequência, estimula-se prioritariamente a liberação de beta endorfina no pedúnculo cerebral e no hipotálamo e em menor grau, a liberação de metencefalina e dinorfina na medula espinhal. No caso da EA de alta frequência, os neurotransmissores liberados prioritariamente são a serotonina e as dinorfinas. Quando se utiliza EA com média frequência, libera-se prioritariamente a encefalina. Caso a estimulação elétrica seja prolongada, ocorre a liberação de um antagonista (e não de um agonista) endógeno dos peptídeos opióides, como a colecistocinina (CCK-8), que reduz os efeitos benéficos da acupuntura.}\\
+\textbf{A alternativa correta é letra a C.}\\
 
 
 \part*
@@ -7471,6 +7498,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 			{\renewcommand\arraystretch{1.25}
 					\caption{Seleção de pontos}(Na terceira coluna marcar $\surd$ ou X casa tenha acertado ou errado a posição do acuponto.)
+					\vspace{0.5cm}
 				
 					\begin{tabular}{ l l l }
 						\cline{1-1}\cline{2-2}\cline{3-3}
@@ -7533,6 +7561,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -7595,6 +7624,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -7657,6 +7687,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -7719,6 +7750,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -7781,6 +7813,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -7843,6 +7876,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -7905,6 +7939,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -7968,6 +8003,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8031,6 +8067,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8093,6 +8130,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8155,6 +8193,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8218,6 +8257,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8281,6 +8321,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8343,6 +8384,7 @@ Neste capítulo encontram -se  planilhas de  simulações de  sequencias de pont
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de pontos}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8417,6 +8459,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Aurículo Chinesa}(Na terceira coluna marcar $\surd$ ou X casa tenha acertado ou errado a posição do Ponto de Auriculoterapia Chinesa)
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8454,6 +8497,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\centering
 {\renewcommand\arraystretch{1.25}
 	\caption{Seleção de Pontos de Auriculoterapia Chinesa}
+	\vspace{0.5cm}
 	
 	\begin{tabular}{ l l l }
 		\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8490,6 +8534,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de Pontos de Auriculoterapia Chinesa}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8526,6 +8571,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de Pontos de Auriculoterapia Chinesa}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8562,6 +8608,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de Pontos de Auriculoterapia Chinesa}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8598,6 +8645,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de Pontos de Auriculoterapia Chinesa}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8635,6 +8683,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de Pontos de Auriculoterapia Chinesa}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8671,6 +8720,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de Pontos de Auriculoterapia Chinesa}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8707,6 +8757,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\centering
 	{\renewcommand\arraystretch{1.25}
 		\caption{Seleção de Pontos de Auriculoterapia Chinesa}
+		\vspace{0.5cm}
 		
 		\begin{tabular}{ l l l }
 			\cline{1-1}\cline{2-2}\cline{3-3}
@@ -8862,7 +8913,7 @@ Neste capitulo encontram-se   planilhas de  simulações de  sequencias de ponto
 	\item SG	Substância Gelatinosa
 	\item NMC	Núcleo Magno Celular
 	\item NG	Núcleo Gigantocelular
-	\item BNDF      Fator Neurotrófico Derivado do Cérebro
+	\item BNDF  Fator Neurotrófico Derivado do Cérebro
 	\item SII	Síndrome do Intestino Irritável
 	\item ENM	Eletroneuromiografia
 	\item DPIS	Sistema Inibidor Descendente de Dor 

@@ -498,8 +498,18 @@
 \contentsline {subsubsection}{QUEST\IeC {\~A}O 69}{1963}{section*.494}%
 \contentsline {subsubsection}{QUEST\IeC {\~A}O 70}{1968}{section*.495}%
 \contentsline {chapter}{\numberline {8}TEAC 2020}{1973}{chapter.8}%
-\contentsline {subsubsection}{QUEST\IeC {\~A}O 62}{1974}{section*.496}%
-\contentsline {subsubsection}{QUEST\IeC {\~A}O 67}{1979}{section*.497}%
-\contentsline {chapter}{\numberline {9}Exerc\IeC {\'\i }cios de Acupontos}{1985}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Exerc\IeC {\'\i }cios de Auriculoterapia Chinesa}{2003}{chapter.10}%
-\contentsline {chapter}{\numberline {11}A prova pr\IeC {\'a}tica de Eletroacupuntura}{2015}{chapter.11}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 12}{1974}{section*.496}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 20}{1975}{section*.497}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 27}{1976}{section*.498}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 30}{1979}{section*.499}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 31}{1981}{section*.500}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 32}{1984}{section*.501}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 48}{1986}{section*.502}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 62}{1988}{section*.503}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 63}{1994}{section*.504}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 67}{1996}{section*.505}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 68}{2000}{section*.506}%
+\contentsline {subsubsection}{QUEST\IeC {\~A}O 69}{2003}{section*.507}%
+\contentsline {chapter}{\numberline {9}Exerc\IeC {\'\i }cios de Acupontos}{2011}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Exerc\IeC {\'\i }cios de Auriculoterapia Chinesa}{2029}{chapter.10}%
+\contentsline {chapter}{\numberline {11}A prova pr\IeC {\'a}tica de Eletroacupuntura}{2041}{chapter.11}%
