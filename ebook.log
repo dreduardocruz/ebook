@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.25)  10 FEB 2021 13:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.25)  10 FEB 2021 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -209,69 +209,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip50
-
-For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
-\ex@=\dimen149
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen150
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
-)
-\inf@bad=\count191
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count192
-\leftroot@=\count193
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count194
-\DOTSCASE@=\count195
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box45
-\strutbox@=\box46
-\big@size=\dimen151
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count196
-\c@MaxMatrixCols=\count197
-\dotsspace@=\muskip17
-\c@parentequation=\count198
-\dspbrk@lvl=\count199
-\tag@help=\toks23
-\row@=\count266
-\column@=\count267
-\maxfields@=\count268
-\andhelp@=\toks24
-\eqnshift@=\dimen152
-\alignsep@=\dimen153
-\tagshift@=\dimen154
-\tagwidth@=\dimen155
-\totwidth@=\dimen156
-\lineht@=\dimen157
-\@envbody=\toks25
-\multlinegap=\skip51
-\multlinetaggap=\skip52
-\mathdisplay@stack=\toks26
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
-)
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -280,42 +223,36 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks27
-\thm@bodyfont=\toks28
-\thm@headfont=\toks29
-\thm@notefont=\toks30
-\thm@headpunct=\toks31
-\thm@preskip=\skip53
-\thm@postskip=\skip54
-\thm@headsep=\skip55
-\dth@everypar=\toks32
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks28
 )
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip56
-\bibsep=\skip57
+\bibhang=\skip53
+\bibsep=\skip54
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count269
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+\c@NAT@ctr=\count191
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/07/13 3.47 The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/07/13 3.47 Babel common definitions
-\babel@savecnt=\count270
-\U@D=\dimen158
+\babel@savecnt=\count192
+\U@D=\dimen149
 \l@babelnohyphens=\language86
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count271
+\bbl@dirlevel=\count193
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/brazil.ldf
 Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
@@ -323,9 +260,6 @@ Package babel Info: \l@brazil = using hyphenrules for portuguese
 (babel)             (\language28) on input line 111.
 Package babel Info: Making " an active character on input line 143.
 ))
-(/usr/share/texmf/tex/latex/tex-gyre/tgcursor.sty
-Package: tgcursor 2009/09/10 v1.2 TeX Gyre Cursor as default typewriter family
-)
 \@glossaryfile=\write3
 \openout3 = `ebook.glo'.
 
@@ -337,8 +271,8 @@ Writing glossary file ebook.glo
 Writing index file ebook.idx
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count272
-\l__pdf_internal_box=\box47
+\l__kernel_color_stack_int=\count194
+\l__pdf_internal_box=\box45
 )
 (./ebook.aux
 
@@ -415,17 +349,17 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count273
-\scratchdimen=\dimen159
-\scratchbox=\box48
-\nofMPsegments=\count274
-\nofMParguments=\count275
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count276
-\MPscratchDim=\dimen160
-\MPnumerator=\count277
-\makeMPintoPDFobject=\count278
-\everyMPtoPDFconversion=\toks34
+\scratchcounter=\count195
+\scratchdimen=\dimen150
+\scratchbox=\box46
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen151
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks30
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -443,7 +377,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box49
+\AtBeginShipoutBox=\box47
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
@@ -464,7 +398,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count279
+\c@section@level=\count267
 )
 LaTeX Info: Redefining \ref on input line 87.
 LaTeX Info: Redefining \pageref on input line 87.
@@ -537,7 +471,7 @@ Overfull \hbox (4.50002pt too wide) detected at line 278
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 279
- []\OT1/cmr/m/n/10 1011
+ []\OT1/cmr/m/n/10 1010
  []
 
 
@@ -552,12 +486,12 @@ Overfull \hbox (4.50002pt too wide) detected at line 281
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 282
- []\OT1/cmr/m/n/10 1016
+ []\OT1/cmr/m/n/10 1015
  []
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 283
- []\OT1/cmr/m/n/10 1018
+ []\OT1/cmr/m/n/10 1017
  []
 
 
@@ -567,12 +501,12 @@ Overfull \hbox (4.50002pt too wide) detected at line 284
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 285
- []\OT1/cmr/m/n/10 1022
+ []\OT1/cmr/m/n/10 1021
  []
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 286
- []\OT1/cmr/m/n/10 1025
+ []\OT1/cmr/m/n/10 1024
  []
 
 [17]
@@ -777,7 +711,7 @@ Overfull \hbox (4.50002pt too wide) detected at line 327
 
 [19]
 Overfull \hbox (4.50002pt too wide) detected at line 328
- []\OT1/cmr/m/n/10 1178
+ []\OT1/cmr/m/n/10 1177
  []
 
 
@@ -807,7 +741,7 @@ Overfull \hbox (4.50002pt too wide) detected at line 333
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 334
- []\OT1/cmr/m/n/10 1217
+ []\OT1/cmr/m/n/10 1216
  []
 
 
@@ -887,7 +821,7 @@ Overfull \hbox (4.50002pt too wide) detected at line 349
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 350
- []\OT1/cmr/m/n/10 1288
+ []\OT1/cmr/m/n/10 1287
  []
 
 
@@ -1697,7 +1631,7 @@ Overfull \hbox (4.50002pt too wide) detected at line 514
 
 
 Overfull \hbox (4.50002pt too wide) detected at line 515
- []\OT1/cmr/m/n/10 1993
+ []\OT1/cmr/m/n/10 1992
  []
 
 
@@ -2133,13 +2067,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--201
  []
 
 [42]
-Underfull \hbox (badness 1097) in paragraph at lines 210--211
-\OT1/cmr/m/it/10 e que per-meia a cul-tura chi-nesa desde os seus
+Underfull \hbox (badness 1540) in paragraph at lines 210--211
+\OT1/cmr/m/it/10 e torn^^Sa-los parte de nossa pro-fiss~ao. Em meio
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 210--211
-\OT1/cmr/m/it/10 Me-di-cina Tra-di-ci-o-nal Chi-nesa. Lev^^Savamos di-fe-
+Underfull \hbox (badness 1769) in paragraph at lines 210--211
+\OT1/cmr/m/it/10 a con-cei-tos fi-los^^Soficos e neu-ro-fi-siol^^Sogicos, fo-mo
+s
  []
 
 
@@ -2304,8 +2239,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 282--283
 [53] [54
 
 ]
-Underfull \hbox (badness 2042) in paragraph at lines 290--291
-[]\OT1/cmr/m/it/10 O es-tudo da Acu-pun-tura m^^Sedica ^^Se bas-tante
+Underfull \hbox (badness 1048) in paragraph at lines 290--291
+\OT1/cmr/m/it/10 2017, em Goi^ania, onde des-co-bri-mos uma nova
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 290--291
+\OT1/cmr/m/it/10 t~ao abs-trata. Um pa-ra-doxo en-tre uma Me-di-cina
  []
 
 
@@ -2411,11 +2351,6 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 333.
 
 [64] [65]
-Underfull \hbox (badness 2762) in paragraph at lines 358--359
-\OT1/cmr/m/n/10 e ter-ceiro me-ta-car-pi-a-nos. Ana-to-mi-ca-mente est^^Sa
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 358--359
 
  []
@@ -2432,11 +2367,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 360--368
 Underfull \vbox (badness 3525) has occurred while \output is active []
 
  [67]
-Underfull \hbox (badness 1173) in paragraph at lines 371--380
-[]\OT1/cmr/m/n/10 -Localiza-se na mar-gem pos-te-rior do c^ondilo
- []
-
-
 Underfull \hbox (badness 1281) in paragraph at lines 371--380
 \OT1/cmr/m/it/10 ab-dome, dis-me-nor-reia, me-nor-ra-gia, mens-trua^^Xc~oes
  []
@@ -2473,11 +2403,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [70]
 Underfull \hbox (badness 10000) in paragraph at lines 381--382
 
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 384--394
-[]\OT1/cmr/m/n/10 -Os Ca-nais Ex-tra-or-din^^Sarios se ra-mi-fi-cam e
  []
 
 
@@ -2519,8 +2444,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [78]
-Underfull \hbox (badness 2884) in paragraph at lines 425--426
-\OT1/cmr/m/n/10 o am-bu-lat^^Sorio de acu-pun-tura para tra-ta-mento
+Underfull \hbox (badness 1496) in paragraph at lines 425--426
+\OT1/cmr/m/n/10 am-bu-lat^^Sorio de acu-pun-tura para tra-ta-mento de
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 425--426
+\OT1/cmr/m/n/10 dor no om-bro di-reito ini-ci-ada h^^Sa cerca de um
  []
 
 
@@ -2614,11 +2544,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [89]
-Underfull \hbox (badness 1715) in paragraph at lines 466--477
-\OT1/cmr/m/n/10 d^^Sa os pri-mei-ros pas-sos. Apre-senta sen-si-bi-li-dade
- []
-
-
 Underfull \hbox (badness 1454) in paragraph at lines 466--477
 \OT1/cmr/m/n/10 usam-se os pon-tos com-ple-men-ta-res, que s~ao os
  []
@@ -2650,16 +2575,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [92]
-Underfull \hbox (badness 1210) in paragraph at lines 479--480
-\OT1/cmr/m/n/10 cont^^S^^Pnuo, ca-mi-nha-das ou cor-rida, fa-to-res que a
- []
-
-
-Underfull \hbox (badness 1173) in paragraph at lines 479--480
-\OT1/cmr/m/n/10 e axi-ais n~ao apre-sen-ta-ram al-tera^^Xc~oes re-le-van-tes.
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
@@ -2748,8 +2663,8 @@ Underfull \hbox (badness 2205) in paragraph at lines 507--520
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [101]
-Underfull \hbox (badness 1817) in paragraph at lines 520--521
-\OT1/cmr/m/n/10 ta-mento de pa-to-lo-gias ^^Salgicas com acu-pun-tura,
+Underfull \hbox (badness 1009) in paragraph at lines 520--521
+\OT1/cmr/m/n/10 ade-qua-dos ao tra-ta-mento de dor lo-ca-li-zada nos
  []
 
 
@@ -2835,6 +2750,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 551--559
 Underfull \vbox (badness 5681) has occurred while \output is active []
 
  [108]
+Underfull \hbox (badness 3209) in paragraph at lines 562--575
+\OT1/cmr/m/n/10 SOP (S^^S^^Pndrome dos Ov^^Sarios Po-li-mi-croc^^S^^Psticos),
+ []
+
+
 Underfull \hbox (badness 1014) in paragraph at lines 562--575
 \OT1/cmr/m/it/10 no corpo e nos mem-bros. A dor nas cos-tas, a
  []
@@ -2879,6 +2799,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [112]
+Underfull \hbox (badness 1565) in paragraph at lines 577--578
+\OT1/cmr/m/n/10 - Na MTC, o tra-ta-mento pri-o-riza o do-ente e
+ []
+
+
 Underfull \hbox (badness 1067) in paragraph at lines 577--578
 \OT1/cmr/m/n/10 de-se-quil^^S^^Pbrios org^anicos. Ba-se-ado nes-ses crit^^Serio
 s
@@ -2911,13 +2836,8 @@ Underfull \vbox (badness 5681) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [115]
-Underfull \hbox (badness 1406) in paragraph at lines 590--600
-\OT1/cmr/m/n/10 Re-fere que, at^^Se ent~ao, os m^^Sedicos n~ao ha-viam
- []
-
-
-Underfull \hbox (badness 1237) in paragraph at lines 590--600
-\OT1/cmr/m/n/10 an-te-ce-den-tes apre-sen-tava: me-narca aos 16 anos;
+Underfull \hbox (badness 1558) in paragraph at lines 590--600
+\OT1/cmr/m/n/10 p^^Salida com re-ves-ti-mento branco e, ^^Ra palpa^^Xc~ao,
  []
 
 
@@ -3053,6 +2973,11 @@ Underfull \vbox (badness 5681) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [129]
+Underfull \hbox (badness 1776) in paragraph at lines 644--645
+\OT1/cmr/m/n/10 n~ao se-xu-al-mente trans-miss^^S^^Pvel ^^Se um ver-da-deiro
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 644--645
 
  []
@@ -3389,11 +3314,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 749--750
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [165]
-Underfull \hbox (badness 1394) in paragraph at lines 752--761
-\OT1/cmr/m/n/10 seg-men-tar en-vol-vi-dos no pro-cesso analg^^Sesico da
- []
-
-
 Underfull \hbox (badness 1708) in paragraph at lines 752--761
 \OT1/cmr/m/n/10 as c^^Selulas pe-dun-cu-la-res, en-viam co-la-te-rais para
  []
@@ -3478,6 +3398,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [169]
+Underfull \hbox (badness 2591) in paragraph at lines 765--766
+\OT1/cmr/m/n/10 - Em rela^^Xc~ao ao con-trole ini-bit^^Sorio di-fuso de
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 765--766
 
  []
@@ -3642,6 +3567,11 @@ Underfull \hbox (badness 2582) in paragraph at lines 842--854
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [183]
+Underfull \hbox (badness 1028) in paragraph at lines 854--855
+\OT1/cmr/m/n/10 nas ime-dia^^Xc~oes da asa do na-riz, de sur-gi-mento
+ []
+
+
 Underfull \hbox (badness 1354) in paragraph at lines 854--855
 \OT1/cmr/m/n/10 com o que ob-teve al^^S^^Pvio razo^^Savel. No en-tanto,
  []
@@ -3706,22 +3636,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 865--866
  []
 
 
+Underfull \hbox (badness 1629) in paragraph at lines 868--869
+\OT1/cmr/m/n/10 prin-ci-pal de in-ca-pa-ci-dade neu-rol^^Sogica grave em
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 868--869
 
  []
 
 
-Underfull \vbox (badness 1337) has occurred while \output is active []
-
- [188]
 Underfull \hbox (badness 7685) in paragraph at lines 870--881
 \OT1/cmr/m/it/10 Apesar de a ele-tro-a-cu-pun-tura po-ten-ci-a-li-zar a
  []
 
-
-Underfull \vbox (badness 5681) has occurred while \output is active []
+[188]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [189]
+Underfull \hbox (badness 2005) in paragraph at lines 882--883
+\OT1/cmr/m/n/10 inerva os m^^Susculos res-pons^^Saveis pela ex-press~ao
+ []
+
+
 Underfull \hbox (badness 1221) in paragraph at lines 882--883
 \OT1/cmr/m/n/10 pre-ce-dendo o apa-re-ci-mento dos sin-to-mas. Nesse
  []
@@ -3731,10 +3668,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 882--883
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [190]
+[190]
 Underfull \hbox (badness 1675) in paragraph at lines 884--893
 \OT1/cmr/m/it/10 O tra-ta-mento baseia-se no tra-ta-mento do fa-tor
  []
@@ -3750,7 +3684,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 884--893
  []
 
 
-Underfull \vbox (badness 3525) has occurred while \output is active []
+Underfull \vbox (badness 5681) has occurred while \output is active []
 
  [191]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3766,9 +3700,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 896--897
  []
 
 [193]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [194]
 Underfull \hbox (badness 1097) in paragraph at lines 898--906
 \OT1/cmr/m/it/10 A Doen^^Xca Cel^^S^^Paca (DC) tem ori-gem au-toi-mune
  []
@@ -3801,6 +3732,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 898--906
 
 
 Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [194]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [195]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3846,13 +3780,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [202]
-[203]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [203]
 Underfull \vbox (badness 5681) has occurred while \output is active []
 
  [204]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [205]
+Underfull \hbox (badness 1571) in paragraph at lines 939--940
+\OT1/cmr/m/n/10 - Os pa-ci-en-tes com pon-tos ga-ti-lhos mi-o-fas-ci-ais
+ []
+
+
 Underfull \hbox (badness 2012) in paragraph at lines 939--940
 \OT1/cmr/m/n/10 se con-fi-gura, tal-vez, na me-lhor mo-da-li-dade de
  []
@@ -3862,15 +3803,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 939--940
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [206]
-Underfull \vbox (badness 3525) has occurred while \output is active []
+[206]
+Underfull \vbox (badness 5681) has occurred while \output is active []
 
  [207]
-Underfull \hbox (badness 1762) in paragraph at lines 950--960
-\OT1/cmr/m/n/10 de car^^Sater pro-gres-sivo, estendendo-se at^^Se bra^^Xco
+Underfull \hbox (badness 6141) in paragraph at lines 950--960
+\OT1/cmr/m/n/10 vem apre-sen-tando di-mi-nui^^Xc~ao de sen-si-bi-li-dade
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 950--960
+\OT1/cmr/m/n/10 di-minu^^S^^Pdos. Apre-senta hi-po-es-te-sia t^^Satil, do-lo-ro
+sa
  []
 
 
@@ -3903,10 +3847,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 950--960
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [208]
+[208]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [209]
@@ -3928,10 +3869,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 964--976
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [213]
+[213]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [214]
@@ -4030,10 +3968,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 994--1006
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [219]
+[219]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [220]
@@ -4050,10 +3985,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [224]
+[224]
 Underfull \hbox (badness 1348) in paragraph at lines 1010--1019
 \OT1/cmr/m/it/10 deve ser feito com es-ti-mula^^Xc~ao forte (seda^^Xc~ao),
  []
@@ -4069,12 +4001,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1010--1019
  []
 
 
-Underfull \vbox (badness 3525) has occurred while \output is active []
+Underfull \vbox (badness 5681) has occurred while \output is active []
 
  [225]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [226]
 Underfull \hbox (badness 5161) in paragraph at lines 1021--1032
 \OT1/cmr/m/it/10 A dor em queima^^Xc~ao re-sulta, ge-ral-mente, de
  []
@@ -4094,28 +4023,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 1021--1032
 
  []
 
-[227]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [228]
+ [226]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [227]
 Underfull \hbox (badness 10000) in paragraph at lines 1034--1035
 
  []
 
-
+[228]
 Underfull \hbox (badness 1590) in paragraph at lines 1036--1048
 \OT1/cmr/m/it/10 urina ama-re-lada, trans-pira^^Xc~ao ex-ces-siva e pulso
  []
 
-[229]
+
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [229]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [230]
-Underfull \hbox (badness 1354) in paragraph at lines 1048--1049
-\OT1/cmr/m/n/10 da me-di-cina chi-nesa ^^Se abran-gente e mi-nu-ci-osa.
- []
-
-
 Underfull \hbox (badness 1688) in paragraph at lines 1050--1060
 \OT1/cmr/m/n/10 b) A trans-pira^^Xc~ao es-pont^anea, que con-siste na
  []
@@ -4145,7 +4075,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1050--1060
 
  []
 
-[231]
+
+Underfull \vbox (badness 3525) has occurred while \output is active []
+
+ [231]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [232]
@@ -4154,7 +4087,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1062--1063
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1975) has occurred while \output is active []
 
  [233]
 Underfull \hbox (badness 2035) in paragraph at lines 1064--1074
@@ -4182,17 +4115,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 1064--1074
  []
 
 
-Underfull \vbox (badness 3525) has occurred while \output is active []
+Underfull \vbox (badness 5681) has occurred while \output is active []
 
  [234]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [235]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 2875) in paragraph at lines 1077--1078
+\OT1/cmr/m/n/10 me-di-ca-men-tos, pa-ra-si-tos, es-tresse, en-tre ou-tros.
+ []
 
- [236]
-Underfull \hbox (badness 2027) in paragraph at lines 1077--1078
-\OT1/cmr/m/n/10 que pode ser de-sen-ca-de-ada por v^^Sarios fa-to-res:
+
+Underfull \hbox (badness 1895) in paragraph at lines 1077--1078
+\OT1/cmr/m/n/10 se-ma-nas, as cha-ma-das idiop^^Saticas, postula-se a
  []
 
 
@@ -4201,9 +4136,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1077--1078
  []
 
 
-Underfull \vbox (badness 1337) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [237]
+ [236]
 Underfull \hbox (badness 2057) in paragraph at lines 1079--1087
 \OT1/cmr/m/it/10 (les~oes com pru-rido me-nos in-tenso e sin-to-mas
  []
@@ -4224,7 +4159,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1079--1087
  []
 
 
-Underfull \vbox (badness 5681) has occurred while \output is active []
+Underfull \vbox (badness 3525) has occurred while \output is active []
+
+ [237]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [238]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -4236,27 +4174,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 1088--1089
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1091--1092
-\OT1/cmr/m/n/10 apre-senta mo-vi-men-tos anor-mais, in-vo-lunt^^Sarios,
+\OT1/cmr/m/n/10 re-lata, tamb^^Sem, al-tera^^Xc~ao do com-por-ta-mento
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 1091--1092
-\OT1/cmr/m/n/10 ir-re-gu-la-res e abrup-tos de mem-bros su-pe-ri-o-res e
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1092
+\OT1/cmr/m/n/10 ca-rac-te-ri-zada por ir-ri-ta-bi-li-dade, agres-si-vi-dade,
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 1091--1092
-\OT1/cmr/m/n/10 in-fe-ri-o-res com pro-gress~ao gra-dual du-rante esse
+Underfull \hbox (badness 4366) in paragraph at lines 1091--1092
+\OT1/cmr/m/n/10 ne-ga-tiva, mo-vi-men-tos des-co-or-de-na-dos, abrup-tos
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 1091--1092
-\OT1/cmr/m/n/10 com-por-ta-mento ca-rac-te-ri-zada por ir-ri-ta-bi-li-dade,
+Underfull \hbox (badness 2809) in paragraph at lines 1091--1092
+\OT1/cmr/m/n/10 e arr^^S^^Ptmicos em seg-mento cef^^Salico e mem-bros
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 1091--1092
-\OT1/cmr/m/n/10 agres-si-vi-dade, mem^^Soria fraca, di-fi-cul-dade para
+Underfull \hbox (badness 2065) in paragraph at lines 1091--1092
+\OT1/cmr/m/n/10 su-pe-ri-o-res. Sen-si-bi-li-dade, t^onus, for^^Xca mus-cu-lar,
+
  []
 
 
@@ -4269,13 +4208,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1091--1092
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [240]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [241]
+[240]
 Underfull \hbox (badness 2435) in paragraph at lines 1093--1103
 \OT1/cmr/m/it/10 No Par-kin-son, os mo-vi-men-tos se-riam tre-mo-res
  []
@@ -4329,18 +4262,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 1093--1103
 
 Underfull \vbox (badness 5681) has occurred while \output is active []
 
+ [241]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [242]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [243]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [244]
 Underfull \hbox (badness 10000) in paragraph at lines 1106--1107
 
  []
 
-[245]
+[244]
 Underfull \hbox (badness 3439) in paragraph at lines 1108--1116
 \OT1/cmr/m/it/10 de mem^^Soria fraca, fa-diga mus-cu-lar, ga-nho de
  []
@@ -4358,6 +4291,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1108--1116
 
 Underfull \vbox (badness 5681) has occurred while \output is active []
 
+ [245]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [246]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -4367,17 +4303,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 1117--1118
  []
 
 
+Underfull \hbox (badness 1092) in paragraph at lines 1120--1121
+\OT1/cmr/m/n/10 - Pa-ci-ente com dor no pu-nho di-reito h^^Sa cerca
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1120--1121
 
  []
 
+[248]
+Underfull \hbox (badness 1946) in paragraph at lines 1133--1145
+\OT1/cmr/m/n/10 tra-ta-mento por acu-pun-tura para tra-tar qua-dro
+ []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [248]
-Underfull \vbox (badness 3525) has occurred while \output is active []
-
- [249]
 Underfull \hbox (badness 1365) in paragraph at lines 1133--1145
 \OT1/cmr/m/n/10 Du-rante o in-ter-ro-gat^^Sorio re-lata ou-tros sin-to-mas
  []
@@ -4402,7 +4342,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1133--1145
 
  []
 
-[250]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [249]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [250]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [251]
@@ -4436,10 +4382,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1147--1157
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [252]
+[252]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [253]
@@ -4457,16 +4400,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1161--1173
 
  []
 
-
-Underfull \vbox (badness 5681) has occurred while \output is active []
-
- [254]
+[254]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [255]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [256]
 Underfull \hbox (badness 10000) in paragraph at lines 1175--1176
 
  []
@@ -4481,10 +4418,15 @@ Underfull \hbox (badness 1142) in paragraph at lines 1177--1189
 \OT1/cmr/m/it/10 O ponto ga-ti-lho do m^^Susculo espl^enio da cabe^^Xca
  []
 
-[257]
+[256]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [258]
+ [257]
+Underfull \hbox (badness 2717) in paragraph at lines 1189--1190
+\OT1/cmr/m/n/10 nhe-ci-mento da na-tu-reza hu-mana aborda como
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1189--1190
 
  []
@@ -4494,26 +4436,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 1191--1201
 
  []
 
-[259]
+[258]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [260]
+ [259]
+Underfull \hbox (badness 2221) in paragraph at lines 1203--1204
+\OT1/cmr/m/n/10 -Paciente de 66 anos, pro-cura tra-ta-mento por
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1203--1204
 
  []
 
 
-Underfull \vbox (badness 1975) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [261]
+ [260]
 Underfull \hbox (badness 10000) in paragraph at lines 1205--1212
 
  []
 
 
-Underfull \vbox (badness 5681) has occurred while \output is active []
+Underfull \vbox (badness 3525) has occurred while \output is active []
 
- [262]
+ [261]
 Underfull \hbox (badness 1163) in paragraph at lines 1214--1224
 \OT1/cmr/m/it/10 ^^Se ca-rac-te-ri-zada pela sensa^^Xc~ao de peso, afe-tando
  []
@@ -4528,15 +4475,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 1214--1224
 
  []
 
-[263]
+[262]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [264]
+ [263]
 Underfull \hbox (badness 10000) in paragraph at lines 1225--1226
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [264]
 Underfull \hbox (badness 2119) in paragraph at lines 1230--1239
 \OT1/cmr/m/it/10 me-lho-rar a mo-bi-li-dade, nos ca-sos de lom-bal-gia
  []
@@ -4546,7 +4496,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1230--1239
 
  []
 
-[265]
+
+Underfull \vbox (badness 3525) has occurred while \output is active []
+
+ [265]
 Underfull \hbox (badness 1721) in paragraph at lines 1242--1251
 \OT1/cmr/m/n/10 c) A prin-ci-pal causa dessa sin-to-ma-to-lo-gia ^^Se a
  []
@@ -4561,15 +4514,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1242--1251
 
  []
 
+[266]
+Underfull \hbox (badness 1616) in paragraph at lines 1253--1262
+\OT1/cmr/m/n/10 de vig^^S^^Plia-sono com im-pacto na fun^^Xc~ao diurna.
+ []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [266]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [267]
-Underfull \hbox (badness 2452) in paragraph at lines 1253--1262
-\OT1/cmr/m/n/10 ne-ces-si-dade fi-siol^^Sogica n~ao su-prida por h^^Sabitos
+Underfull \hbox (badness 2073) in paragraph at lines 1253--1262
+\OT1/cmr/m/n/10 cau-sas. A Me-di-cina chi-nesa ela-bo-rou con-tex-tos
  []
 
 
@@ -4582,10 +4534,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1253--1262
 
  []
 
-[268]
+[267]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [269]
+ [268]
 Underfull \hbox (badness 10000) in paragraph at lines 1263--1264
 
  []
@@ -4605,15 +4557,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 1266--1278
 
  []
 
-[270]
+[269]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [271]
-[272]
-Cap\'{\i }tulo 2.
-[273
+ [270]
+[271] [272
 
 ]
+Cap\'{\i }tulo 2.
+[273]
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 1282.
@@ -4642,11 +4594,6 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 1295.
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 1295--1296
-\OT1/cmr/m/n/10 na mar-gem pos-te-rior da ex-tre-mi-dade dis-tal do
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1295--1296
 
  []
@@ -4673,8 +4620,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1306--1307
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 1309--1310
-[]\OT1/cmr/m/n/10 Existe um ponto que est^^Sa ana-to-mi-ca-mente
+Underfull \hbox (badness 1708) in paragraph at lines 1309--1310
+\OT1/cmr/m/n/10 o nervo fi-bu-lar. In-di-cado para ri-gi-dez cer-vi-cal,
  []
 
 
@@ -4701,6 +4648,11 @@ Underfull \vbox (badness 3525) has occurred while \output is active []
  [278]
 Underfull \hbox (badness 10000) in paragraph at lines 1320--1321
 
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 1323--1333
+\OT1/cmr/m/n/10 e nos li-ga-men-tos su-pra-es-pi-nhal e in-te-res-pi-nhal.
  []
 
 
@@ -4884,16 +4836,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [289]
 Underfull \hbox (badness 10000) in paragraph at lines 1376--1377
 
- []
-
-
-Underfull \hbox (badness 1701) in paragraph at lines 1380--1381
-\OT1/cmr/m/n/10 pos-tas te-rap^euticas com ca-rac-ter^^S^^Psticas dis-tin-tas
- []
-
-
-Underfull \hbox (badness 1019) in paragraph at lines 1380--1381
-\OT1/cmr/m/n/10 en-tre elas. Al-gu-mas evid^encias mos-tram que os
  []
 
 [290]
@@ -5146,16 +5088,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1434--1435
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 1439--1440
-\OT1/cmr/m/n/10 atrav^^Ses de duas ma-nei-ras: neuro-hormonal li-vre
- []
-
-
-Underfull \hbox (badness 1275) in paragraph at lines 1439--1440
-\OT1/cmr/m/n/10 e atrav^^Ses de vias neu-ro-nais des-cen-den-tes. Qual
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 
  []
@@ -5369,6 +5301,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1464--1465
  []
 
 
+Underfull \hbox (badness 2042) in paragraph at lines 1467--1468
+\OT1/cmr/m/n/10 Paciente com 46 anos pro-cura am-bu-lat^^Sorio de
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
 
  []
@@ -5450,7 +5387,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1497--1508
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5681) has occurred while \output is active []
 
  [322]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -5468,6 +5405,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [327]
+Underfull \hbox (badness 3803) in paragraph at lines 1510--1520
+\OT1/cmr/m/n/10 Uma pa-ci-ente jo-vem, pra-ti-cante en-tu-si-asta de
+ []
+
+
 Underfull \hbox (badness 1442) in paragraph at lines 1510--1520
 \OT1/cmr/m/n/10 hi-po-es-te-sia na face la-te-ral da coxa. Exame de
  []
@@ -5512,23 +5454,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1521--1522
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [332]
-Underfull \hbox (badness 1033) in paragraph at lines 1540--1550
-\OT1/cmr/m/n/10 que so-freu de de-press~ao maior no pas-sado. Foi
+Underfull \hbox (badness 2181) in paragraph at lines 1540--1550
+\OT1/cmr/m/n/10 eram: ins^onia, os-cila^^Xc~ao do ape-tite, ca-pa-ci-dade
  []
 
 
-Underfull \hbox (badness 3039) in paragraph at lines 1540--1550
-\OT1/cmr/m/n/10 tra-tado ade-qua-da-mente com boa res-posta. No
- []
-
-
-Underfull \hbox (badness 1708) in paragraph at lines 1540--1550
-\OT1/cmr/m/n/10 com-pro-me-teu a sua qua-li-dade de vida. Ou-tros
- []
-
-
-Underfull \hbox (badness 1616) in paragraph at lines 1540--1550
-\OT1/cmr/m/n/10 sin-to-mas as-so-ci-a-dos eram: ins^onia, os-cila^^Xc~ao do
+Underfull \hbox (badness 1043) in paragraph at lines 1540--1550
+\OT1/cmr/m/n/10 dis-tens~ao ab-do-mi-nal e tend^encia a di-ar-reia. Ao
  []
 
 
@@ -5583,11 +5515,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [335]
 Underfull \hbox (badness 10000) in paragraph at lines 1551--1552
 
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 1554--1555
-[]\OT1/cmr/m/n/10 Homem hi-per-tenso de 48 anos queixa-se de
  []
 
 
@@ -5809,6 +5736,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [351]
+Underfull \hbox (badness 1259) in paragraph at lines 1613--1625
+\OT1/cmr/m/n/10 va-riar em forma e ta-ma-nho. Seu sur-gi-mento ^^Se
+ []
+
+
 Underfull \hbox (badness 2894) in paragraph at lines 1613--1625
 \OT1/cmr/m/it/10 Dieta ina-de-quada ^^Se ca-rac-te-ri-zada pela in-gest~ao
  []
@@ -5874,7 +5806,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1642--1643
 
  []
 
-[359]
+
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+ [359]
 Underfull \hbox (badness 2744) in paragraph at lines 1644--1652
 \OT1/cmr/m/it/10 forma s^^Subita, po-dendo irradiar-se ao longo da
  []
@@ -5986,6 +5921,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [367]
+Underfull \hbox (badness 2318) in paragraph at lines 1669--1670
+\OT1/cmr/m/n/10 Mulher branca, 43 anos de idade, na-tu-ral de
+ []
+
+
 Underfull \hbox (badness 1303) in paragraph at lines 1669--1670
 \OT1/cmr/m/n/10 \feito uma dorm^encia do-lo-rida", que se ir-ra-dia
  []
@@ -6203,6 +6143,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [380]
+Underfull \hbox (badness 1622) in paragraph at lines 1697--1698
+\OT1/cmr/m/n/10 cl^^S^^Pnico em de-corr^encia de epis^^Sodios de tosse e
+ []
+
+
 Underfull \hbox (badness 1221) in paragraph at lines 1697--1698
 \OT1/cmr/m/n/10 do pulm~ao es-querdo, bem como a pre-sen^^Xca de
  []
@@ -6273,6 +6218,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [386]
 Underfull \hbox (badness 10000) in paragraph at lines 1722--1723
 
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 1725--1726
+\OT1/cmr/m/n/10 Paciente de 72 anos de idade, sexo mas-cu-lino,
  []
 
 
@@ -6401,6 +6351,11 @@ Underfull \vbox (badness 3525) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [397]
+Underfull \hbox (badness 1354) in paragraph at lines 1769--1770
+\OT1/cmr/m/n/10 se ori-gina na tu-be-ro-si-dade me-dial do calc^aneo.
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1769--1770
 
  []
@@ -6497,16 +6452,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1794--1795
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 1797--1798
-[]\OT1/cmr/m/n/10 A cer-vi-cal-gia cr^onica ^^Se uma das pa-to-lo-gias
- []
-
-
-Underfull \hbox (badness 2012) in paragraph at lines 1797--1798
-\OT1/cmr/m/n/10 acu-pun-tura, com frequ^encia surge ou agrava-se
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1797--1798
 
  []
@@ -6536,6 +6481,11 @@ Underfull \vbox (badness 3525) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [406]
+Underfull \hbox (badness 1383) in paragraph at lines 1811--1812
+\OT1/cmr/m/n/10 Paciente de 30 anos pro-cura acu-pun-ti-a-tra com
+ []
+
+
 Underfull \hbox (badness 3601) in paragraph at lines 1811--1812
 \OT1/cmr/m/n/10 press~ao, acompanha-se de re-gur-gita^^Xc~ao aquosa,
  []
@@ -6596,6 +6546,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [410]
+Underfull \hbox (badness 2088) in paragraph at lines 1827--1837
+\OT1/cmr/m/n/10 quen-te-mente, cl^^S^^Pnicos de dor e acu-pun-tu-ri-a-tras
+ []
+
+
 Underfull \hbox (badness 1596) in paragraph at lines 1827--1837
 \OT1/cmr/m/it/10 cursa com pal-pita^^Xc~ao, sensa^^Xc~ao de opress~ao ou
  []
@@ -6675,6 +6630,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
  []
 
 
+Underfull \hbox (badness 1783) in paragraph at lines 1869--1870
+\OT1/cmr/m/n/10 Frequentemente ob-ser-vado na pr^^Satica cl^^S^^Pnica, o
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1869--1870
 
  []
@@ -6742,11 +6702,6 @@ Underfull \vbox (badness 3525) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [424]
-Underfull \hbox (badness 1466) in paragraph at lines 1897--1907
-[]\OT1/cmr/m/n/10 { So-bre a neu-ral-gia do trig^emeo, ^^Se cor-reto
- []
-
-
 Underfull \hbox (badness 2245) in paragraph at lines 1897--1907
 \OT1/cmr/m/n/10 ramo do trig^emeo (oft^^Salmico), os pon-tos mais
  []
@@ -6839,11 +6794,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1940--1941
 
  []
 
-
-Underfull \vbox (badness 1975) has occurred while \output is active []
-
- [432]
-Underfull \vbox (badness 5681) has occurred while \output is active []
+[432]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [433]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -6872,18 +6824,8 @@ Underfull \hbox (badness 1043) in paragraph at lines 1955--1967
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [436]
-Underfull \hbox (badness 2005) in paragraph at lines 1967--1968
-[]\OT1/cmr/m/n/10 Um pa-ci-ente chega ao seu con-sult^^Sorio com
- []
-
-
-Underfull \hbox (badness 2680) in paragraph at lines 1967--1968
-\OT1/cmr/m/n/10 ou-vido. Ao exame f^^S^^Psico, apre-senta com-plei^^Xc~ao
- []
-
-
-Underfull \hbox (badness 1642) in paragraph at lines 1967--1968
-\OT1/cmr/m/n/10 qua-dro cl^^S^^Pnico, qual se-ria o qua-dro sindr^omico
+Underfull \hbox (badness 2368) in paragraph at lines 1967--1968
+\OT1/cmr/m/n/10 com re-ves-ti-mento branco. Di-ante deste qua-dro
  []
 
 
@@ -6934,8 +6876,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [442]
-Underfull \hbox (badness 1043) in paragraph at lines 1996--1997
-\OT1/cmr/m/n/10 das pa-ci-en-tes, por meio de um rom-pi-mento de
+Underfull \hbox (badness 1603) in paragraph at lines 1996--1997
+\OT1/cmr/m/n/10 da-des. No caso de urg^encia e/ou in-con-tin^encia
  []
 
 
@@ -7031,6 +6973,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2021--2022
  []
 
 
+Underfull \hbox (badness 2556) in paragraph at lines 2025--2026
+\OT1/cmr/m/n/10 exis-tem v^^Sarios ti-pos de me-ri-di-a-nos, en-tre eles
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 2025--2026
 
  []
@@ -7062,8 +7009,13 @@ Underfull \vbox (badness 5681) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [453]
-Underfull \hbox (badness 1478) in paragraph at lines 2039--2040
-[]\OT1/cmr/m/n/10 Como qual-quer ou-tro pro-ce-di-mento in-va-sivo,
+Underfull \hbox (badness 2103) in paragraph at lines 2039--2040
+\OT1/cmr/m/n/10 Como qual-quer ou-tro pro-ce-di-mento in-va-sivo, o
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 2039--2040
+\OT1/cmr/m/n/10 bom re-sul-tado do tra-ta-mento com acu-pun-tura
  []
 
 
@@ -7167,6 +7119,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [465]
+Underfull \hbox (badness 1270) in paragraph at lines 2109--2110
+\OT1/cmr/m/n/10 como a s^^S^^Pndrome do p^anico. Se-gundo a MTC,
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 2109--2110
 
  []
@@ -7255,6 +7212,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [476]
+Underfull \hbox (badness 3078) in paragraph at lines 2153--2154
+\OT1/cmr/m/n/10 com ali-men-tos n~ao di-ge-ri-dos e di-mi-nui^^Xc~ao da
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 2153--2154
 
  []
@@ -7386,6 +7348,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [488]
+Underfull \hbox (badness 2189) in paragraph at lines 2212--2213
+\OT1/cmr/m/n/10 {Mem^^Soria ^^Se a fun^^Xc~ao ce-re-bral re-la-ci-o-nada aos
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 2212--2213
 
  []
@@ -7432,6 +7399,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [491]
+Underfull \hbox (badness 2005) in paragraph at lines 2226--2235
+\OT1/cmr/m/n/10 Um bom per-cen-tual de pa-ci-en-tes queixa-se de
+ []
+
+
 Underfull \hbox (badness 1762) in paragraph at lines 2226--2235
 \OT1/cmr/m/n/10 os es-pe-ci-a-lis-tas em acu-pun-tura ap^^Sos re-a-li-za-rem
  []
@@ -7479,8 +7451,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2250--2251
  []
 
 
-Underfull \hbox (badness 5064) in paragraph at lines 2254--2264
-[]\OT1/cmr/m/n/10 Vertigem, zum-bido, pa-li-dez, vis~ao can-sada,
+Underfull \hbox (badness 10000) in paragraph at lines 2254--2264
+\OT1/cmr/m/n/10 Vertigem, zum-bido, pa-li-dez, vis~ao can-sada,
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 2254--2264
+\OT1/cmr/m/n/10 dorm^encia nos mem-bros, mens-trua^^Xc~ao es-cassa
  []
 
 
@@ -7509,6 +7486,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [498]
 Underfull \hbox (badness 10000) in paragraph at lines 2265--2266
 
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 2269--2279
+\OT1/cmr/m/n/10 Dor e dis-tens~ao nos hi-poc^ondrios, tend^encia a
  []
 
 
@@ -7600,14 +7582,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2302--2308
  []
 
 [505]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [506]
 Underfull \hbox (badness 10000) in paragraph at lines 2309--2310
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [506]
 Underfull \hbox (badness 1163) in paragraph at lines 2312--2321
 \OT1/cmr/m/n/10 a) Pos-te-ri-or-mente ^^Ra t^^S^^Pbia, na parte in-fe-rior do
  []
@@ -7641,11 +7623,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2322--2323
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 1147) in paragraph at lines 2325--2334
+\OT1/cmr/m/n/10 com maior in-dica^^Xc~ao no tra-ta-mento da ce-fa-leia
+ []
 
- [509]
-Underfull \hbox (badness 1668) in paragraph at lines 2325--2334
-\OT1/cmr/m/n/10 pon-tos com maior in-dica^^Xc~ao no tra-ta-mento da
+
+Underfull \hbox (badness 1810) in paragraph at lines 2325--2334
+\OT1/cmr/m/n/10 tem-po-ral. Ana-to-mi-ca-mente ^^Se su-prido pela rede
  []
 
 
@@ -7680,17 +7664,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2325--2334
 
  []
 
-[510]
-Underfull \hbox (badness 10000) in paragraph at lines 2335--2336
 
- []
+Underfull \vbox (badness 5681) has occurred while \output is active []
 
-
+ [509]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [511]
-Underfull \hbox (badness 1496) in paragraph at lines 2338--2347
-[]\OT1/cmr/m/n/10 - So-bre os pon-tos de acu-pun-tura ^^Se cor-reto
+ [510]
+Underfull \hbox (badness 10000) in paragraph at lines 2335--2336
+
  []
 
 
@@ -7740,7 +7722,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2338--2347
 
  []
 
-[512]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [511]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [512]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [513]
@@ -7753,10 +7741,7 @@ Underfull \hbox (badness 2600) in paragraph at lines 2351--2362
 \OT1/cmr/m/n/10 a) Os pontos-gatilho apre-sen-tam ca-rac-ter^^S^^Psticas
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [514]
+[514]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [515]
@@ -7777,10 +7762,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2364--2373
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [517]
+[517]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [518]
@@ -7800,11 +7782,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [522]
 Underfull \hbox (badness 10000) in paragraph at lines 2387--2388
 
- []
-
-
-Underfull \hbox (badness 1448) in paragraph at lines 2390--2401
-[]\OT1/cmr/m/n/10 - Em rela^^Xc~ao ^^Ra vis~ao da Me-di-cina Chi-nesa
  []
 
 
@@ -7839,9 +7816,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [525]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [526]
 Underfull \hbox (badness 1253) in paragraph at lines 2404--2413
 \OT1/cmr/m/n/10 bra-quial; acu-pun-tura no ponto lo-cal Ji-an-nei-ling
  []
@@ -7882,7 +7856,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2404--2413
 
  []
 
-[527]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [526]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [527]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [528]
@@ -7893,10 +7873,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2414--2415
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [530]
+[530]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [531]
@@ -8090,7 +8067,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2468--2477
  []
 
 
-Underfull \vbox (badness 5681) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [546]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -8107,16 +8084,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [550]
 Underfull \hbox (badness 10000) in paragraph at lines 2479--2480
 
- []
-
-
-Underfull \hbox (badness 2269) in paragraph at lines 2482--2493
-\OT1/cmr/m/n/10 do lado di-reito (he-mi-ple-gia). Ao exame f^^S^^Psico:
- []
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 2482--2493
-\OT1/cmr/m/n/10 MTC, qual o di-agn^^Sostico sindr^omico para esse
  []
 
 
@@ -8160,9 +8127,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [555]
-Underfull \hbox (badness 1783) in paragraph at lines 2496--2505
-\OT1/cmr/m/n/10 ter-ro-gat^^Sorio sin-tom^^Satico, re-ve-lou: di-mi-nui^^Xc~ao 
-do
+Underfull \hbox (badness 2932) in paragraph at lines 2496--2505
+\OT1/cmr/m/n/10 es-cassa. Ao exame f^^S^^Psico com-plei^^Xc~ao ma-ci-lenta
  []
 
 
@@ -8180,10 +8146,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2496--2505
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [556]
+[556]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [557]
@@ -8234,10 +8197,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2511--2522
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [559]
+[559]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [560]
@@ -8308,21 +8268,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2540--2551
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [568]
+[568]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [569]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [570]
-Underfull \hbox (badness 1077) in paragraph at lines 2553--2562
-\OT1/cmr/m/n/10 grama de Sa^^Sude da Fam^^S^^Plia) vem apre-sen-tando
- []
-
-
 Underfull \hbox (badness 2486) in paragraph at lines 2553--2562
 \OT1/cmr/m/it/10 sensa^^Xc~ao de ca-lor nos cinco Xin, trans-pira^^Xc~ao
  []
@@ -8368,18 +8317,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 2553--2562
 
  []
 
-[571]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [570]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [571]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [572]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [573]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [574]
 Underfull \hbox (badness 10000) in paragraph at lines 2563--2564
 
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 2567--2576
+\OT1/cmr/m/n/10 - A me-di-cina chi-nesa con-tem-pla uma s^^Serie de
  []
 
 
@@ -8417,7 +8374,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2567--2576
 
  []
 
-[575]
+[574]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [575]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [576]
@@ -8429,8 +8389,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 2577--2578
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 2580--2590
-\OT1/cmr/m/n/10 p^^Salida, mu-co-sas des-co-ra-das, aus-culta car-di-or-res-
+Underfull \hbox (badness 3312) in paragraph at lines 2580--2590
+\OT1/cmr/m/n/10 sendo co-brada a pro-du-zir tra-ba-lhos ci-ent^^S^^Pficos
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 2580--2590
+\OT1/cmr/m/n/10 pensa o tempo todo em no-vos pro-je-tos e n~ao
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 2580--2590
+\OT1/cmr/m/n/10 ape-tite, dis-tens~ao ab-do-mi-nal, fe-zes amo-le-ci-das.
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 2580--2590
+\OT1/cmr/m/n/10 Em al-guns me-ses, a mens-trua^^Xc~ao se apre-senta
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 2580--2590
+\OT1/cmr/m/n/10 tempo, tor-nando o ci-clo ir-re-gu-lar. Ul-ti-ma-mente
  []
 
 
@@ -8463,19 +8443,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2580--2590
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [578]
+[578]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [579]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [580]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [581]
 Underfull \hbox (badness 10000) in paragraph at lines 2591--2592
 
  []
@@ -8495,20 +8469,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 2593--2604
 
  []
 
-[582]
+
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [581]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [582]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [583]
+[584]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [584]
-[585]
+ [585]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [586]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [587]
 Underfull \hbox (badness 10000) in paragraph at lines 2616--2617
 
  []
@@ -8533,7 +8510,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2619--2629
 
  []
 
-[588]
+[587]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [588]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [589]
@@ -8581,10 +8561,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2633--2642
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [590]
+[590]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [591]
@@ -8594,9 +8571,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [593]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [594]
 Underfull \hbox (badness 10000) in paragraph at lines 2643--2644
 
  []
@@ -8656,16 +8630,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2646--2655
 
  []
 
-[595]
+[594]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [595]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [596]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [597]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [598]
 Underfull \hbox (badness 10000) in paragraph at lines 2656--2657
 
  []
@@ -8686,17 +8660,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 2659--2668
 
  []
 
-[599]
+[598]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [600]
+ [599]
 Underfull \hbox (badness 10000) in paragraph at lines 2669--2670
 
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 2672--2681
-[]\OT1/cmr/m/n/10 - O con-trole ini-bit^^Sorio des-cen-dente da dor,
+Underfull \hbox (badness 1226) in paragraph at lines 2672--2681
+\OT1/cmr/m/n/10 - O con-trole ini-bit^^Sorio des-cen-dente da dor, in-
  []
 
 
@@ -8800,7 +8774,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2672--2681
 
  []
 
-[601]
+[600]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [601]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [602]
@@ -8810,9 +8787,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [604]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [605]
 Underfull \hbox (badness 10000) in paragraph at lines 2682--2683
 
  []
@@ -8863,6 +8837,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2685--2694
  []
 
 
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [605]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [606]
@@ -8872,9 +8849,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [608]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [609]
 Underfull \hbox (badness 10000) in paragraph at lines 2695--2696
 
  []
@@ -8964,7 +8938,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2699--2708
 
  []
 
-[610]
+[609]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [610]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [611]
@@ -8983,9 +8960,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [616]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [617]
 Underfull \hbox (badness 10000) in paragraph at lines 2709--2710
 
  []
@@ -8996,7 +8970,10 @@ Underfull \hbox (badness 1281) in paragraph at lines 2712--2721
 res pa-
  []
 
-[618]
+[617]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [618]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [619]
@@ -9009,11 +8986,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [622]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [623]
 Underfull \hbox (badness 10000) in paragraph at lines 2722--2723
 
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 2726--2735
+\OT1/cmr/m/n/10 tra-ta-mento das di-ver-sas en-fer-mi-da-des, ^^Se cor-reto
  []
 
 
@@ -9056,16 +9035,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2726--2735
 
  []
 
-[624]
+[623]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [624]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [625]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [626]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [627]
 Underfull \hbox (badness 10000) in paragraph at lines 2736--2737
 
  []
@@ -9075,7 +9054,10 @@ Underfull \hbox (badness 1097) in paragraph at lines 2739--2748
 \OT1/cmr/m/it/10 uro-din^amico, que re-sul-tam nos sin-to-mas mic-ci-o-
  []
 
-[628]
+[627]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [628]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [629]
@@ -9085,11 +9067,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [631]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [632]
 Underfull \hbox (badness 10000) in paragraph at lines 2749--2750
 
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 2752--2763
+\OT1/cmr/m/n/10 con-sult^^Sorios de gi-ne-co-lo-gia, que por mo-tivo de
  []
 
 
@@ -9128,21 +9112,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2752--2763
 
  []
 
-[633]
+[632]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [633]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [634]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [635]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [636]
-Underfull \hbox (badness 1205) in paragraph at lines 2766--2777
-\OT1/cmr/m/n/10 de gra-vi-dez sub-se-quente. A acu-pun-tura vem se
- []
-
-
 Underfull \hbox (badness 1629) in paragraph at lines 2766--2777
 \OT1/cmr/m/it/10 Na De-fici^encia do Qi do Fei as ma-ni-festa^^Xc~oes
  []
@@ -9167,10 +9146,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2766--2777
 
  []
 
-[637]
+[636]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [638]
+ [637]
 Underfull \hbox (badness 1005) in paragraph at lines 2780--2789
 \OT1/cmr/m/n/10 e des-li-zante. ACV- ta-qui-car-dia, ritmo re-gu-lar e
  []
@@ -9283,6 +9262,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2780--2789
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [638]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [639]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -9296,11 +9278,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [643]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [644]
 Underfull \hbox (badness 10000) in paragraph at lines 2790--2791
 
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 2793--2801
+\OT1/cmr/m/n/10 caro^^Xco obs-truindo a gar-ganta, di-fi-cul-dade ^^Ra de-
  []
 
 
@@ -9331,10 +9315,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2793--2801
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [645]
+ [644]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [646]
+ [645]
 Underfull \hbox (badness 1496) in paragraph at lines 2803--2812
 \OT1/cmr/m/it/10 No corpo hu-mano, Qi per-tence a Yang e Xue
  []
@@ -9344,15 +9328,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2803--2812
 
  []
 
-[647]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [648]
+[646]
 Underfull \hbox (badness 10000) in paragraph at lines 2813--2814
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [647]
 Underfull \hbox (badness 1655) in paragraph at lines 2817--2828
 \OT1/cmr/m/it/10 Situado cra-ni-al-mente ^^Ras ar-ti-cula^^Xc~oes me-ta-car-po-
 
@@ -9378,11 +9362,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2817--2828
 
  []
 
-[649]
+[648]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [650]
-[651]
+ [649]
+[650]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [651]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [652]
@@ -9407,9 +9394,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [659]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [660]
 Underfull \hbox (badness 2318) in paragraph at lines 2843--2853
 \OT1/cmr/m/n/10 inje^^Xc~ao para aler-gia res-pi-rat^^Soria. No mo-mento,
  []
@@ -9509,6 +9493,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2843--2853
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [660]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [661]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -9525,30 +9512,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [666]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [667]
 Underfull \hbox (badness 10000) in paragraph at lines 2854--2855
 
  []
 
-[668]
+[667]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [669]
+ [668]
 Underfull \vbox (badness 1783) has occurred while \output is active []
 
- [670]
-[671]
+ [669]
+[670]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [672]
-[673]
+ [671]
+[672]
 Underfull \hbox (badness 10000) in paragraph at lines 2871--2873
 
  []
 
-[674]
+[673]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [674]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [675]
@@ -9558,9 +9545,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [677]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [678]
 Underfull \hbox (badness 1845) in paragraph at lines 2888--2897
 \OT1/cmr/m/it/10 a doen^^Xca pro-gride, o des-con-forto pode apa-re-cer
  []
@@ -9595,7 +9579,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2888--2897
 
  []
 
-[679]
+[678]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [679]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [680]
@@ -9605,9 +9592,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [682]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [683]
 Underfull \hbox (badness 10000) in paragraph at lines 2898--2899
 
  []
@@ -9617,7 +9601,10 @@ Underfull \hbox (badness 2961) in paragraph at lines 2901--2914
 \OT1/cmr/m/it/10 A s^^S^^Pndrome do in-tes-tino ir-rit^^Savel (SII) ^^Se um
  []
 
-[684]
+[683]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [684]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [685]
@@ -9630,11 +9617,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [688]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [689]
-Underfull \hbox (badness 1005) in paragraph at lines 2914--2924
-[]\OT1/cmr/m/n/10 - Oper^^Saria de 42 anos queixa-se de ton-tura
+Underfull \hbox (badness 4279) in paragraph at lines 2914--2924
+\OT1/cmr/m/n/10 dura^^Xc~ao de v^^Sarios mi-nu-tos a ho-ras. Associa-
  []
 
 
@@ -9678,7 +9662,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2914--2924
 
  []
 
-[690]
+[689]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [690]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [691]
@@ -9688,9 +9675,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [693]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [694]
 Underfull \hbox (badness 10000) in paragraph at lines 2925--2926
 
  []
@@ -9723,10 +9707,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2928--2937
 
 Underfull \vbox (badness 5681) has occurred while \output is active []
 
- [695]
+ [694]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [696]
+ [695]
 Underfull \hbox (badness 10000) in paragraph at lines 2938--2939
 
  []
@@ -9734,17 +9718,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 2938--2939
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [697]
+ [696]
 Underfull \hbox (badness 1072) in paragraph at lines 2942--2951
 \OT1/cmr/m/it/10 fixa no t^^Sorax, ou ir-ra-di-ada para om-bros e cos-
  []
 
-[698]
+[697]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [699]
+ [698]
 Underfull \hbox (badness 10000) in paragraph at lines 2952--2953
 
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 2957--2966
+\OT1/cmr/m/n/10 uma boa al-ter-na-tiva te-rap^eutica, tanto para o
  []
 
 
@@ -9775,6 +9764,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2957--2966
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [699]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [700]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -9791,9 +9783,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [705]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [706]
 Underfull \hbox (badness 10000) in paragraph at lines 2967--2968
 
  []
@@ -9828,13 +9817,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2970--2979
 
  []
 
-[707]
+[706]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [707]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [708]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [709]
 Underfull \hbox (badness 10000) in paragraph at lines 2980--2981
 
  []
@@ -9842,7 +9831,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2980--2981
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [710]
+ [709]
 Underfull \hbox (badness 1342) in paragraph at lines 2983--2993
 \OT1/cmr/m/it/10 do P^^Se (Est^omago) por ener-gias per-versa, tendo
  []
@@ -9877,7 +9866,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2983--2993
 
  []
 
-[711]
+[710]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [711]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [712]
@@ -9887,9 +9879,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [714]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [715]
 Underfull \hbox (badness 10000) in paragraph at lines 2994--2995
 
  []
@@ -9915,13 +9904,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2997--3006
 
  []
 
-[716]
+[715]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [716]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [717]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [718]
 Underfull \hbox (badness 10000) in paragraph at lines 3007--3008
 
  []
@@ -9931,10 +9920,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 3011--3021
 
  []
 
-[719]
+[718]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [720]
+ [719]
 Underfull \hbox (badness 10000) in paragraph at lines 3022--3023
 
  []
@@ -9942,7 +9931,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3022--3023
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [721]
+ [720]
+Underfull \hbox (badness 1577) in paragraph at lines 3025--3033
+\OT1/cmr/m/n/10 - Pa-ci-en-tes v^^S^^Ptimas de tor-ci-colo fre-quen-te-mente
+ []
+
+
 Underfull \hbox (badness 2080) in paragraph at lines 3025--3033
 \OT1/cmr/m/n/10 de-sem-pe-nha des-ta-cada fun^^Xc~ao. Que pon-tos s~ao
  []
@@ -9962,10 +9956,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 3025--3033
 
  []
 
-[722]
+[721]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [723]
+ [722]
 Underfull \hbox (badness 1354) in paragraph at lines 3035--3044
 \OT1/cmr/m/it/10 Dor lo-ca-li-zada na regi~ao pa-ri-e-tal ou no v^^Sertice
  []
@@ -9985,13 +9979,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3035--3044
 
  []
 
-[724]
+[723]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [724]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [725]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [726]
 Underfull \hbox (badness 1540) in paragraph at lines 3047--3056
 \OT1/cmr/m/it/10 a De-fici^encia de yang de Pi, as ma-ni-festa^^Xc~oes
  []
@@ -10011,10 +10005,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 3047--3056
 
  []
 
-[727]
+[726]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [728]
+ [727]
 Underfull \hbox (badness 10000) in paragraph at lines 3057--3058
 
  []
@@ -10022,7 +10016,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3057--3058
 
 Underfull \vbox (badness 5681) has occurred while \output is active []
 
- [729]
+ [728]
+Underfull \hbox (badness 3482) in paragraph at lines 3061--3070
+\OT1/cmr/m/n/10 e an-ti-de-pres-si-vos), al^^Sem de apre-sen-tar rea^^Xc~oes
+ []
+
+
 Underfull \hbox (badness 2486) in paragraph at lines 3061--3070
 \OT1/cmr/m/it/10 sensa^^Xc~ao de ca-lor nos cinco Xin, trans-pira^^Xc~ao
  []
@@ -10068,10 +10067,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 3061--3070
 
  []
 
-[730]
+[729]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [731]
+ [730]
 Underfull \hbox (badness 10000) in paragraph at lines 3071--3072
 
  []
@@ -10109,6 +10108,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3074--3085
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [731]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [732]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -10116,9 +10118,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [734]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [735]
 Underfull \hbox (badness 2990) in paragraph at lines 3087--3096
 \OT1/cmr/m/it/10 ce-dor) por ener-gias per-ver-sas, se ma-ni-fes-tando
  []
@@ -10133,13 +10132,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3087--3096
 
  []
 
-[736]
+[735]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [736]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [737]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [738]
 Underfull \hbox (badness 10000) in paragraph at lines 3097--3098
 
  []
@@ -10172,13 +10171,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3100--3111
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [738]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [739]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [740]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [741]
 Underfull \hbox (badness 3449) in paragraph at lines 3113--3122
 \OT1/cmr/m/it/10 encarregar-se do de-sen-vol-vi-mento e re-produ^^Xc~ao,
  []
@@ -10203,14 +10202,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3113--3122
 
  []
 
-[742]
+[741]
 Underfull \hbox (badness 10000) in paragraph at lines 3123--3124
 
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 3126--3137
-[]\OT1/cmr/m/n/10 - So-bre as fun^^Xc~oes de Pi (Ba^^Xco) as-si-nale a
  []
 
 
@@ -10226,18 +10220,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 3126--3137
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [743]
+ [742]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [744]
-[745]
+ [743]
+[744]
 Underfull \hbox (badness 10000) in paragraph at lines 3145--3146
 
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 3148--3157
-\OT1/cmr/m/n/10 de um muco po-ten-ci-al-mente ca-paz de ori-gi-nar
+Underfull \hbox (badness 1721) in paragraph at lines 3148--3157
+\OT1/cmr/m/n/10 a ^^Sotica da me-di-cina chi-nesa, as-si-nale en-tre as
  []
 
 
@@ -10320,18 +10314,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 3148--3157
 
  []
 
-[746]
+[745]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [746]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [747]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [748]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [749]
 Underfull \hbox (badness 10000) in paragraph at lines 3158--3159
 
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 3161--3170
+\OT1/cmr/m/n/10 - Atrav^^Ses de mi-nu-ci-osa ob-serva^^Xc~ao da na-tu-reza
  []
 
 
@@ -10365,10 +10364,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 3161--3170
 
  []
 
-[750]
+[749]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [751]
+ [750]
 Underfull \hbox (badness 10000) in paragraph at lines 3171--3172
 
  []
@@ -10411,13 +10410,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3174--3183
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [751]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [752]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [753]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [754]
 Underfull \hbox (badness 10000) in paragraph at lines 3185--3186
 
  []
@@ -10430,13 +10429,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3188--3197
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [754]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [755]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [756]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [757]
 Underfull \hbox (badness 1062) in paragraph at lines 3201--3210
 \OT1/cmr/m/n/10 o seu as-pecto es-pi-nhoso re-flete qual padr~ao de
  []
@@ -10457,24 +10456,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 3201--3210
 
  []
 
-[758]
+[757]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [759]
+ [758]
 Underfull \hbox (badness 10000) in paragraph at lines 3211--3212
 
  []
 
-[760]
+[759] [760
+
+]
 Cap\'{\i }tulo 4.
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3219.
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 3219--3228
-[]\OT1/cmr/m/n/10 - De acordo com seus co-nhe-ci-men-tos so-bre
- []
 
 
 Underfull \hbox (badness 1005) in paragraph at lines 3219--3228
@@ -10494,9 +10490,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3219--3228
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [761
-
-]
+ [761]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [762]
@@ -10506,7 +10500,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 
 Underfull \hbox (badness 1270) in paragraph at lines 3232--3243
-\OT1/cmr/m/n/10 e ab-du-tor longo do po-le-gar. Su-prido pela veia
+\OT1/cmr/m/n/10 en-tre os tend~oes dos m^^Susculos bra-qui-or-ra-dial e
  []
 
 
@@ -10538,11 +10532,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3245--3254
 [766]
 Underfull \hbox (badness 10000) in paragraph at lines 3255--3256
 
- []
-
-
-Underfull \hbox (badness 1303) in paragraph at lines 3259--3270
-[]\OT1/cmr/m/n/10 - Os Ca-nais Ex-tra-or-din^^Sarios se ra-mi-fi-cam e
  []
 
 
@@ -10870,11 +10859,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3351--3352
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 3354--3365
-\OT1/cmr/m/n/10 cada sis-tema tem sua fi-si-o-lo-gia dis-tinta. Por^^Sem
- []
-
-
 Underfull \hbox (badness 1360) in paragraph at lines 3354--3365
 \OT1/cmr/m/it/10 trans-forma, dis-tri-bui e trans-porta os nu-tri-en-tes,
  []
@@ -10908,6 +10892,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [802]
+Underfull \hbox (badness 4229) in paragraph at lines 3380--3391
+\OT1/cmr/m/n/10 ir-re-gu-la-res, in-do-lo-res e com fluxo au-men-tado.
+ []
+
+
 Underfull \hbox (badness 1796) in paragraph at lines 3380--3391
 \OT1/cmr/m/n/10 com-plei^^Xc~ao p^^Salida sem bri-lho, res-pira^^Xc~ao curta,
  []
@@ -11028,6 +11017,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 3403--3404
  []
 
 
+Underfull \hbox (badness 3209) in paragraph at lines 3406--3424
+\OT1/cmr/m/n/10 SOP (S^^S^^Pndrome dos Ov^^Sarios Po-li-mi-croc^^S^^Psticos),
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 3406--3424
 
  []
@@ -11112,16 +11106,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [824]
-Underfull \hbox (badness 1231) in paragraph at lines 3468--3477
-[]\OT1/cmr/m/n/10 - O efeito de-sen-ca-de-ado pela acu-pun-tura j^^Sa
- []
-
-
-Underfull \hbox (badness 2142) in paragraph at lines 3468--3477
-\OT1/cmr/m/n/10 que cau-sam va-so-di-lata^^Xc~ao e au-mento do fluxo
- []
-
-
 Underfull \hbox (badness 4752) in paragraph at lines 3468--3477
 \OT1/cmr/m/it/10 (me-ca-nismo seg-men-tar e su-pras-seg-men-tar). No
  []
@@ -11356,6 +11340,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [839]
+Underfull \hbox (badness 1917) in paragraph at lines 3493--3502
+\OT1/cmr/m/n/10 - De acordo com seu co-nhe-ci-mento acerca do
+ []
+
+
 Underfull \hbox (badness 1107) in paragraph at lines 3493--3502
 \OT1/cmr/m/n/10 a) Trata-se de um fen^omeno li-gado ^^Ra a^^Xc~ao da
  []
@@ -11418,13 +11407,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3503--3504
  []
 
 
-Underfull \hbox (badness 5288) in paragraph at lines 3506--3517
-\OT1/cmr/m/n/10 end^^Sogenos, t^em ca-rac-ter^^S^^Psticas pr^^Soprias neu-ro-
- []
-
-
-Underfull \hbox (badness 3199) in paragraph at lines 3506--3517
-\OT1/cmr/m/n/10 fi-siol^^Sogicas. Quanto a es-ses neu-ro-trans-mis-so-res,
+Underfull \hbox (badness 10000) in paragraph at lines 3506--3517
+\OT1/cmr/m/n/10 t^em ca-rac-ter^^S^^Psticas pr^^Soprias neu-ro-fi-siol^^Sogicas
+.
  []
 
 
@@ -11486,6 +11471,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [847]
+Underfull \hbox (badness 6380) in paragraph at lines 3519--3530
+\OT1/cmr/m/n/10 - No me-ca-nismo he-te-ros-seg-men-tar (su-pras-seg-
+ []
+
+
 Underfull \hbox (badness 2698) in paragraph at lines 3519--3530
 \OT1/cmr/m/n/10 men-tar) da acu-pun-tura a Subst^ancia Cin-zenta
  []
@@ -11598,11 +11588,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [856]
-Underfull \hbox (badness 2809) in paragraph at lines 3544--3555
-\OT1/cmr/m/n/10 au-men-tando pau-la-ti-na-mente com as aplica^^Xc~oes.
- []
-
-
 Underfull \hbox (badness 3240) in paragraph at lines 3544--3555
 \OT1/cmr/m/it/10 re-tro-a-li-menta^^Xc~ao ne-ga-tivo para a anal-ge-sia por
  []
@@ -11693,6 +11678,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [860]
+Underfull \hbox (badness 1946) in paragraph at lines 3557--3566
+\OT1/cmr/m/n/10 est^^S^^Pmulo apli-cado. Quanto ao me-ca-nismo desta
+ []
+
+
 Underfull \hbox (badness 3525) in paragraph at lines 3557--3566
 \OT1/cmr/m/n/10 me-ca-nis-mos neu-ro-fi-siol^^Sogicos di-fe-ren-tes da-que-les
  []
@@ -11747,6 +11737,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [863]
 Underfull \hbox (badness 10000) in paragraph at lines 3567--3568
 
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 3570--3582
+\OT1/cmr/m/n/10 - So-bre as es-tru-tu-ras re-la-ci-o-na-das ao efeito da
  []
 
 
@@ -12029,11 +12024,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [893]
-Underfull \hbox (badness 1033) in paragraph at lines 3648--3657
-[]\OT1/cmr/m/n/10 - Dor ar-ti-cu-lar aguda, ali-vi-ada pelo ca-lor e
- []
-
-
 Underfull \hbox (badness 1478) in paragraph at lines 3648--3657
 \OT1/cmr/m/n/10 a) S^^S^^Pndrome Bi ca-lor. De acordo com os oito
  []
@@ -12302,11 +12292,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3671--3672
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 3674--3685
-[]\OT1/cmr/m/n/10 -Paciente evo-lui com qua-dro cl^^S^^Pnico de eva-
- []
-
-
 Underfull \hbox (badness 3942) in paragraph at lines 3674--3685
 \OT1/cmr/m/it/10 a sus-pi-rar, de-press~ao men-tal ou ir-ri-ta-bi-li-dade,
  []
@@ -12429,25 +12414,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [918]
-Underfull \hbox (badness 1448) in paragraph at lines 3700--3710
-[]\OT1/cmr/m/n/10 - Es-co-lha abaixo quais os prin-ci-pais pon-tos
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 3700--3710
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [919]
+[919]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [920]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [921]
 Underfull \hbox (badness 10000) in paragraph at lines 3711--3712
 
  []
@@ -12457,13 +12431,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 3714--3723
 
  []
 
-[922]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [921]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [922]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [923]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [924]
 Underfull \hbox (badness 3536) in paragraph at lines 3726--3735
 \OT1/cmr/m/it/10 O trans-torno de an-si-e-dade ge-ne-ra-li-zada ^^Se um
  []
@@ -12533,7 +12510,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3726--3735
 
  []
 
-[925]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [924]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [925]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [926]
@@ -12560,18 +12543,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 3736--3737
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 3739--3750
-\OT1/cmr/m/n/10 Exame f^^S^^Psico com acha-dos re-le-van-tes: apre-senta
- []
-
-
-Underfull \hbox (badness 1248) in paragraph at lines 3739--3750
-\OT1/cmr/m/n/10 IMC=31, hi-po-es-te-sia na face la-te-ral das co-xas,
- []
-
-
-Underfull \hbox (badness 1668) in paragraph at lines 3739--3750
-\OT1/cmr/m/n/10 ^^Sareas de alod^^S^^Pnia, for^^Xca mus-cu-lar mi-ni-ma-mente
+Underfull \hbox (badness 1325) in paragraph at lines 3739--3750
+\OT1/cmr/m/n/10 de na-tu-reza neu-rop^^Satica, in-tensa, lo-ca-li-zada em
  []
 
 
@@ -12741,10 +12714,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3752--3761
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [941]
+[941]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [942]
@@ -12850,9 +12820,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [956]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [957]
 Underfull \hbox (badness 10000) in paragraph at lines 3788--3789
 
  []
@@ -12887,21 +12854,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 3791--3800
 
  []
 
-[958]
+
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [957]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [958]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [959]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [960]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [961]
 Underfull \hbox (badness 10000) in paragraph at lines 3801--3802
 
  []
 
 
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [961]
 Underfull \hbox (badness 1231) in paragraph at lines 3804--3813
 \OT1/cmr/m/it/10 de ener-gia prin-ci-pal do Dan). Os pon-tos lo-cais
  []
@@ -12920,9 +12893,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 3814--3815
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 3817--3826
-\OT1/cmr/m/n/10 pe-que-nas ar-ti-cula^^Xc~oes me-ta-tar-so-fa-lan-ge-a-nas, qua
-l
+Underfull \hbox (badness 4024) in paragraph at lines 3817--3826
+\OT1/cmr/m/n/10 ar-ti-cula^^Xc~oes me-ta-tar-so-fa-lan-ge-a-nas, qual se-ria o
  []
 
 
@@ -12950,6 +12922,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [967]
+Underfull \hbox (badness 2941) in paragraph at lines 3829--3838
+\OT1/cmr/m/n/10 ar-ti-cula^^Xc~oes, sensa^^Xc~ao de queima^^Xc~ao lo-cal com
+ []
+
+
 Underfull \hbox (badness 3930) in paragraph at lines 3829--3838
 \OT1/cmr/m/it/10 ma-ni-festa^^Xc~oes in-cluem: mem-bros e ar-ti-cula^^Xc~oes
  []
@@ -12973,9 +12950,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3829--3838
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [969]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [970]
 Underfull \hbox (badness 10000) in paragraph at lines 3839--3840
 
  []
@@ -13031,7 +13005,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3842--3851
 
  []
 
-[971]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [970]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [971]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [972]
@@ -13050,18 +13030,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 3855--3865
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [975]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [976]
+[975]
 Underfull \hbox (badness 10000) in paragraph at lines 3866--3867
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [976]
 Underfull \hbox (badness 4217) in paragraph at lines 3869--3878
 \OT1/cmr/m/it/10 tosse. As ma-ni-festa^^Xc~oes in-cluem tosse in-tensa
  []
@@ -13085,9 +13062,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3869--3878
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [978]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [979]
 Underfull \hbox (badness 10000) in paragraph at lines 3879--3880
 
  []
@@ -13107,22 +13081,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 3882--3894
 
  []
 
-[980]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [979]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [980]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [981]
-Underfull \hbox (badness 4832) in paragraph at lines 3896--3902
-[]\OT1/cmr/m/n/10 - Pa-ci-ente com sin-to-mas de ir-ri-ta-bi-li-dade,
- []
-
-
-Underfull \hbox (badness 2334) in paragraph at lines 3896--3902
-\OT1/cmr/m/n/10 ex-plos~oes de f^^Suria, zum-bido, ce-fa-leia tem-po-ral,
- []
-
-
-Underfull \hbox (badness 3895) in paragraph at lines 3896--3902
-\OT1/cmr/m/n/10 gosto amargo na boca, cons-tipa^^Xc~ao in-tes-ti-nal,
+Underfull \hbox (badness 2846) in paragraph at lines 3896--3902
+\OT1/cmr/m/n/10 Ap^^Sos ex-posi^^Xc~ao pro-lon-gada ao frio, de-sen-volve
  []
 
 
@@ -13141,10 +13111,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3896--3902
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [982]
+[982]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [983]
@@ -13199,17 +13166,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 3921--3929
  []
 
 [987]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [988]
 Underfull \hbox (badness 10000) in paragraph at lines 3931--3940
 
  []
 
-[989]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [988]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [989]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [990]
+Underfull \hbox (badness 1577) in paragraph at lines 3942--3950
+\OT1/cmr/m/n/10 - Pa-ci-en-tes v^^S^^Ptimas de tor-ci-colo fre-quen-te-mente
+ []
+
+
 Underfull \hbox (badness 2080) in paragraph at lines 3942--3950
 \OT1/cmr/m/n/10 de-sem-pe-nha des-ta-cada fun^^Xc~ao. Que pon-tos s~ao
  []
@@ -13259,9 +13234,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [995]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [996]
 Underfull \hbox (badness 10000) in paragraph at lines 3962--3963
 
  []
@@ -13286,7 +13258,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3965--3974
 
  []
 
-[997]
+
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [996]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [997]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [998]
@@ -13339,14 +13317,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 3978--3987
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1000]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1001]
 Underfull \hbox (badness 10000) in paragraph at lines 3988--3989
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1001]
 Underfull \hbox (badness 2221) in paragraph at lines 3991--4002
 \OT1/cmr/m/it/10 da lom-bal-gia por De-fici^encia de Jing do Shen
  []
@@ -13409,14 +13387,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 4014--4015
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1008]
-Underfull \hbox (badness 2126) in paragraph at lines 4017--4026
-[]\OT1/cmr/m/n/10 - Uma pa-ci-ente pro-cu-rou seu ge-ri-a-tra com
- []
-
-
 Underfull \hbox (badness 1038) in paragraph at lines 4017--4026
 \OT1/cmr/m/n/10 le-ves e pal-pita^^Xc~oes muito fre-quen-tes. Ao exame
  []
@@ -13431,30 +13401,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 4017--4026
 
  []
 
-[1009]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1008]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1009]
+Underfull \hbox (badness 2080) in paragraph at lines 4027--4036
+\OT1/cmr/m/n/10 - So-bre o tra-ta-mento da dor nas ar-ti-cula^^Xc~oes
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 4027--4036
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1010]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1011]
-Underfull \hbox (badness 1147) in paragraph at lines 4038--4048
-\OT1/cmr/m/n/10 es-pe-ci-a-lista em Acu-pun-tura queixando-se de di-
- []
-
-
-Underfull \hbox (badness 1205) in paragraph at lines 4038--4048
-\OT1/cmr/m/n/10 de vi-a-gra pres-crito pelo uro-lo-gista; no en-tanto,
- []
-
-
-Underfull \hbox (badness 1147) in paragraph at lines 4038--4048
-\OT1/cmr/m/n/10 la-bo-ra-to-rial n~ao re-ve-lam doen^^Xca org^anica. Ap^^Sos
+[1010]
+Underfull \hbox (badness 2653) in paragraph at lines 4038--4048
+\OT1/cmr/m/n/10 e por ori-enta^^Xc~ao m^^Sedica re-sol-veu sus-pen-der a
  []
 
 
@@ -13483,7 +13448,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4038--4048
 
  []
 
-[1012]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1011]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1012]
 Underfull \hbox (badness 1024) in paragraph at lines 4050--4059
 \OT1/cmr/m/n/10 pon-tos para mem-bro in-fe-rior: BP3, BP10, E34;
  []
@@ -13502,14 +13473,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 4060--4061
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1015]
-Underfull \hbox (badness 1436) in paragraph at lines 4063--4072
-\OT1/cmr/m/n/10 do Vaso Yang do Cal-ca-nhar (Yang Qiao Mai)
- []
-
-
 Underfull \hbox (badness 1412) in paragraph at lines 4063--4072
 \OT1/cmr/m/it/10 Ca-nais Cu-ri-o-sos n~ao os pos-suem. Por^^Sem como
  []
@@ -13519,24 +13482,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 4063--4072
 
  []
 
-[1016]
+[1015]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1016]
 Underfull \hbox (badness 10000) in paragraph at lines 4073--4074
 
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 4076--4090
-[]\OT1/cmr/m/n/10 - Um bom n^^Sumero de pa-ci-en-tes cursa com
+Underfull \hbox (badness 1348) in paragraph at lines 4076--4090
+\OT1/cmr/m/n/10 der-ma-tol^^Sogicas de dif^^S^^Pcil solu^^Xc~ao.Existem im-por-
+
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 4076--4090
-\OT1/cmr/m/n/10 men-tar seja uma das cau-sas mais im-por-tan-tes.
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 4076--4090
-\OT1/cmr/m/n/10 uma dis-fun^^Xc~ao sindr^omica cha-mada de ac^^Sumulo
+Underfull \hbox (badness 5231) in paragraph at lines 4076--4090
+\OT1/cmr/m/n/10 erup^^Xc~ao cut^anea aver-me-lhada, dor epig^^Sastrica,
  []
 
 
@@ -13549,16 +13511,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4076--4090
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1017]
+[1017]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1018]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1019]
 Underfull \hbox (badness 10000) in paragraph at lines 4091--4092
 
  []
@@ -13578,12 +13534,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 4094--4102
 
  []
 
-[1020]
+[1019]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1021]
+ [1020]
 Underfull \hbox (badness 10000) in paragraph at lines 4103--4104
 
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 4106--4119
+\OT1/cmr/m/n/10 - Para o tra-ta-mento da lom-bo-ci-al-tal-gia de S1
  []
 
 
@@ -13606,7 +13567,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4106--4119
 
  []
 
-[1022]
+[1021]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1022]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1023]
@@ -13624,10 +13588,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4123--4133
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1024]
+[1024]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1025]
@@ -13698,11 +13659,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 4162--4163
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1031]
-Underfull \hbox (badness 1888) in paragraph at lines 4165--4174
-[]\OT1/cmr/m/n/10 - De acordo com seus co-nhe-ci-men-tos so-bre
- []
-
-
 Underfull \hbox (badness 1509) in paragraph at lines 4165--4174
 \OT1/cmr/m/it/10 por ra-mi-fica^^Xc~oes do 10\TS1/cmr/m/it/10 º \OT1/cmr/m/it/1
 0 nervo in-ter-cos-tal. Est^^Sa
@@ -13837,11 +13793,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 4214--4215
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1040]
-Underfull \hbox (badness 1087) in paragraph at lines 4217--4226
-[]\OT1/cmr/m/n/10 - Iden-ti-fi-que abaixo o ponto ex-tra que est^^Sa
- []
-
-
 Underfull \hbox (badness 2103) in paragraph at lines 4217--4226
 \OT1/cmr/m/it/10 as ex-tre-mi-da-des me-di-ais das so-bran-ce-lhas. Est^^Sa
  []
@@ -13950,6 +13901,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1048]
 Underfull \hbox (badness 10000) in paragraph at lines 4253--4254
 
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 4256--4265
+\OT1/cmr/m/n/10 -A t^^Secnica com ven-to-sas pro-por-ci-ona uma boa
  []
 
 
@@ -14182,6 +14138,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4305--4306
  []
 
 
+Underfull \hbox (badness 1902) in paragraph at lines 4308--4317
+\OT1/cmr/m/n/10 fora dos pon-tos cl^^Sassicos da acu-pun-tura, pode
+ []
+
+
 Underfull \hbox (badness 2735) in paragraph at lines 4308--4317
 \OT1/cmr/m/it/10 (DNIC) con-siste em um po-de-roso sis-tema que
  []
@@ -14219,13 +14180,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4318--4319
  []
 
 
-Underfull \hbox (badness 7832) in paragraph at lines 4321--4330
-\OT1/cmr/m/n/10 do Es-ti-mula^^Xc~ao Neu-ral El^^Setrica Trans-cut^anea
+Underfull \hbox (badness 1888) in paragraph at lines 4321--4330
+\OT1/cmr/m/n/10 quanto pela Ele-tro-a-cu-pun-tura. A esse res-peito,
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 4321--4330
-\OT1/cmr/m/n/10 (TENS), quanto pela Ele-tro-a-cu-pun-tura. A esse
+Underfull \hbox (badness 2662) in paragraph at lines 4321--4330
+\OT1/cmr/m/n/10 analg^^Sesica: trans-cut^anea e ele-tro-a-cu-pun-tura em
  []
 
 
@@ -14301,6 +14262,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1076]
 Underfull \hbox (badness 10000) in paragraph at lines 4331--4332
 
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 4334--4343
+\OT1/cmr/m/n/10 - Pes-qui-sas mos-tram que a acu-pun-tura exerce
  []
 
 
@@ -14550,6 +14516,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4357--4358
  []
 
 
+Underfull \hbox (badness 1783) in paragraph at lines 4360--4369
+\OT1/cmr/m/n/10 { Em rela^^Xc~ao ^^Ra TENS acu-pun-tura, as-si-nale a
+ []
+
+
 Underfull \hbox (badness 2359) in paragraph at lines 4360--4369
 \OT1/cmr/m/it/10 A mo-da-li-dade con-ven-ci-o-nal tem alta frequ^encia
  []
@@ -14656,6 +14627,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4383--4384
  []
 
 
+Underfull \hbox (badness 1565) in paragraph at lines 4386--4395
+\OT1/cmr/m/n/10 pons^^Savel pelo pro-cesso res-pi-rat^^Sorio, ou-tro Zang
+ []
+
+
 Underfull \hbox (badness 1874) in paragraph at lines 4386--4395
 \OT1/cmr/m/it/10 O re-sul-tado ser^^Sa uma res-pira^^Xc~ao di-fi-cul-tosa ao
  []
@@ -14758,6 +14734,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 4422--4423
  []
 
 
+Underfull \hbox (badness 1755) in paragraph at lines 4425--4434
+\OT1/cmr/m/n/10 tos sin-to-mas e si-nais que con-ver-gem para um
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 4425--4434
+\OT1/cmr/m/n/10 ci-o-nada a ou-tros sin-to-mas si-mult^aneos, pode{se
+ []
+
+
 Underfull \hbox (badness 1400) in paragraph at lines 4425--4434
 \OT1/cmr/m/n/10 e na-riz obs-tru^^S^^Pdo s~ao sin-to-mas de re-ten^^Xc~ao de
  []
@@ -14840,14 +14826,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4435--4436
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 4438--4447
-\OT1/cmr/m/n/10 ati-vi-da-des di^^Sarias. Ao in-ter-ro-gat^^Sorio n~ao re-fe-ri
-a
+Underfull \hbox (badness 1603) in paragraph at lines 4438--4447
+\OT1/cmr/m/n/10 exame f^^S^^Psico se ob-ser-va-vam sus-pi-ros fre-quen-tes,
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 4438--4447
-\OT1/cmr/m/n/10 ou-tras quei-xas as-so-ci-a-das aos de-mais sis-te-mas.
+Underfull \hbox (badness 1107) in paragraph at lines 4438--4447
+\OT1/cmr/m/n/10 l^^S^^Pngua nor-mal, mu-co-sas nor-mo-co-ra-das, abd^omen
  []
 
 
@@ -15034,6 +15019,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4487--4488
  []
 
 
+Underfull \hbox (badness 4981) in paragraph at lines 4489--4503
+\OT1/cmr/m/n/10 ni-festa^^Xc~oes: tosse com ex-pec-tora^^Xc~ao pu-ru-lenta,
+ []
+
+
 Underfull \hbox (badness 1226) in paragraph at lines 4489--4503
 \OT1/cmr/m/it/10 A s^^S^^Pndrome do ex-te-rior ^^Se in-di-cada pe-los si-nais
  []
@@ -15129,6 +15119,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 4504--4505
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1125]
+Underfull \hbox (badness 1394) in paragraph at lines 4507--4516
+\OT1/cmr/m/n/10 mais fre-quen-tes nos dias atu-ais. Nessa abor-da-
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 4507--4516
+\OT1/cmr/m/n/10 es-que-ci-mento fre-quente, lom-bal-gia, fra-queza dos
+ []
+
+
 Underfull \hbox (badness 1867) in paragraph at lines 4507--4516
 \OT1/cmr/m/it/10 ir-re-gu-la-ri-dade mens-trual e san-gra-mento ute-rino,
  []
@@ -15298,8 +15298,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4557--4558
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 4560--4569
-\OT1/cmr/m/n/10 N~ao houve qual-quer trauma, nem ex-posi^^Xc~oes a
+Underfull \hbox (badness 1005) in paragraph at lines 4560--4569
+\OT1/cmr/m/n/10 qual-quer trauma, nem ex-posi^^Xc~oes a me-di-ca-men-
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 4560--4569
+\OT1/cmr/m/n/10 a testa, nota-se ate-nua^^Xc~ao das pre-gas cut^aneas
  []
 
 
@@ -15360,6 +15365,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4570--4571
  []
 
 
+Underfull \hbox (badness 1137) in paragraph at lines 4573--4582
+\OT1/cmr/m/n/10 - Pa-ci-ente de 60 anos pro-cura aten-di-mento no
+ []
+
+
 Underfull \hbox (badness 1127) in paragraph at lines 4573--4582
 \OT1/cmr/m/it/10 acu-pun-tura lo-cais, a fim de au-men-tar o Qi do
  []
@@ -15391,6 +15401,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1148]
 Underfull \hbox (badness 10000) in paragraph at lines 4583--4584
 
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 4586--4595
+\OT1/cmr/m/n/10 com tronco fle-xi-o-nado, ant^^Salgica, abd^omen bas-
  []
 
 
@@ -15650,14 +15665,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 4638--4647
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1165]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1166]
 Underfull \hbox (badness 10000) in paragraph at lines 4648--4649
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1166]
 Underfull \hbox (badness 2020) in paragraph at lines 4652--4661
 \OT1/cmr/m/it/10 pro-ble-mas mus-cu-lo-es-quel^^Seticos se-cund^^Sarios. Es-tes
 
@@ -15924,10 +15939,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4665--4674
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1177]
+[1177]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1178]
@@ -15951,6 +15963,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1184]
 Underfull \hbox (badness 10000) in paragraph at lines 4675--4676
 
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 4678--4687
+\OT1/cmr/m/n/10 - Pa-ci-ente jo-vem queixa-se de dor na he-mi-face
  []
 
 
@@ -16026,26 +16043,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1189]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1190]
 Underfull \hbox (badness 10000) in paragraph at lines 4688--4689
 
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 4691--4700
-\OT1/cmr/m/n/10 tornando-se in-su-port^^Savel a ponto de atra-pa-lhar
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1190]
+Underfull \hbox (badness 1033) in paragraph at lines 4691--4700
+\OT1/cmr/m/n/10 sua ex-tens~ao, a l^^S^^Pngua mos-tra um re-ves-ti-mento
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 4691--4700
-\OT1/cmr/m/n/10 as suas ati-vi-da-des co-ti-di-a-nas. Nega dis-pa-reu-nia
- []
-
-
-Underfull \hbox (badness 2478) in paragraph at lines 4691--4700
-\OT1/cmr/m/n/10 bi^^Sopsia la-pa-rosc^^Sopica con-fir-mando en-do-me-tri-ose.
+Underfull \hbox (badness 2865) in paragraph at lines 4691--4700
+\OT1/cmr/m/n/10 o exame de bi^^Sopsia la-pa-rosc^^Sopica con-fir-mando
  []
 
 
@@ -16099,9 +16111,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1194]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1195]
 Underfull \hbox (badness 10000) in paragraph at lines 4701--4702
 
  []
@@ -16176,7 +16185,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4704--4713
 
  []
 
-[1196]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1195]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1196]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1197]
@@ -16255,14 +16270,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 4728--4729
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1212]
 Underfull \hbox (badness 1371) in paragraph at lines 4731--4740
 \OT1/cmr/m/it/10 ou dis-tens~ao mus-cu-lar e at^^Se rou-pas aper-ta-das).
  []
 
-[1213]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1212]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1213]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1214]
@@ -16271,6 +16289,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1215]
 Underfull \hbox (badness 10000) in paragraph at lines 4741--4742
 
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 4744--4753
+\OT1/cmr/m/n/10 abaixo que cor-res-ponda ^^Ra re-a-li-dade quanto ao
  []
 
 
@@ -16314,10 +16337,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4744--4753
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1216]
+[1216]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1217]
@@ -16329,6 +16349,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1219]
 Underfull \hbox (badness 10000) in paragraph at lines 4754--4755
 
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 4757--4766
+\OT1/cmr/m/n/10 de epis^^Sodios de ce-fa-leia tem-po-ral uni-la-te-ral, de
  []
 
 
@@ -16512,16 +16537,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1234]
-Underfull \hbox (badness 3503) in paragraph at lines 4796--4805
-[]\OT1/cmr/m/n/10 -Para um qua-dro de dor no om-bro, com
- []
-
-
-Underfull \hbox (badness 4181) in paragraph at lines 4796--4805
-\OT1/cmr/m/n/10 su-pra-es-pi-nhal de-vido a pro-ble-mas er-gon^omicos
- []
-
-
 Underfull \hbox (badness 1902) in paragraph at lines 4796--4805
 \OT1/cmr/m/n/10 a) Re-a-liza^^Xc~ao de acu-pun-tura com os se-guin-tes
  []
@@ -16578,14 +16593,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1237]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1238]
 Underfull \hbox (badness 10000) in paragraph at lines 4806--4807
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1238]
 Underfull \hbox (badness 1087) in paragraph at lines 4809--4818
 \OT1/cmr/m/n/10 pelo v^^S^^Prus varicela-zoster. Fez uso de Tra-ma-dol
  []
@@ -16625,16 +16640,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1242]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1243]
 Underfull \hbox (badness 10000) in paragraph at lines 4819--4820
 
- []
-
-
-Underfull \hbox (badness 1484) in paragraph at lines 4822--4831
-\OT1/cmr/m/n/10 hi-pe-ral-ge-sia. Os exa-mes la-bo-ra-to-ri-ais re-ve-la-ram:
  []
 
 
@@ -16734,7 +16741,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4822--4831
 
  []
 
-[1244]
+
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [1243]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1244]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1245]
@@ -16753,11 +16766,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1250]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1251]
 Underfull \hbox (badness 10000) in paragraph at lines 4832--4833
 
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 4835--4844
+\OT1/cmr/m/n/10 ou-tras doen^^Xcas p^^Selvicas. A ci-tos-co-pia pode ser
  []
 
 
@@ -16775,7 +16790,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4835--4844
 
  []
 
-[1252]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1251]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1252]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1253]
@@ -16784,16 +16805,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1254]
 Underfull \hbox (badness 10000) in paragraph at lines 4845--4846
 
- []
-
-
-Underfull \hbox (badness 1275) in paragraph at lines 4848--4858
-[]\OT1/cmr/m/n/10 - Um pa-ci-ente com qua-dro de he-mat^^Suria e
- []
-
-
-Underfull \hbox (badness 2368) in paragraph at lines 4848--4858
-\OT1/cmr/m/n/10 dis^^Suria, sede, ir-ri-ta-bi-li-dade, ins^onia, ^^Sulceras na
  []
 
 
@@ -16825,14 +16836,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 4848--4858
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1256]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1257]
 Underfull \hbox (badness 10000) in paragraph at lines 4859--4860
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1257]
 Underfull \hbox (badness 2042) in paragraph at lines 4862--4871
 \OT1/cmr/m/n/10 s^^Subitas que aco-me-tem gran-des ^^Sareas cor-po-rais.
  []
@@ -16854,14 +16865,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1260]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1261]
 Underfull \hbox (badness 10000) in paragraph at lines 4872--4873
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1261]
 Underfull \hbox (badness 1231) in paragraph at lines 4875--4884
 \OT1/cmr/m/it/10 de vento ex^^Sogeno, que afeta fa-cil-mente a parte
  []
@@ -16885,6 +16896,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1264]
 Underfull \hbox (badness 10000) in paragraph at lines 4885--4886
 
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 4888--4897
+\OT1/cmr/m/n/10 -Paciente idosa evo-lui h^^Sa seis me-ses com neu-
  []
 
 
@@ -17087,14 +17103,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1277]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1278]
 Underfull \hbox (badness 10000) in paragraph at lines 4912--4913
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1278]
 Underfull \hbox (badness 1308) in paragraph at lines 4915--4924
 \OT1/cmr/m/it/10 dos Zang Fu e dos me-ri-di-a-nos e co-la-te-rais. O
  []
@@ -17118,9 +17134,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 4925--4926
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1281]
 Underfull \hbox (badness 1178) in paragraph at lines 4928--4937
 \OT1/cmr/m/it/10 ^^Ra es-tagna^^Xc~ao de Qi por Mu-co-si-dade cursa com
  []
@@ -17140,15 +17153,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 4928--4937
 
  []
 
-[1282]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1283]
+ [1281]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1282]
 Underfull \hbox (badness 10000) in paragraph at lines 4938--4939
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1283]
 Underfull \hbox (badness 2150) in paragraph at lines 4941--4950
 \OT1/cmr/m/it/10 A pro-lon-gada re-ten^^Xc~ao do frio pa-tog^enico pode
  []
@@ -17219,26 +17238,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 4954--4964
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1287]
+[1287]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1288]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1289]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1290]
 Underfull \hbox (badness 10000) in paragraph at lines 4965--4966
 
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 4968--4977
-\OT1/cmr/m/n/10 sensa^^Xc~ao de opress~ao no peito e di-fi-cul-dade ^^Ra
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1290]
+Underfull \hbox (badness 3780) in paragraph at lines 4968--4977
+\OT1/cmr/m/n/10 dis-fun^^Xc~ao cha-mada Glo-bus Hys-te-ri-cus. A esse
  []
 
 
@@ -17285,14 +17301,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 4968--4977
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1292]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1293]
 Underfull \hbox (badness 10000) in paragraph at lines 4978--4979
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1293]
 Underfull \hbox (badness 1354) in paragraph at lines 4981--4990
 \OT1/cmr/m/it/10 As ma-ni-festa^^Xc~oes des-cri-tas no enun-ci-ado ca-rac-
  []
@@ -17360,8 +17376,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 4991--4992
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 4994--5003
-[]\OT1/cmr/m/n/10 - Pa-ci-ente do sexo fe-mi-nino, 60 anos, com
+Underfull \hbox (badness 1033) in paragraph at lines 4994--5003
+\OT1/cmr/m/n/10 de dor cer-vi-cal h^^Sa 2 anos. A dor ^^Se mo-de-rada
  []
 
 
@@ -17410,7 +17426,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4994--5003
  []
 
 
-Underfull \vbox (badness 5681) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1299]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -17470,8 +17486,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 5017--5018
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 5020--5029
-[]\OT1/cmr/m/n/10 - Ge-ni-tora re-fere que sua fi-lha de 12 anos
+Underfull \hbox (badness 1242) in paragraph at lines 5020--5029
+\OT1/cmr/m/n/10 mem-bros frios. Ao exame cl^^S^^Pnico: f^^Sacies p^^Salida,
  []
 
 
@@ -17591,6 +17607,11 @@ Cap\'{\i }tulo 6.
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 5068.
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 5068--5077
+\OT1/cmr/m/n/10 dis-fun-ci-o-nal, he-mor-ra-gia do trato di-ges-tivo, dor
+ []
 
 
 Underfull \hbox (badness 4846) in paragraph at lines 5068--5077
@@ -17860,8 +17881,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 5131--5132
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 5137--5146
-[]\OT1/cmr/m/n/10 - Uma pa-ci-ente com qua-dro de in-fer-ti-li-dade
+Underfull \hbox (badness 1270) in paragraph at lines 5137--5146
+\OT1/cmr/m/n/10 o tra-ta-mento com acu-pun-tura para au-xi-liar no
  []
 
 
@@ -18016,6 +18037,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1354]
 Underfull \hbox (badness 10000) in paragraph at lines 5187--5188
 
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 5190--5199
+\OT1/cmr/m/n/10 tem sido fre-quen-te-mente in-di-cado no oci-dente,
  []
 
 
@@ -18198,6 +18224,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1371]
 Underfull \hbox (badness 10000) in paragraph at lines 5226--5227
 
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 5229--5238
+\OT1/cmr/m/n/10 - Em rela^^Xc~ao a sin-to-mas como fla-ci-dez, atro-fia
  []
 
 
@@ -18813,16 +18844,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1407]
-Underfull \hbox (badness 1028) in paragraph at lines 5307--5317
-[]\OT1/cmr/m/n/10 - O neu-ro-trans-mis-sor no-ra-dre-na-lina par-ti-cipa
- []
-
-
-Underfull \hbox (badness 2237) in paragraph at lines 5307--5317
-\OT1/cmr/m/n/10 da inibi^^Xc~ao da pas-sa-gem do est^^S^^Pmulo do-lo-roso
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 5307--5317
 \OT1/cmr/m/it/10 No me-ca-nismo no-ra-dren^^Sergico, a par-tir da
  []
@@ -19237,7 +19258,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5370--5371
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5373--5382
-[]\OT1/cmr/m/n/10 -Na atu-a-li-dade, o des-re-gra-mento ali-men-
+\OT1/cmr/m/n/10 -Na atu-a-li-dade, o des-re-gra-mento ali-men-tar
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 5373--5382
+\OT1/cmr/m/n/10 transformou-se em um ver-da-deiro pro-blema de
  []
 
 
@@ -19411,8 +19437,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 5409--5410
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 5412--5421
-[]\OT1/cmr/m/n/10 - Ge-ni-tora che-gou na emerg^encia com uma
+Underfull \hbox (badness 1436) in paragraph at lines 5412--5421
+\OT1/cmr/m/n/10 es-tava morto. A crian^^Xca apre-sen-tava fe-bre alta
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 5412--5421
+\OT1/cmr/m/n/10 opist^^Sotono, com olhos des-vi-a-dos e as-cen-den-tes,
  []
 
 
@@ -19587,6 +19618,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 5435--5436
  []
 
 
+Underfull \hbox (badness 1509) in paragraph at lines 5438--5447
+\OT1/cmr/m/n/10 Sobre a s^^S^^Pndrome do-lo-rosa mi-o-fas-cial (SDM) ^^Se
+ []
+
+
 Underfull \hbox (badness 2635) in paragraph at lines 5438--5447
 \OT1/cmr/m/n/10 a) Os Pon-tos Ga-ti-lho Mi-o-fas-ci-ais (PGM) que
  []
@@ -19730,6 +19766,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 5461--5462
  []
 
 
+Underfull \hbox (badness 1205) in paragraph at lines 5464--5473
+\OT1/cmr/m/n/10 -  Sob condi^^Xc~oes nor-mais as sete emo^^Xc~oes s~ao
+ []
+
+
 Underfull \hbox (badness 1515) in paragraph at lines 5464--5473
 \OT1/cmr/m/n/10 a) A tris-teza agride Fei (Pulm~ao), le-vando ao
  []
@@ -19753,11 +19794,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1466]
 Underfull \hbox (badness 10000) in paragraph at lines 5474--5475
 
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 5478--5489
-\OT1/cmr/m/n/10 de 6 me-ses. Apre-senta di-fi-cul-dade em ins-pi-rar
  []
 
 
@@ -19824,11 +19860,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1471]
 Underfull \hbox (badness 3009) in paragraph at lines 5491--5502
-\OT1/cmr/m/n/10 mos-tra re-ves-ti-mento ama-relo pe-ga-joso e pulso
- []
-
-
-Underfull \hbox (badness 3009) in paragraph at lines 5491--5502
 \OT1/cmr/m/it/10 o sono, des-per-ta-res fre-quen-tes com ex-cesso de
  []
 
@@ -19861,6 +19892,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1474]
+Underfull \hbox (badness 3884) in paragraph at lines 5504--5513
+\OT1/cmr/m/n/10 - Pa-ci-ente jo-vem queixa-se de dor surda no
+ []
+
+
 Underfull \hbox (badness 2443) in paragraph at lines 5504--5513
 \OT1/cmr/m/n/10 a) Cor-res-ponde a um qua-dro de dis-me-nor-reia
  []
@@ -20164,13 +20200,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1501]
-Underfull \hbox (badness 1087) in paragraph at lines 5584--5593
-\OT1/cmr/m/n/10 prin-ci-pal-mente ^^Ra di-reita em toda sua ex-tens~ao,
- []
-
-
-Underfull \hbox (badness 1412) in paragraph at lines 5584--5593
-\OT1/cmr/m/n/10 mar-cha clau-di-cante, hi-po-es-te-sia t^^Satil e do-lo-rosa
+Underfull \hbox (badness 1057) in paragraph at lines 5584--5593
+\OT1/cmr/m/n/10 irradia-se para os mem-bros in-fe-ri-o-res, prin-ci-pal-
  []
 
 
@@ -20263,7 +20294,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5594--5595
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5681) has occurred while \output is active []
 
  [1508]
 Underfull \hbox (badness 1342) in paragraph at lines 5597--5606
@@ -20539,11 +20570,6 @@ Underfull \vbox (badness 5681) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1526]
-Underfull \hbox (badness 2762) in paragraph at lines 5664--5673
-[]\OT1/cmr/m/n/10 - Uma pres-cri^^Xc~ao te-rap^eutica es-ta-be-le-ceu o
- []
-
-
 Underfull \hbox (badness 5008) in paragraph at lines 5664--5673
 \OT1/cmr/m/it/10 com-pres-siva do nervo me-di-ano, com sin-to-mas
  []
@@ -20888,6 +20914,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1556]
+Underfull \hbox (badness 1648) in paragraph at lines 5796--5816
+\OT1/cmr/m/n/10 - Ainda em rela^^Xc~ao ^^Ra quest~ao acima, se-gundo
+ []
+
+
 Underfull \hbox (badness 1248) in paragraph at lines 5796--5816
 \OT1/cmr/m/n/10 a me-di-cina chi-nesa, qual o poss^^S^^Pvel di-agn^^Sostico
  []
@@ -20934,6 +20965,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1559]
 Underfull \hbox (badness 10000) in paragraph at lines 5817--5818
 
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 5820--5834
+\OT1/cmr/m/n/10 cho-que e/ou pon-ta-das, que se de-sen-ca-deia ao
  []
 
 
@@ -21137,6 +21173,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1574]
+Underfull \hbox (badness 1286) in paragraph at lines 5883--5894
+\OT1/cmr/m/n/10 zum-bido h^^Sa 1 ano. Descreve-o como um ru^^S^^Pdo
+ []
+
+
 Underfull \hbox (badness 1472) in paragraph at lines 5883--5894
 \OT1/cmr/m/n/10 Ao in-ter-ro-gat^^Sorio, apre-senta fa-diga, dor lom-bar
  []
@@ -21325,6 +21366,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1591]
+Underfull \hbox (badness 1603) in paragraph at lines 5970--5982
+\OT1/cmr/m/n/10 em queima^^Xc~ao, dorm^encia e pa-res-te-sia bi-la-te-ral
+ []
+
+
 Underfull \hbox (badness 2142) in paragraph at lines 5970--5982
 \OT1/cmr/m/n/10 oral a gli-cose e li-pi-de-mia. Pos-si-vel-mente trata
  []
@@ -21581,6 +21627,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1610]
+Underfull \hbox (badness 1038) in paragraph at lines 6087--6102
+\OT1/cmr/m/n/10 - A acu-pun-tura tem de-mons-trado ser um bom
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 6087--6102
 
  []
@@ -21619,6 +21670,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 6087--6102
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1612]
+Underfull \hbox (badness 1783) in paragraph at lines 6105--6125
+\OT1/cmr/m/n/10 - So-bre o tra-ta-mento da ver-ti-gem se-gundo os
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 6105--6125
 
  []
@@ -21882,11 +21938,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1628]
-Underfull \hbox (badness 2189) in paragraph at lines 6204--6213
-[]\OT1/cmr/m/n/10 .Os tex-tos cl^^Sassicos chi-ne-ses de-no-mi-nam de
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 6204--6213
 \OT1/cmr/m/it/10 Principais ma-ni-festa^^Xc~oes da neu-ras-te-nia s~ao
  []
@@ -21902,11 +21953,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 6204--6213
  []
 
 [1629]
-Underfull \hbox (badness 1038) in paragraph at lines 6215--6223
-[]\OT1/cmr/m/n/10 -O res-fri-ado ^^Se uma doen^^Xca sim-ples e muito
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 6215--6223
 
  []
@@ -21989,11 +22035,6 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 6253.
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 6253--6262
-\OT1/cmr/m/n/10 trua^^Xc~ao ir-re-gu-lar, san-gra-mento ute-rino anor-mal,
- []
-
-
 Underfull \hbox (badness 1158) in paragraph at lines 6253--6262
 \OT1/cmr/m/it/10 urin^^Sarios, al^^Sem de ede-mas, di-ar-reia, ex-cesso de
  []
@@ -22038,9 +22079,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 6276--6277
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1642]
 Underfull \hbox (badness 1648) in paragraph at lines 6279--6288
 \OT1/cmr/m/n/10 a) Localiza-se na de-press~ao an-te-rior ^^Ra in-ci-sura
  []
@@ -22070,9 +22108,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 6279--6288
 
  []
 
-[1643]
+
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [1642]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1643]
 Underfull \hbox (badness 10000) in paragraph at lines 6289--6290
 
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 6292--6301
+\OT1/cmr/m/n/10 -Existem gru-pos de pon-tos de acu-pun-tura que
  []
 
 
@@ -22165,7 +22214,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6306--6315
  []
 
 
-Underfull \vbox (badness 5681) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1648]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -22409,6 +22458,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 6399--6400
  []
 
 
+Underfull \hbox (badness 1515) in paragraph at lines 6402--6411
+\OT1/cmr/m/n/10 de obs-tru^^Xc~ao na-sal, co-riza, es-pir-ros, co-ceira na
+ []
+
+
 Underfull \hbox (badness 1642) in paragraph at lines 6402--6411
 \OT1/cmr/m/it/10 ano-re-xia, dis-tens~ao ab-do-mi-nal, fe-zes amo-le-ci-das,
  []
@@ -22450,11 +22504,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1678]
 Underfull \hbox (badness 10000) in paragraph at lines 6412--6413
 
- []
-
-
-Underfull \hbox (badness 2680) in paragraph at lines 6415--6424
-[]\OT1/cmr/m/n/10 -O tra-ta-mento da epi-lep-sia, em crian^^Xcas e
  []
 
 
@@ -22514,11 +22563,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1684]
 Underfull \hbox (badness 10000) in paragraph at lines 6425--6426
 
- []
-
-
-Underfull \hbox (badness 2080) in paragraph at lines 6428--6437
-\OT1/cmr/m/n/10 de de-sar-mo-nia que pode ser res-pons^^Savel pe-los
  []
 
 
@@ -23281,11 +23325,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 6516--6517
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 6519--6528
-[]\OT1/cmr/m/n/10 -Em rela^^Xc~ao ao efeito seg-men-tar vis-ce-ral da
- []
-
-
 Underfull \hbox (badness 1997) in paragraph at lines 6519--6528
 \OT1/cmr/m/it/10 vis-ce-rais projetam-se as-cen-den-te-mente ao cen-tro
  []
@@ -23482,6 +23521,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 6555--6556
  []
 
 
+Underfull \hbox (badness 3815) in paragraph at lines 6559--6568
+\OT1/cmr/m/n/10 de Con-trole Ini-bit^^Sorio No-civo Di-fuso (DNIC),
+ []
+
+
 Underfull \hbox (badness 2735) in paragraph at lines 6559--6568
 \OT1/cmr/m/it/10 (DNIC) con-siste em um po-de-roso sis-tema que
  []
@@ -23518,11 +23562,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1739]
 Underfull \hbox (badness 10000) in paragraph at lines 6569--6570
 
- []
-
-
-Underfull \hbox (badness 2689) in paragraph at lines 6572--6581
-[]\OT1/cmr/m/n/10 -Pesquisas mos-tram que a acu-pun-tura com
  []
 
 
@@ -23578,11 +23617,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 6582--6583
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1743]
-Underfull \hbox (badness 2913) in paragraph at lines 6585--6594
-\OT1/cmr/m/n/10 pode ser ob-tido atrav^^Ses da pele, pelo TENS
- []
-
-
 Underfull \hbox (badness 2119) in paragraph at lines 6585--6594
 \OT1/cmr/m/n/10 j^^Sa te-nha sido de-mons-trado que eles pro-du-zem
  []
@@ -23773,11 +23807,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 6608--6609
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 6611--6620
-[]\OT1/cmr/m/n/10 -Observa^^Xc~oes e pes-qui-sas ci-ent^^S^^Pficas ex-pli-cam
- []
-
-
 Underfull \hbox (badness 1688) in paragraph at lines 6611--6620
 \OT1/cmr/m/n/10 opi^^Soides que me-lho-ram a ex-press~ao g^enica dos
  []
@@ -23816,14 +23845,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1756]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1757]
 Underfull \hbox (badness 10000) in paragraph at lines 6633--6634
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1757]
 Underfull \hbox (badness 1303) in paragraph at lines 6636--6645
 \OT1/cmr/m/it/10 A agu-lha, al-can^^Xcando a pro-fun-di-dade ne-cess^^Saria
  []
@@ -23873,6 +23902,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 6646--6647
  []
 
 
+Underfull \hbox (badness 4752) in paragraph at lines 6649--6658
+\OT1/cmr/m/n/10 -De acordo com o di-agn^^Sostico di-fe-ren-cial da
+ []
+
+
 Underfull \hbox (badness 5374) in paragraph at lines 6649--6658
 \OT1/cmr/m/n/10 s^^S^^Pndrome do-lo-rosa mi-o-fas-cial, qual, den-tre os
  []
@@ -23919,7 +23953,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6649--6658
  []
 
 
-Underfull \vbox (badness 5681) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1760]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -24049,13 +24083,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 6672--6673
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 6676--6685
-[]\OT1/cmr/m/n/10 -No qua-dro cl^^S^^Pnico de di-sen-te-ria com muco
- []
-
-
-Underfull \hbox (badness 1057) in paragraph at lines 6676--6685
-\OT1/cmr/m/n/10 e san-gue nas fe-zes, di-ar-reia pro-fusa e abrupta,
+Underfull \hbox (badness 1466) in paragraph at lines 6676--6685
+\OT1/cmr/m/n/10 nas fe-zes, di-ar-reia pro-fusa e abrupta, te-nesmo,
  []
 
 
@@ -24208,6 +24237,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 6713--6714
  []
 
 
+Underfull \hbox (badness 1303) in paragraph at lines 6717--6726
+\OT1/cmr/m/n/10 com queixa de eja-cula^^Xc~ao pre-coce h^^Sa 6 me-ses,
+ []
+
+
 Underfull \hbox (badness 1533) in paragraph at lines 6717--6726
 \OT1/cmr/m/it/10 enu-rese, in-con-tin^encia urin^^Saria, mic^^Xc~ao no-turna
  []
@@ -24244,6 +24278,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 6728--6729
  []
 
 
+Underfull \hbox (badness 1484) in paragraph at lines 6732--6741
+\OT1/cmr/m/n/10 -Em rela^^Xc~ao ao padr~ao de in-co-or-dena^^Xc~ao en-tre
+ []
+
+
 Underfull \hbox (badness 1303) in paragraph at lines 6732--6741
 \OT1/cmr/m/it/10 Yin do Shen le-vam a essa s^^S^^Pndrome com-plexa.
  []
@@ -24265,16 +24304,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1784]
 Underfull \hbox (badness 10000) in paragraph at lines 6742--6743
 
- []
-
-
-Underfull \hbox (badness 1024) in paragraph at lines 6746--6755
-[]\OT1/cmr/m/n/10 -Segundo a MTC, qual a ex-plica^^Xc~ao fi-si-o-pa-
- []
-
-
-Underfull \hbox (badness 4024) in paragraph at lines 6746--6755
-\OT1/cmr/m/n/10 res-pira^^Xc~ao curta, pal-pita^^Xc~ao, opress~ao tor^^Sacica,
  []
 
 
@@ -24476,6 +24505,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 6771--6772
  []
 
 
+Underfull \hbox (badness 4595) in paragraph at lines 6776--6785
+\OT1/cmr/m/n/10 -Que pon-tos prin-ci-pais voc^e se-le-ci-o-na-ria para
+ []
+
+
 Underfull \hbox (badness 1303) in paragraph at lines 6776--6785
 \OT1/cmr/m/n/10 o tra-ta-mento da di-ar-reia deste pa-ci-ente, at^^Se o
  []
@@ -24559,11 +24593,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 6799--6800
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 6804--6813
-[]\OT1/cmr/m/n/10 -Sobre a abor-da-gem ofe-re-cida pela Me-di-cina
- []
-
-
 Underfull \hbox (badness 1286) in paragraph at lines 6804--6813
 \OT1/cmr/m/it/10 A fase de-pres-siva da doen^^Xca se deve ^^Ra prin-ci-
  []
@@ -24605,11 +24634,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 6814--6815
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 6818--6827
-[]\OT1/cmr/m/n/10 - So-bre o di-agn^^Sostico sindr^omico da ins^onia
- []
-
-
 Underfull \hbox (badness 1533) in paragraph at lines 6818--6827
 \OT1/cmr/m/n/10 b) Na ins^onia cau-sada por De-fici^encia do Xin
  []
@@ -24647,11 +24671,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 6828--6829
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 6833--6842
-\OT1/cmr/m/n/10 se-gue ori-enta^^Xc~ao m^^Sedica ade-qua-da-mente, pro-va-
- []
-
-
 Underfull \hbox (badness 2205) in paragraph at lines 6833--6842
 \OT1/cmr/m/n/10 a Jing (ess^encia) ad-qui-rida, n~ao de-sen-vol-vendo
  []
@@ -24677,11 +24696,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1810]
 Underfull \hbox (badness 10000) in paragraph at lines 6844--6845
 
- []
-
-
-Underfull \hbox (badness 1552) in paragraph at lines 6848--6857
-[]\OT1/cmr/m/n/10 -Marque a al-ter-na-tiva cor-reta em rela^^Xc~ao ^^Ra
  []
 
 
@@ -24876,6 +24890,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 6888--6889
  []
 
 
+Underfull \hbox (badness 2376) in paragraph at lines 6891--6901
+\OT1/cmr/m/n/10 tra-ta-mento re-sul-tou em me-lhora dos sin-to-mas.
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 6891--6901
+\OT1/cmr/m/n/10 aos 54 anos, ci-clos mens-tru-ais an-te-ri-o-res eram
+ []
+
+
 Underfull \hbox (badness 3219) in paragraph at lines 6891--6901
 \OT1/cmr/m/it/10 con-duta ex-pec-tante e, num pri-meiro mo-mento,
  []
@@ -24954,8 +24978,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 6902--6903
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 6905--6914
-[]\OT1/cmr/m/n/10 -M.A.S. 18 anos, sol-teira, es-tu-dante, na-tu-ral
+Underfull \hbox (badness 1755) in paragraph at lines 6905--6914
+\OT1/cmr/m/n/10 -M.A.S. 18 anos, sol-teira, es-tu-dante, na-tu-ral e
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 6905--6914
+\OT1/cmr/m/n/10 pro-ce-dente de Embu, SP. Queixa-se de dor no
  []
 
 
@@ -25195,28 +25224,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 6928--6929
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1843]
-Underfull \hbox (badness 1221) in paragraph at lines 6931--6940
-[]\OT1/cmr/m/n/10 -Homem de 48 anos, pe-dreiro, pro-ce-dente e
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 6931--6940
-\OT1/cmr/m/n/10 na-tu-ral da ci-dade de Car-pina (PE), pro-cura o
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 6931--6940
-\OT1/cmr/m/n/10 in-si-di-o-sa-mente, em pon-tada, EVA 7 que li-mita
- []
-
-
-Underfull \hbox (badness 1365) in paragraph at lines 6931--6940
-\OT1/cmr/m/n/10 aus-culta car-di-or-res-pi-rat^^Soria e exame neu-rol^^Sogico
- []
-
-
-Underfull \hbox (badness 2173) in paragraph at lines 6931--6940
-\OT1/cmr/m/n/10 sem al-tera^^Xc~oes sig-ni-fi-ca-ti-vas. Di-ante do qua-dro
+Underfull \hbox (badness 2035) in paragraph at lines 6931--6940
+\OT1/cmr/m/n/10 em pon-tada, EVA 7 que li-mita sua ati-vi-dade
  []
 
 
@@ -25325,8 +25334,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 6941--6942
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 6944--6953
-[]\OT1/cmr/m/n/10 -Estudante de 17 anos ^^Se en-ca-mi-nhada pela
+Underfull \hbox (badness 2582) in paragraph at lines 6944--6953
+\OT1/cmr/m/n/10 a ta-refa; se in-ter-rom-pida, pre-cisa ini-ciar tudo
  []
 
 
@@ -25486,6 +25495,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 6954--6955
  []
 
 
+Underfull \hbox (badness 2189) in paragraph at lines 6957--6967
+\OT1/cmr/m/n/10 -Paciente de 36 anos ^^Se aten-dida no se-tor de
+ []
+
+
 Underfull \hbox (badness 1194) in paragraph at lines 6957--6967
 \OT1/cmr/m/n/10 emerg^encia com a queixa de: \Acho que es-tou
  []
@@ -25631,6 +25645,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1868]
+Underfull \hbox (badness 1616) in paragraph at lines 6969--6978
+\OT1/cmr/m/n/10 doen^^Xca ate-ros-cler^^Sotica co-nhe-cida; pulso fi-li-forme
+ []
+
+
 Underfull \hbox (badness 1014) in paragraph at lines 6969--6978
 \OT1/cmr/m/n/10 a) Ata-que de vento pat^^Sogeno aos me-ri-di-a-nos e
  []
@@ -26381,11 +26400,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7057--7058
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 7060--7073
-[]\OT1/cmr/m/n/10 -Em rela^^Xc~ao ^^Ra dor em tor-no-zelo, res-ponda
- []
-
-
 Underfull \hbox (badness 2189) in paragraph at lines 7060--7073
 \OT1/cmr/m/n/10 pon-tos do-lo-ro-sos (Ashi); com-pres-sas de gelo e
  []
@@ -26452,6 +26466,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1923]
 Underfull \hbox (badness 10000) in paragraph at lines 7074--7075
 
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 7077--7086
+\OT1/cmr/m/n/10 -Paciente se queixa de tosse in-ter-mi-tente com
  []
 
 
@@ -26580,6 +26599,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1931]
 Underfull \hbox (badness 10000) in paragraph at lines 7087--7088
 
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 7090--7099
+\OT1/cmr/m/n/10 -Paciente de 42 anos, banc^^Saria, com queixa de
  []
 
 
@@ -26713,6 +26737,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7114--7115
  []
 
 
+Underfull \hbox (badness 1147) in paragraph at lines 7117--7118
+\OT1/cmr/m/n/10 acu-pun-tura, na ten-ta-tiva de di-mi-nuir a quan-ti-
+ []
+
+
 Underfull \hbox (badness 1354) in paragraph at lines 7117--7118
 \OT1/cmr/m/n/10 de res-pira^^Xc~ao r^^Sapida e es-ter-to-rosa, sensa^^Xc~ao de
  []
@@ -26781,6 +26810,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1947]
 Underfull \hbox (badness 10000) in paragraph at lines 7131--7132
 
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 7134--7145
+\OT1/cmr/m/n/10 ^^Se lo-ca-li-zada na mand^^S^^Pbula e ATM (Ar-ti-cula^^Xc~ao
  []
 
 
@@ -27137,8 +27171,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 7246--7247
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1979]
-Underfull \hbox (badness 1616) in paragraph at lines 7249--7255
-[]\OT1/cmr/m/n/10 -Paciente do sexo mas-cu-lino, 72 anos, ap^^Sos
+Underfull \hbox (badness 1484) in paragraph at lines 7249--7255
+\OT1/cmr/m/n/10 na aca-de-mia h^^Sa 3 dias, pas-sou apre-sen-tar dor
  []
 
 
@@ -27169,11 +27203,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7259--7265
 [1981]
 Underfull \hbox (badness 10000) in paragraph at lines 7266--7267
 
- []
-
-
-Underfull \hbox (badness 1783) in paragraph at lines 7269--7277
-[]\OT1/cmr/m/n/10 -Um pa-ci-ente vai ao con-sult^^Sorio do m^^Sedico
  []
 
 
@@ -27208,11 +27237,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7297--7298
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 7301--7310
-\OT1/cmr/m/n/10 do pro-cesso mas-toide en-tre os pon-tos VB20 e
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 7301--7310
 
  []
@@ -27238,8 +27262,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 7326--7327
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 7330--7335
-[]\OT1/cmr/m/n/10 -Diante de um pa-ci-ente com di-agn^^Sostico de
+Underfull \hbox (badness 1590) in paragraph at lines 7330--7335
+\OT1/cmr/m/n/10 utilizando-se para o tra-ta-mento os pon-tos Shu
  []
 
 
@@ -27258,23 +27282,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 7338--7339
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 7342--7347
-[]\OT1/cmr/m/n/10 -Associar os pon-tos IG4, E7 e E44 para o
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 7342--7347
 
  []
 
-[1989]
+
 Underfull \hbox (badness 10000) in paragraph at lines 7348--7349
 
  []
 
-
+[1989]
 Underfull \hbox (badness 10000) in paragraph at lines 7350--7351
 
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 7353--7359
+\OT1/cmr/m/n/10 -A prin-ci-pal fun^^Xc~ao da ven-to-sa-te-ra-pia, m^^Setodo
  []
 
 
@@ -27288,8 +27312,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 7360--7361
  []
 
 
-Underfull \hbox (badness 6893) in paragraph at lines 7365--7373
-\OT1/cmr/m/n/10 e-ci-mento im-por-tan-tes na te-o-ria da Me-di-cina
+Underfull \hbox (badness 2617) in paragraph at lines 7365--7373
+\OT1/cmr/m/n/10 nesa e cau-sam al-tera^^Xc~oes im-por-tan-tes. A esse
  []
 
 
@@ -27313,6 +27337,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7376--7377
  []
 
 
+Underfull \hbox (badness 1253) in paragraph at lines 7380--7389
+\OT1/cmr/m/n/10 de dis-creta tosse com pouca ex-pec-tora^^Xc~ao fina,
+ []
+
+
 Underfull \hbox (badness 1688) in paragraph at lines 7380--7389
 \OT1/cmr/m/it/10 O Fei ^^Se o res-pons^^Savel pe-las de-fe-sas do corpo.
  []
@@ -27327,10 +27356,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7380--7389
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1992]
+[1992]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1993]
@@ -27396,19 +27422,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2000]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2001]
 Underfull \hbox (badness 10000) in paragraph at lines 7431--7432
 
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 7434--7443
-[]\OT1/cmr/m/n/10 -Baseado nos crit^^Serios pr^^Soprios cri-a-dos pela
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [2001]
 Underfull \hbox (badness 10000) in paragraph at lines 7434--7443
 
  []
@@ -27424,7 +27445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7447--7452
  []
 
 
-Underfull \vbox (badness 5681) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2003]
 Underfull \hbox (badness 10000) in paragraph at lines 7453--7454
@@ -27455,11 +27476,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7470--7471
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 7473--7478
-\OT1/cmr/m/n/10 apre-sen-tava si-nais flog^^S^^Psticos na ar-ti-cula^^Xc~ao do
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 7473--7478
 
  []
@@ -27472,6 +27488,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7479--7480
 
 Underfull \hbox (badness 10000) in paragraph at lines 7481--7482
 
+ []
+
+
+Underfull \hbox (badness 2512) in paragraph at lines 7484--7493
+\OT1/cmr/m/n/10 -Sobre as t^^Secnicas de agu-lha-mento, as-si-nale a
  []
 
 
@@ -27576,11 +27597,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7548--7549
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 7552--7561
-\OT1/cmr/m/n/10 com queixa de cansa^^Xco, ina-pet^encia e di-ar-reia
- []
-
-
 Underfull \hbox (badness 1270) in paragraph at lines 7552--7561
 \OT1/cmr/m/it/10 do Fei, como tosse, al-trera^^Xc~ao do tom da voz,
  []
@@ -27596,19 +27612,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 7552--7561
  []
 
 [2017]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2018]
 Underfull \hbox (badness 10000) in paragraph at lines 7562--7563
 
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 7566--7575
-\OT1/cmr/m/n/10 boca seca, trans-pira^^Xc~ao no-turna, di-fi-cul-dade de
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+ [2018]
 Underfull \hbox (badness 1394) in paragraph at lines 7566--7575
 \OT1/cmr/m/it/10 al-tera^^Xc~oes do Gan, n~ao exis-tem sin-to-mas como
  []
@@ -27686,6 +27697,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7591--7592
  []
 
 
+Underfull \hbox (badness 1005) in paragraph at lines 7595--7596
+\OT1/cmr/m/n/10 -Uma pa-ci-ente do sexo fe-mi-nino, 45anos, re-fere
+ []
+
+
 Underfull \hbox (badness 2310) in paragraph at lines 7595--7596
 \OT1/cmr/m/n/10 cons-tipa^^Xc~ao in-tes-ti-nal cr^onica com sensa^^Xc~ao de
  []
@@ -27705,12 +27721,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 7595--7596
 
  []
 
-[2023]
+
 Underfull \hbox (badness 10000) in paragraph at lines 7597--7598
 
  []
 
-
+[2023]
 Underfull \hbox (badness 1406) in paragraph at lines 7599--7607
 \OT1/cmr/m/it/10 ex-cesso, ^^Se a causa mais co-mum de obs-tipa^^Xc~ao,
  []
@@ -27720,9 +27736,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 7599--7607
 
  []
 
-[2024]
+
+Underfull \vbox (badness 5681) has occurred while \output is active []
+
+ [2024]
 Underfull \hbox (badness 10000) in paragraph at lines 7608--7609
 
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 7612--7621
+\OT1/cmr/m/n/10 -Um pa-ci-ente do sexo mas-cu-lino, 35anos com
  []
 
 
@@ -27744,9 +27768,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7635--7636
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 4024) in paragraph at lines 7640--7645
+\OT1/cmr/m/n/10 -Um pa-ci-ente pro-cura um m^^Sedico es-pe-ci-a-lista
+ []
 
- [2028]
+
 Underfull \hbox (badness 4378) in paragraph at lines 7640--7645
 \OT1/cmr/m/n/10 fre-quen-tes, pal-pita^^Xc~ao, trans-pira^^Xc~ao es-pont^anea,
  []
@@ -27771,7 +27797,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 7640--7645
 
  []
 
-[2029]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2028]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2029]
 Underfull \hbox (badness 1122) in paragraph at lines 7646--7647
 \OT1/cmr/m/it/10 ins^onia em 2 gran-des s^^S^^Pndromes: de-fici^encia ou
  []
@@ -27784,16 +27816,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7646--7647
 
 Underfull \hbox (badness 10000) in paragraph at lines 7648--7649
 
- []
-
-
-Underfull \hbox (badness 2126) in paragraph at lines 7652--7657
-[]\OT1/cmr/m/n/10 -Paciente do sexo mas-cu-lino, 64anos, re-lata
- []
-
-
-Underfull \hbox (badness 1616) in paragraph at lines 7652--7657
-\OT1/cmr/m/n/10 ao som de uma ci-garra. Al^^Sem disso apre-senta
  []
 
 
@@ -27842,6 +27864,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7672--7673
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2033]
+Underfull \hbox (badness 1275) in paragraph at lines 7676--7681
+\OT1/cmr/m/n/10 -M.N.P.H 46 anos, mas-cu-lino, ad-mi-nis-tra-dor de
+ []
+
+
 Underfull \hbox (badness 1946) in paragraph at lines 7676--7681
 \OT1/cmr/m/n/10 aten-di-mento de grande cen-tro hos-pi-ta-lar sendo
  []
@@ -27880,6 +27907,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7685--7686
 Underfull \vbox (badness 5681) has occurred while \output is active []
 
  [2035]
+Underfull \hbox (badness 4967) in paragraph at lines 7688--7697
+\OT1/cmr/m/n/10 -T.G.M 53 anos, fe-mi-nino, ilus-tra-dora, busca
+ []
+
+
 Underfull \hbox (badness 1496) in paragraph at lines 7688--7697
 \OT1/cmr/m/n/10 Assinale a al-ter-na-tiva que con-tem-pla o me-lhor
  []
@@ -27895,16 +27927,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [2037]
 Underfull \hbox (badness 10000) in paragraph at lines 7700--7701
 
- []
-
-
-Underfull \hbox (badness 1701) in paragraph at lines 7705--7710
-\OT1/cmr/m/n/10 que, fre-quen-te-mente mu-dam de lo-ca-liza^^Xc~ao. Ao
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 7705--7710
-\OT1/cmr/m/n/10 exame apre-senta l^^S^^Pngua com corpo nor-mal, cor
  []
 
 
@@ -27986,11 +28008,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7755--7756
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 7759--7764
-[]\OT1/cmr/m/n/10 -Quadro de-pres-sivo, com des^animo, ir-ri-ta-bi-li-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 7759--7764
 
  []
@@ -28004,11 +28021,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 7765--7766
  []
 
 
-Underfull \vbox (badness 3525) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2044]
 Underfull \hbox (badness 10000) in paragraph at lines 7767--7768
 
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 7771--7776
+\OT1/cmr/m/n/10 ca-li-zada logo acima da tu-be-ro-si-dade me-dial do
  []
 
 
@@ -28034,6 +28056,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7777--7778
 
 Underfull \hbox (badness 10000) in paragraph at lines 7779--7780
 
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 7782--7787
+\OT1/cmr/m/n/10 - Pa-ci-ente po-li-quei-xosa re-corre a am-bu-lat^^Sorio
  []
 
 
@@ -28104,23 +28131,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 7818--7819
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2052]
-Underfull \hbox (badness 1308) in paragraph at lines 7822--7831
-\OT1/cmr/m/n/10 m^^Sedico em de-corr^encia de qua-dro de dis-fun^^Xc~ao
+Underfull \hbox (badness 1281) in paragraph at lines 7822--7831
+\OT1/cmr/m/n/10 le-va-ram o psi-qui-a-tra a pen-sar em um poss^^S^^Pvel
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 7822--7831
-\OT1/cmr/m/n/10 emo-ci-o-nal oriundo de grave de-cep^^Xc~ao amo-rosa,
- []
-
-
-Underfull \hbox (badness 1584) in paragraph at lines 7822--7831
-\OT1/cmr/m/n/10 cl^^S^^Pnicas le-va-ram o psi-qui-a-tra a pen-sar em um
- []
-
-
-Underfull \hbox (badness 1803) in paragraph at lines 7822--7831
-\OT1/cmr/m/n/10 forte e es-cor-re-ga-dio. Con-si-de-rando es-ses da-dos,
+Underfull \hbox (badness 1642) in paragraph at lines 7822--7831
+\OT1/cmr/m/n/10 qua-dro psic^^Sotico. A l^^S^^Pngua se apre-sen-tava com
  []
 
 
@@ -28158,6 +28175,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7832--7833
  []
 
 
+Underfull \hbox (badness 3407) in paragraph at lines 7836--7841
+\OT1/cmr/m/n/10 -Paciente v^^S^^Ptima de qua-dro do-lo-roso pro-cu-rou
+ []
+
+
 Underfull \hbox (badness 1325) in paragraph at lines 7836--7841
 \OT1/cmr/m/n/10 d) O tra-ta-mento ^^Se cl^^Sassico para neu-ral-gia p^^Sos
  []
@@ -28181,11 +28203,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7844--7845
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2056]
-Underfull \hbox (badness 1033) in paragraph at lines 7848--7859
-[]\OT1/cmr/m/n/10 -Segundo a Me-di-cina Chi-nesa, s~ao v^^Sarias as
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 7848--7859
 
  []
@@ -28208,6 +28225,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 7875--7876
 [2058]
 Underfull \hbox (badness 10000) in paragraph at lines 7877--7878
 
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 7881--7886
+\OT1/cmr/m/n/10 -No tra-ta-mento da ce-fa-leia tem-po-ral, a me-lhor
  []
 
 
@@ -28264,6 +28286,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [2061]
 Underfull \hbox (badness 10000) in paragraph at lines 7902--7903
 
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 7908--7917
+\OT1/cmr/m/n/10 -Paciente adulto jo-vem, com qua-dro epil^^Setico e
  []
 
 
@@ -28419,11 +28446,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7958--7959
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 7962--7967
-\OT1/cmr/m/n/10 mi-o-fa-cial. Nesse sen-tido, para um pa-ci-ente que
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 7962--7967
 
  []
@@ -28458,21 +28480,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 7986--7987
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 7990--8000
-\OT1/cmr/m/n/10 um qua-dro ca-rac-te-ri-zado por su-do-rese ex-ces-siva
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 7990--8000
 
  []
 
 [2076]
+Underfull \hbox (badness 10000) in paragraph at lines 8001--8002
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2077]
-Underfull \hbox (badness 10000) in paragraph at lines 8001--8002
-
+Underfull \hbox (badness 1946) in paragraph at lines 8004--8014
+\OT1/cmr/m/n/10 tra-ta-mento por acu-pun-tura para tra-tar qua-dro
  []
 
 
@@ -28627,7 +28649,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8031--8040
  []
 
 
-Underfull \vbox (badness 5681) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2085]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -28852,6 +28874,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 8069--8070
  []
 
 
+Underfull \hbox (badness 2088) in paragraph at lines 8072--8081
+\OT1/cmr/m/n/10 -Acerca do efeito cu-mu-la-tivo da acu-pun-tura ^^Se
+ []
+
+
 Underfull \hbox (badness 1199) in paragraph at lines 8072--8081
 \OT1/cmr/m/it/10 O efeito cu-mu-la-tivo da acu-pun-tura se deve em
  []
@@ -28934,6 +28961,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [2104]
 Underfull \hbox (badness 10000) in paragraph at lines 8096--8097
 
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 8099--8108
+\OT1/cmr/m/n/10 tra-ta-mento das di-ver-sas en-fer-mi-da-des, ^^Se cor-reto
  []
 
 
@@ -29160,6 +29192,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ]
 Cap\'{\i }tulo 10.
 
+Underfull \hbox (badness 1748) in paragraph at lines 9105--9106
+\OT1/cmr/m/it/10 Na pla-ni-lha que voc^e es-co-lheu se en-con-tra um
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 9105--9106
 
  []
@@ -29285,947 +29322,45 @@ Underfull \hbox (badness 3354) in paragraph at lines 9527--9528
 []\OT1/cmr/m/it/10 A es-ti-mula^^Xc~ao el^^Setrica ner-vosa trans-cut^anea
  []
 
-[2155] (./ebook.ind [2156]
-Underfull \hbox (badness 2922) in paragraph at lines 7--9
-[]\OT1/cmr/m/n/10 asma, [][]233[][], [][]331[][], [][]1321[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
-[][]\OT1/cmr/m/n/10 1474[][], [][]1618[][],
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 9--11
-[]\OT1/cmr/m/n/10 ATM, [][]318[][], [][]974[][], [][]1190[][],
- []
-
-
-Underfull \hbox (badness 4036) in paragraph at lines 15--16
-[]\OT1/cmr/m/n/10 canais unit^^Sarios, [][]2001[][],
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-[][]\OT1/cmr/m/n/10 1225[][], [][]1551[][],
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 24--26
-[]\OT1/cmr/m/n/10 constipa^^Xc~ao, [][]417[][], [][]1633[][],
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2157
-
-]
-Underfull \hbox (badness 6542) in paragraph at lines 32--34
-[]\OT1/cmr/m/n/10 disfun^^Xc~ao er^^Setil, [][]1016[][],
- []
-
-
-Underfull \hbox (badness 1087) in paragraph at lines 39--41
-[]\OT1/cmr/m/n/10 doen^^Xca in-fla-mat^^Soria in-
- []
-
-
-Underfull \hbox (badness 4492) in paragraph at lines 42--45
-[]| \OT1/cmr/m/n/10 ce-fa-leia, [][]172[][], [][]174[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 42--45
-[][]\OT1/cmr/m/n/10 198[][], [][]339[][], [][]429[][],
- []
-
-
-Underfull \vbox (badness 1107) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 45--48
-[][]\OT1/cmr/m/n/10 368[][], [][]404[][], [][]892[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-[]| \OT1/cmr/m/n/10 cer-vi-co-bra-qui-al-gia,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
-[]| \OT1/cmr/m/n/10 epi-gas-tral-gia, [][]557[][],
- []
-
-
-Underfull \hbox (badness 5504) in paragraph at lines 58--60
-[]| \OT1/cmr/m/n/10 go-nal-gia, [][]93[][], [][]336[][],
- []
-
-
-Underfull \hbox (badness 6708) in paragraph at lines 60--62
-[]| \OT1/cmr/m/n/10 in-ter-cos-tal-gia, [][]261[][],
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2158]
-Underfull \hbox (badness 1838) in paragraph at lines 62--66
-[][]\OT1/cmr/m/n/10 321[][], [][]359[][], [][]923[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
-[][]\OT1/cmr/m/n/10 1235[][], [][]1510[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
-[][]\OT1/cmr/m/n/10 1516[][], [][]1611[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-[]| \OT1/cmr/m/n/10 lom-bo-ci-a-tal-gia,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-[]| \OT1/cmr/m/n/10 me-ta-tar-so-fa-lan-ge-a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--77
-[]| \OT1/cmr/m/n/10 qui-rod^^Sactilos, [][]102[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 83--89
-[][]\OT1/cmr/m/n/10 281[][], [][]284[][], [][]287[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 83--89
-[][]\OT1/cmr/m/n/10 514[][], [][]517[][], [][]520[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--89
-[][]\OT1/cmr/m/n/10 1218[][], [][]1221[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--89
-[][]\OT1/cmr/m/n/10 1460[][], [][]1771[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
-[]\OT1/cmr/m/n/10 eletroacupuntura, [][]180[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
-[][]\OT1/cmr/m/n/10 1050[][], [][]1075[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
-[][]\OT1/cmr/m/n/10 1539[][], [][]1542[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
-[][]\OT1/cmr/m/n/10 1750[][], [][]1753[][],
- []
-
-[2159]
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
-[]\OT1/cmr/m/n/10 espondiloartropatias
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
-\OT1/cmr/m/n/10 so-ro-ne-ga-ti-vas,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-[]\OT1/cmr/m/n/10 esquema te-rap^eutico,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--113
-[]\OT1/cmr/m/n/10 esquemas te-rap^euticos,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--113
-[][]\OT1/cmr/m/n/10 1465[][], [][]1479[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--113
-[][]\OT1/cmr/m/n/10 1505[][], [][]1508[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--113
-[][]\OT1/cmr/m/n/10 1535[][], [][]1597[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--113
-[][]\OT1/cmr/m/n/10 1603[][], [][]1604[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--113
-[][]\OT1/cmr/m/n/10 1614[][], [][]1786[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--115
-[]\OT1/cmr/m/n/10 etiopatogenia, [][]1668[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--128
-[]\OT1/cmr/m/n/10 ginecologia, [][]439[][], [][]637[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 125--128
-[][]\OT1/cmr/m/n/10 640[][], [][]806[][], [][]816[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--128
-[][]\OT1/cmr/m/n/10 1169[][], [][]1196[][],
- []
-
-
-Underfull \hbox (badness 1655) in paragraph at lines 129--130
-[]| \OT1/cmr/m/n/10 dis-me-nor-reia, [][]1482[][],
- []
-
-[2160]
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
-[]\OT1/cmr/m/n/10 hiper^emese grav^^S^^Pdica,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
-[]\OT1/cmr/m/n/10 incontin^encia urin^^Saria,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--149
-[][]\OT1/cmr/m/n/10 1817[][], [][]2040[][],
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 152--154
-[]\OT1/cmr/m/n/10 l^^S^^Pngua, [][]483[][], [][]760[][], [][]1105[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
-[]\OT1/cmr/m/n/10 lombalgia, [][]734[][], [][]1006[][],
- []
-
-
-Underfull \hbox (badness 1810) in paragraph at lines 161--162
-[]\OT1/cmr/m/n/10 mecanismo da acu-pun-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-[]\OT1/cmr/m/n/10 metodologia ci-ent^^S^^Pfica,
- []
-
-
-Underfull \hbox (badness 1983) in paragraph at lines 168--169
-[]| \OT1/cmr/m/n/10 5 ele-men-tos, [][]1985[][],
- []
-
-
-Underfull \hbox (badness 6141) in paragraph at lines 173--175
-[]| \OT1/cmr/m/n/10 eti-o-pa-to-ge-nia, [][]468[][],
- []
-
-[2161]
-Underfull \hbox (badness 5302) in paragraph at lines 175--208
-[]| \OT1/cmr/m/n/10 padr~oes de de-sar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-\OT1/cmr/m/n/10 mo-nia, [][]116[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 119[][], [][]142[][], [][]252[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 266[][], [][]331[][], [][]333[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 339[][], [][]344[][], [][]349[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 381[][], [][]384[][], [][]401[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 407[][], [][]435[][], [][]437[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 439[][], [][]460[][], [][]472[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 477[][], [][]485[][], [][]489[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 492[][], [][]495[][], [][]497[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 499[][], [][]540[][], [][]552[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 557[][], [][]560[][], [][]566[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 569[][], [][]571[][], [][]576[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 579[][], [][]585[][], [][]633[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 637[][], [][]640[][], [][]699[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 701[][], [][]731[][], [][]760[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 790[][], [][]803[][], [][]812[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 819[][], [][]914[][], [][]956[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1115[][], [][]1118[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1122[][], [][]1131[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1135[][], [][]1142[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1172[][], [][]1261[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1317[][], [][]1442[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1446[][], [][]1450[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1527[][], [][]1565[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1779[][], [][]1783[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1789[][], [][]1793[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1796[][], [][]1800[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 1817[][], [][]1820[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2022[][], [][]2024[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2026[][], [][]2028[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2030[][], [][]2035[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2037[][], [][]2039[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2040[][], [][]2042[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2044[][], [][]2046[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2048[][], [][]2050[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2051[][], [][]2053[][]--
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2055[][], [][]2060[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--208
-[][]\OT1/cmr/m/n/10 2062[][], [][]2065[][],
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2162]
-Underfull \hbox (badness 2165) in paragraph at lines 209--211
-[]| \OT1/cmr/m/n/10 t^^Secnicas, [][]178[][], [][]454[][],
- []
-
-
-Underfull \hbox (badness 7064) in paragraph at lines 211--212
-[]| \OT1/cmr/m/n/10 Te-o-ria Yin Yang,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
-[]| \OT1/cmr/m/n/10 ZANG-FU, [][]462[][],
- []
-
-
-Underfull \hbox (badness 1163) in paragraph at lines 213--214
-[]| \OT1/cmr/m/n/10 Zang-Fu, [][]743[][], [][]745[][],
- []
-
-
-Underfull \hbox (badness 3568) in paragraph at lines 220--222
-[]\OT1/cmr/m/n/10 neuralgia do trig^emeo,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
-[]\OT1/cmr/m/n/10 neuralgia in-ter-cos-tal,
- []
-
-
-Underfull \vbox (badness 1242) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
-[]| \OT1/cmr/m/n/10 cri-ses con-vul-si-vas,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-\OT1/cmr/m/n/10 pun-tura, [][]145[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 147[][], [][]151[][], [][]157[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 166[][], [][]170[][], [][]270[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 290[][], [][]294[][], [][]300[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 304[][], [][]311[][], [][]596[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 599[][], [][]602[][], [][]607[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 611[][], [][]618[][], [][]624[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 828[][], [][]837[][], [][]843[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 847[][], [][]851[][], [][]857[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 860[][], [][]864[][], [][]867[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1057[][], [][]1060[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1069[][], [][]1072[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1082[][], [][]1089[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1094[][], [][]1097[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1385[][], [][]1393[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1397[][], [][]1403[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1408[][], [][]1415[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1420[][], [][]1425[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1430[][], [][]1434[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1539[][], [][]1542[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1697[][], [][]1703[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1708[][], [][]1713[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1720[][], [][]1726[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1736[][], [][]1740[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1743[][], [][]1747[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 1761[][], [][]2092[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 2097[][], [][]2100[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--253
-[][]\OT1/cmr/m/n/10 2111[][], [][]2114[][],
- []
-
-[2163]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
-[]| \OT1/cmr/m/n/10 me-ral-gia pa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
-\OT1/cmr/m/n/10 rest^^Sesica,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
-[]| \OT1/cmr/m/n/10 Neu-ral-gia do
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
-\OT1/cmr/m/n/10 Trig^emeo,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 265--267
-[]\OT1/cmr/m/n/10 paralisia fa-cial, [][]888[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
-[]\OT1/cmr/m/n/10 Polimialgia reum^^Satica,
- []
-
-
-Underfull \hbox (badness 2073) in paragraph at lines 269--284
-[]\OT1/cmr/m/n/10 pontos, [][]62[][], [][]64[][]--[][]66[][], [][]68[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 273[][], [][]275[][], [][]277[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 279[][], [][]503[][], [][]505[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 506[][], [][]509[][], [][]511[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 649[][], [][]754[][], [][]763[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 765[][], [][]768[][], [][]979[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1022[][], [][]1031[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1033[][], [][]1035[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1037[][], [][]1039[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1045[][], [][]1329[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1332[][], [][]1334[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1337[][], [][]1643[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1646[][], [][]1648[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1651[][], [][]1652[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1977[][], [][]1994[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1996[][], [][]1997[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 1999[][], [][]2000[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 2053[][], [][]2055[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--284
-[][]\OT1/cmr/m/n/10 2069[][]--[][]2071[][],
- []
-
-[2164]
-Underfull \hbox (badness 10000) in paragraph at lines 285--289
-[]\OT1/cmr/m/n/10 psiquiatria, [][]219[][], [][]349[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 285--289
-[][]\OT1/cmr/m/n/10 560[][], [][]731[][], [][]928[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 285--289
-[][]\OT1/cmr/m/n/10 1003[][], [][]1814[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 285--289
-[][]\OT1/cmr/m/n/10 1862[][], [][]1874[][],
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 289--290
-[]| \OT1/cmr/m/n/10 de-press~ao, [][]1288[][],
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 306--311
-[]\OT1/cmr/m/n/10 S^^S^^Pndrome Bi, [][]96[][], [][]203[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 306--311
-[][]\OT1/cmr/m/n/10 395[][], [][]458[][], [][]662[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--311
-[][]\OT1/cmr/m/n/10 1498[][], [][]1505[][],
- []
-
-[2165]
-Underfull \hbox (badness 4726) in paragraph at lines 311--313
-[]\OT1/cmr/m/n/10 S^^S^^Pndrome do In-tes-tino
- []
-
-
-Underfull \hbox (badness 2073) in paragraph at lines 311--313
-\OT1/cmr/m/n/10 Ir-rit^^Savel, [][]1454[][],
- []
-
-
-Underfull \hbox (badness 3240) in paragraph at lines 314--316
-[]\OT1/cmr/m/n/10 s^^S^^Pndrome do t^^Sunel do
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--316
-\OT1/cmr/m/n/10 carpo, [][]720[][],
- []
-
-
-Underfull \hbox (badness 1590) in paragraph at lines 333--335
-[]\OT1/cmr/m/n/10 Tenossinovite de Quer-
- []
-
-
-Underfull \hbox (badness 3557) in paragraph at lines 337--339
-[]\OT1/cmr/m/n/10 tosse, [][]679[][], [][]981[][], [][]1108[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 343--346
-[][]\OT1/cmr/m/n/10 1264[][], [][]1531[][],
- []
-
-
-Underfull \hbox (badness 1838) in paragraph at lines 350--353
-[][]\OT1/cmr/m/n/10 451[][], [][]647[][], [][]769[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--353
-[][]\OT1/cmr/m/n/10 1349[][], [][]1353[][],
- []
-
-[2166]
-Underfull \hbox (badness 10000) in paragraph at lines 359--363
-[]\OT1/cmr/m/n/10 Zang-Fu, [][]800[][], [][]1100[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--363
-[][]\OT1/cmr/m/n/10 1103[][], [][]1367[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--363
-[][]\OT1/cmr/m/n/10 1372[][], [][]1379[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--363
-[][]\OT1/cmr/m/n/10 1438[][], [][]1472[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 359--363
-[][]\OT1/cmr/m/n/10 1670[][], [][]1676[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--366
-[]\OT1/cmr/m/n/10 zumbido, [][]135[][], [][]1024[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--366
-[][]\OT1/cmr/m/n/10 1165[][], [][]1582[][],
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--366
-[][]\OT1/cmr/m/n/10 1694[][], [][]1851[][],
- []
-
-[2167
-
-]) [2168
-
-
-] [2169] [2170] [2171] [2172] [2173] [2174
-
-] [2175] [2176]
+[2155]
+! Undefined control sequence.
+l.9536 \printindex
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[2156] [2157
+
+] [2158] [2159] [2160] [2161] [2162
+
+] [2163] [2164]
 Underfull \hbox (badness 3758) in paragraph at lines 9580--9581
 []\OT1/cmr/m/n/10 Especialista em Acu-pun-tura pelo Col^^Segio
  []
 
-[2177] [2178]
+[2165] [2166]
 Underfull \hbox (badness 3758) in paragraph at lines 9592--9593
 []\OT1/cmr/m/n/10 Especialista em Acu-pun-tura pelo Col^^Segio
  []
 
-[2179]
+[2167]
 Underfull \hbox (badness 3758) in paragraph at lines 9599--9600
 []\OT1/cmr/m/n/10 Especialista em Acu-pun-tura pelo Col^^Segio
  []
 
-[2180]
+[2168]
 Underfull \hbox (badness 4193) in paragraph at lines 9605--9606
 []\OT1/cmr/m/n/10 Especialista em Acu-pun-tura M^^Sedica pelo
  []
 
-[2181] [2182] [2183] [2184] (./ebook.bbl [2185
+[2169] [2170] [2171] [2172] (./ebook.bbl [2173
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9648.
- [2186]
+ [2174]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 9648.
  (./ebook.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 9648.
@@ -30236,13 +29371,13 @@ Package rerunfilecheck Info: File `ebook.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9648.
  ) 
 Here is how much of TeX's memory you used:
- 12449 strings out of 480906
- 164180 string characters out of 5910772
- 524658 words of memory out of 5000000
- 25037 multiletter control sequences out of 15000+600000
+ 11821 strings out of 480906
+ 156545 string characters out of 5910772
+ 513200 words of memory out of 5000000
+ 24451 multiletter control sequences out of 15000+600000
  545584 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,9n,37p,5273b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,9n,37p,5273b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
@@ -30260,10 +29395,10 @@ ist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.
 pfb>
-Output written on ebook.pdf (2188 pages, 2808829 bytes).
+Output written on ebook.pdf (2176 pages, 2779693 bytes).
 PDF statistics:
- 13500 PDF objects out of 15390 (max. 8388607)
- 11180 compressed objects within 112 object streams
- 2812 named destinations out of 2984 (max. 500000)
+ 12835 PDF objects out of 15390 (max. 8388607)
+ 10533 compressed objects within 106 object streams
+ 2800 named destinations out of 2984 (max. 500000)
  4582 words of extra memory for PDF output out of 10000 (max. 10000000)
 
