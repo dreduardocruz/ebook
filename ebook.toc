@@ -570,4 +570,4 @@
 \contentsline {chapter}{\numberline {9}Acupontos}{2119}{chapter.9}%
 \contentsline {chapter}{\numberline {10}Auriculoterapia Chinesa}{2137}{chapter.10}%
 \contentsline {chapter}{\numberline {11}Eletroacupuntura}{2149}{chapter.11}%
-\contentsline {chapter}{Refer\IeC {\^e}ncias}{2183}{part*.568}%
+\contentsline {chapter}{Refer\IeC {\^e}ncias}{2185}{part*.568}%

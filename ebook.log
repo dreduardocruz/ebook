@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.25)  10 FEB 2021 10:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.1.25)  10 FEB 2021 10:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -30201,31 +30201,26 @@ Underfull \hbox (badness 3758) in paragraph at lines 9569--9570
 []\OT1/cmr/m/n/10 Especialista em Acu-pun-tura pelo Col^^Segio
  []
 
-[2177]
+[2177] [2178]
 Underfull \hbox (badness 3758) in paragraph at lines 9581--9582
 []\OT1/cmr/m/n/10 Especialista em Acu-pun-tura pelo Col^^Segio
  []
 
-
+[2179]
 Underfull \hbox (badness 3758) in paragraph at lines 9588--9589
 []\OT1/cmr/m/n/10 Especialista em Acu-pun-tura pelo Col^^Segio
  []
 
-
-Underfull \hbox (badness 1796) in paragraph at lines 9591--9592
-[]\OT1/cmr/bx/n/14.4 Luciano Ri-cardo Cu-ruci de
- []
-
-[2178]
+[2180]
 Underfull \hbox (badness 4193) in paragraph at lines 9594--9595
 []\OT1/cmr/m/n/10 Especialista em Acu-pun-tura M^^Sedica pelo
  []
 
-[2179] [2180] [2181] [2182] (./ebook.bbl [2183
+[2181] [2182] [2183] [2184] (./ebook.bbl [2185
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 9637.
- [2184]
+ [2186]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 9637.
  (./ebook.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 9637.
@@ -30236,8 +30231,8 @@ Package rerunfilecheck Info: File `ebook.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 9637.
  ) 
 Here is how much of TeX's memory you used:
- 12446 strings out of 480906
- 164151 string characters out of 5910772
+ 12448 strings out of 480906
+ 164169 string characters out of 5910772
  524658 words of memory out of 5000000
  25037 multiletter control sequences out of 15000+600000
  545584 words of font info for 68 fonts, out of 8000000 for 9000
@@ -30260,10 +30255,10 @@ ist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.
 pfb>
-Output written on ebook.pdf (2186 pages, 2807104 bytes).
+Output written on ebook.pdf (2188 pages, 2807998 bytes).
 PDF statistics:
- 13490 PDF objects out of 15390 (max. 8388607)
- 11172 compressed objects within 112 object streams
- 2809 named destinations out of 2984 (max. 500000)
+ 13498 PDF objects out of 15390 (max. 8388607)
+ 11178 compressed objects within 112 object streams
+ 2811 named destinations out of 2984 (max. 500000)
  4582 words of extra memory for PDF output out of 10000 (max. 10000000)
 
